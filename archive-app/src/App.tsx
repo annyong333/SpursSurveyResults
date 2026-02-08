@@ -96,7 +96,7 @@ export default function App() {
       <header className="bg-gradient-to-r from-[#132257] to-[#1a2d6b] border-b-2 border-[#d4a843]">
         <div className="max-w-5xl mx-auto px-6 py-5 flex items-center gap-4">
           <img
-            src={`${import.meta.env.BASE_URL}crest.png`}
+            src={`${import.meta.env.BASE_URL}crest.svg`}
             alt="Tottenham Hotspur"
             className="w-12 h-12 object-contain bg-white rounded-full p-1"
           />
