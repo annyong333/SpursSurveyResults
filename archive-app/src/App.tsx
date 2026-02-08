@@ -96,9 +96,9 @@ export default function App() {
       <header className="bg-gradient-to-r from-[#132257] to-[#1a2d6b] border-b-2 border-[#d4a843]">
         <div className="max-w-5xl mx-auto px-6 py-5 flex items-center gap-4">
           <img
-            src="https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/Tottenham_Hotspur.svg/48px-Tottenham_Hotspur.svg.png"
+            src={`${import.meta.env.BASE_URL}crest.png`}
             alt="Tottenham Hotspur"
-            className="w-12 h-12 object-contain"
+            className="w-12 h-12 object-contain bg-white rounded-full p-1"
           />
           <div>
             <Link to="/" className="text-xl font-bold text-white hover:text-[#d4a843] transition-colors">
