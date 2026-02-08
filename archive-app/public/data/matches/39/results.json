@@ -6,9 +6,9 @@
     "matchday": "Fourth round proper",
     "date": "2025-02-09",
     "venue": "Villa Park",
-    "home_score": 0,
-    "away_score": 2,
-    "is_tottenham_home": false
+    "spurs_score": 0,
+    "opponent_score": 2,
+    "home_away": "Away"
   },
   "formation": "",
   "team_rating": {

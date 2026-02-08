@@ -6,9 +6,9 @@
     "matchday": "Semi-finals",
     "date": "2025-02-06",
     "venue": "Anfield",
-    "home_score": 0,
-    "away_score": 4,
-    "is_tottenham_home": false
+    "spurs_score": 0,
+    "opponent_score": 4,
+    "home_away": "Away"
   },
   "formation": "",
   "team_rating": {

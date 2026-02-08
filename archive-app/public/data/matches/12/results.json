@@ -6,9 +6,9 @@
     "matchday": "League phase",
     "date": "2024-10-24",
     "venue": "AFAS Stadion",
-    "home_score": 1,
-    "away_score": 0,
-    "is_tottenham_home": false
+    "spurs_score": 1,
+    "opponent_score": 0,
+    "home_away": "Away"
   },
   "formation": "",
   "team_rating": {

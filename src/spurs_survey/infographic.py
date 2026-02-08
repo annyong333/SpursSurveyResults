@@ -270,14 +270,14 @@ def _draw_left_sidebar(
     y = _draw_text_centered(draw, f"{meta.venue}  •  {meta.date}", cx, y, font_sm, LIGHT_GRAY) + 16
 
     # Score block
-    if meta.is_tottenham_home:
+    if meta.is_tottenham_home is None or meta.is_tottenham_home:
         left_team, right_team = "TOTTENHAM", meta.opponent.upper()
-        left_score, right_score = meta.home_score, meta.away_score
+        left_score, right_score = meta.spurs_score, meta.opponent_score
         left_rating = results.team_rating
         right_rating = results.opponent_rating
     else:
         left_team, right_team = meta.opponent.upper(), "TOTTENHAM"
-        left_score, right_score = meta.home_score, meta.away_score
+        left_score, right_score = meta.opponent_score, meta.spurs_score
         left_rating = results.opponent_rating
         right_rating = results.team_rating
 

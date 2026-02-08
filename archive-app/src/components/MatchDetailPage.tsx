@@ -11,9 +11,9 @@ interface RawMatchDetail {
         matchday: string;
         date: string;
         venue: string;
-        home_score: number;
-        away_score: number;
-        is_tottenham_home: boolean;
+        spurs_score: number;
+        opponent_score: number;
+        home_away: string;
     };
     formation: string;
     team_rating: { mean: number; std_dev: number };
@@ -54,13 +54,9 @@ interface RawMatchDetail {
 
 function parseDetail(raw: RawMatchDetail): Match {
     const m = raw.metadata;
-    const isHome = m.is_tottenham_home;
-    const spursScore = isHome ? m.home_score : m.away_score;
-    const oppScore = isHome ? m.away_score : m.home_score;
-    const score = isHome
-        ? `${m.home_score} - ${m.away_score}`
-        : `${m.away_score} - ${m.home_score}`;
-    const result = spursScore > oppScore ? 'W' : spursScore < oppScore ? 'L' : 'D';
+    const score = `${m.spurs_score} - ${m.opponent_score}`;
+    const result = m.spurs_score > m.opponent_score ? 'W'
+        : m.spurs_score < m.opponent_score ? 'L' : 'D';
 
     const allPlayers = [...raw.starting_players, ...raw.substitute_players];
     const playerRatings: PlayerRating[] = allPlayers.map((p) => ({
@@ -83,12 +79,11 @@ function parseDetail(raw: RawMatchDetail): Match {
         matchday: m.matchday,
         date: m.date,
         venue: m.venue,
-        homeScore: m.home_score,
-        awayScore: m.away_score,
-        isTottenhamHome: m.is_tottenham_home,
+        spursScore: m.spurs_score,
+        opponentScore: m.opponent_score,
+        homeAway: m.home_away as Match['homeAway'],
         score,
         result,
-        homeAway: isHome ? 'Home' : 'Away',
         averageRating: raw.overall_rating,
         totalVotes: raw.total_responses,
         motm: raw.motm_winners.join(', '),

@@ -34,13 +34,14 @@ def excel_date(val) -> str:
 
 
 def build_results_lookup() -> dict[tuple[str, str], tuple]:
-    """Build a lookup from (date, opponent) -> (home_score, away_score, is_home, venue).
+    """Build a lookup from (date, opponent) -> (spurs_score, opp_score, is_home, venue).
 
-    The opponent key uses the spreadsheet-style name (with country prefix for European matches).
+    Scores are always Tottenham first, opponent second.
+    is_home can be True, False, or None (neutral venue).
     """
     lookup = {}
-    for date, opp, home_score, away_score, is_home, venue in RESULTS:
-        lookup[(date, opp)] = (home_score, away_score, is_home, venue)
+    for date, opp, spurs_score, opp_score, is_home, venue in RESULTS:
+        lookup[(date, opp)] = (spurs_score, opp_score, is_home, venue)
     return lookup
 
 
@@ -130,10 +131,18 @@ def main():
         # Look up actual match result
         result_data = results_lookup.get((date_str, opponent))
         if result_data:
-            home_score, away_score, is_home, venue = result_data
+            spurs_score, opp_score, is_home, venue = result_data
         else:
             print(f"  WARNING: No result found for {date_str} vs {opponent}")
-            home_score, away_score, is_home, venue = 0, 0, True, ""
+            spurs_score, opp_score, is_home, venue = 0, 0, True, ""
+
+        # home_away: "Home", "Away", or "Neutral"
+        if is_home is None:
+            home_away = "Neutral"
+        elif is_home:
+            home_away = "Home"
+        else:
+            home_away = "Away"
 
         detail = {
             "match_id": match_id,
@@ -143,9 +152,9 @@ def main():
                 "matchday": rnd,
                 "date": date_str,
                 "venue": venue,
-                "home_score": home_score,
-                "away_score": away_score,
-                "is_tottenham_home": is_home,
+                "spurs_score": spurs_score,
+                "opponent_score": opp_score,
+                "home_away": home_away,
             },
             "formation": "",
             "team_rating": team_rating or defaults,
@@ -173,9 +182,9 @@ def main():
             "matchday": rnd,
             "date": date_str,
             "venue": venue,
-            "home_score": home_score,
-            "away_score": away_score,
-            "is_tottenham_home": is_home,
+            "spurs_score": spurs_score,
+            "opponent_score": opp_score,
+            "home_away": home_away,
         })
 
     # Sort most recent first

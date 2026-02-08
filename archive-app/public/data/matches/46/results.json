@@ -6,9 +6,9 @@
     "matchday": "Matchweek 29",
     "date": "2025-03-16",
     "venue": "Craven Cottage",
-    "home_score": 2,
-    "away_score": 0,
-    "is_tottenham_home": false
+    "spurs_score": 2,
+    "opponent_score": 0,
+    "home_away": "Away"
   },
   "formation": "",
   "team_rating": {

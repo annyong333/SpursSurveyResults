@@ -11,19 +11,15 @@ interface RawMatchIndex {
   matchday: string;
   date: string;
   venue: string;
-  home_score: number;
-  away_score: number;
-  is_tottenham_home: boolean;
+  spurs_score: number;
+  opponent_score: number;
+  home_away: string;
 }
 
 function parseMatch(raw: RawMatchIndex): Match {
-  const isHome = raw.is_tottenham_home;
-  const spursScore = isHome ? raw.home_score : raw.away_score;
-  const oppScore = isHome ? raw.away_score : raw.home_score;
-  const score = isHome
-    ? `${raw.home_score} - ${raw.away_score}`
-    : `${raw.away_score} - ${raw.home_score}`;
-  const result = spursScore > oppScore ? 'W' : spursScore < oppScore ? 'L' : 'D';
+  const score = `${raw.spurs_score} - ${raw.opponent_score}`;
+  const result = raw.spurs_score > raw.opponent_score ? 'W'
+    : raw.spurs_score < raw.opponent_score ? 'L' : 'D';
 
   return {
     matchId: raw.match_id,
@@ -32,12 +28,11 @@ function parseMatch(raw: RawMatchIndex): Match {
     matchday: raw.matchday,
     date: raw.date,
     venue: raw.venue,
-    homeScore: raw.home_score,
-    awayScore: raw.away_score,
-    isTottenhamHome: raw.is_tottenham_home,
+    spursScore: raw.spurs_score,
+    opponentScore: raw.opponent_score,
+    homeAway: raw.home_away as Match['homeAway'],
     score,
     result,
-    homeAway: isHome ? 'Home' : 'Away',
     averageRating: 0,
     totalVotes: 0,
     motm: '',

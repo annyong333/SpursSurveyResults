@@ -6,9 +6,9 @@
     "matchday": "League phase",
     "date": "2024-11-28",
     "venue": "Stadio Olimpico",
-    "home_score": 2,
-    "away_score": 2,
-    "is_tottenham_home": false
+    "spurs_score": 2,
+    "opponent_score": 2,
+    "home_away": "Away"
   },
   "formation": "",
   "team_rating": {

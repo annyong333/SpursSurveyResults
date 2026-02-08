@@ -189,7 +189,25 @@ class MatchMetadata:
     venue: str
     home_score: int
     away_score: int
-    is_tottenham_home: bool
+    is_tottenham_home: bool | None  # None = neutral venue
+
+    @property
+    def spurs_score(self) -> int:
+        if self.is_tottenham_home is None or self.is_tottenham_home:
+            return self.home_score
+        return self.away_score
+
+    @property
+    def opponent_score(self) -> int:
+        if self.is_tottenham_home is None or self.is_tottenham_home:
+            return self.away_score
+        return self.home_score
+
+    @property
+    def home_away(self) -> str:
+        if self.is_tottenham_home is None:
+            return "Neutral"
+        return "Home" if self.is_tottenham_home else "Away"
 
     def to_dict(self) -> dict:
         return {
@@ -198,22 +216,36 @@ class MatchMetadata:
             "matchday": self.matchday,
             "date": self.date,
             "venue": self.venue,
-            "home_score": self.home_score,
-            "away_score": self.away_score,
-            "is_tottenham_home": self.is_tottenham_home,
+            "spurs_score": self.spurs_score,
+            "opponent_score": self.opponent_score,
+            "home_away": self.home_away,
         }
 
     @classmethod
     def from_dict(cls, d: dict) -> MatchMetadata:
+        # Support both old format (home_score/away_score) and new format (spurs_score/opponent_score)
+        if "spurs_score" in d:
+            ha = d.get("home_away", "Home")
+            is_home = None if ha == "Neutral" else ha == "Home"
+            if is_home is None or is_home:
+                home_score = d["spurs_score"]
+                away_score = d["opponent_score"]
+            else:
+                home_score = d["opponent_score"]
+                away_score = d["spurs_score"]
+        else:
+            home_score = d["home_score"]
+            away_score = d["away_score"]
+            is_home = d.get("is_tottenham_home", True)
         return cls(
             opponent=d["opponent"],
             competition=d["competition"],
             matchday=d["matchday"],
             date=d["date"],
             venue=d["venue"],
-            home_score=d["home_score"],
-            away_score=d["away_score"],
-            is_tottenham_home=d["is_tottenham_home"],
+            home_score=home_score,
+            away_score=away_score,
+            is_tottenham_home=is_home,
         )
 
 

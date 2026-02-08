@@ -6,9 +6,9 @@
     "matchday": "Matchweek 14",
     "date": "2024-12-05",
     "venue": "Dean Court",
-    "home_score": 1,
-    "away_score": 0,
-    "is_tottenham_home": false
+    "spurs_score": 1,
+    "opponent_score": 0,
+    "home_away": "Away"
   },
   "formation": "",
   "team_rating": {

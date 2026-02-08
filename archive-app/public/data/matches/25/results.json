@@ -6,9 +6,9 @@
     "matchday": "Quarter-finals",
     "date": "2024-12-19",
     "venue": "Tottenham Hotspur Stadium",
-    "home_score": 4,
-    "away_score": 3,
-    "is_tottenham_home": true
+    "spurs_score": 4,
+    "opponent_score": 3,
+    "home_away": "Home"
   },
   "formation": "",
   "team_rating": {

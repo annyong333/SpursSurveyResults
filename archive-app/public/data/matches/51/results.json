@@ -6,9 +6,9 @@
     "matchday": "Quarter-finals",
     "date": "2025-04-17",
     "venue": "Deutsche Bank Park",
-    "home_score": 1,
-    "away_score": 1,
-    "is_tottenham_home": false
+    "spurs_score": 1,
+    "opponent_score": 1,
+    "home_away": "Away"
   },
   "formation": "",
   "team_rating": {

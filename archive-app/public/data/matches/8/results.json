@@ -6,9 +6,9 @@
     "matchday": "Matchweek 6",
     "date": "2024-09-29",
     "venue": "Old Trafford",
-    "home_score": 0,
-    "away_score": 3,
-    "is_tottenham_home": false
+    "spurs_score": 0,
+    "opponent_score": 3,
+    "home_away": "Away"
   },
   "formation": "",
   "team_rating": {

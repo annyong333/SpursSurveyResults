@@ -6,9 +6,9 @@
     "matchday": "Matchweek 35",
     "date": "2025-05-03",
     "venue": "London Stadium",
-    "home_score": 2,
-    "away_score": 1,
-    "is_tottenham_home": false
+    "spurs_score": 2,
+    "opponent_score": 1,
+    "home_away": "Away"
   },
   "formation": "",
   "team_rating": {

@@ -18,12 +18,11 @@ export interface Match {
     matchday: string;
     date: string;
     venue: string;
-    homeScore: number;
-    awayScore: number;
-    isTottenhamHome: boolean;
+    spursScore: number;
+    opponentScore: number;
+    homeAway: 'Home' | 'Away' | 'Neutral';
     score: string;
     result: 'W' | 'L' | 'D';
-    homeAway: string;
     averageRating: number;
     totalVotes: number;
     motm: string;

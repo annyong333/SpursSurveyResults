@@ -6,9 +6,9 @@
     "matchday": "Matchweek 33",
     "date": "2025-04-19",
     "venue": "Tottenham Hotspur Stadium",
-    "home_score": 1,
-    "away_score": 2,
-    "is_tottenham_home": true
+    "spurs_score": 1,
+    "opponent_score": 2,
+    "home_away": "Home"
   },
   "formation": "",
   "team_rating": {

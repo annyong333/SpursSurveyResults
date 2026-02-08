@@ -6,9 +6,9 @@
     "matchday": "Matchweek 32",
     "date": "2025-04-12",
     "venue": "Molineux Stadium",
-    "home_score": 4,
-    "away_score": 2,
-    "is_tottenham_home": false
+    "spurs_score": 4,
+    "opponent_score": 2,
+    "home_away": "Away"
   },
   "formation": "",
   "team_rating": {

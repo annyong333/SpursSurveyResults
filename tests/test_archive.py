@@ -20,9 +20,9 @@ _match_entry = st.fixed_dictionaries({
     "matchday": st.text(min_size=1, max_size=10),
     "date": st.dates().map(lambda d: d.isoformat()),
     "venue": st.text(min_size=1, max_size=30),
-    "home_score": st.integers(min_value=0, max_value=9),
-    "away_score": st.integers(min_value=0, max_value=9),
-    "is_tottenham_home": st.booleans(),
+    "spurs_score": st.integers(min_value=0, max_value=9),
+    "opponent_score": st.integers(min_value=0, max_value=9),
+    "home_away": st.sampled_from(["Home", "Away", "Neutral"]),
 })
 
 _match_list = st.lists(_match_entry, min_size=0, max_size=30)

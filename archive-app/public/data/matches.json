@@ -6,9 +6,9 @@
     "matchday": "Matchweek 38",
     "date": "2025-05-25",
     "venue": "Tottenham Hotspur Stadium",
-    "home_score": 1,
-    "away_score": 3,
-    "is_tottenham_home": true
+    "spurs_score": 1,
+    "opponent_score": 3,
+    "home_away": "Home"
   },
   {
     "match_id": 59,
@@ -17,9 +17,9 @@
     "matchday": "Final",
     "date": "2025-05-21",
     "venue": "San Mam\u00e9s Stadium",
-    "home_score": 1,
-    "away_score": 0,
-    "is_tottenham_home": false
+    "spurs_score": 1,
+    "opponent_score": 0,
+    "home_away": "Neutral"
   },
   {
     "match_id": 58,
@@ -28,9 +28,9 @@
     "matchday": "Matchweek 37",
     "date": "2025-05-18",
     "venue": "Villa Park",
-    "home_score": 1,
-    "away_score": 0,
-    "is_tottenham_home": false
+    "spurs_score": 1,
+    "opponent_score": 0,
+    "home_away": "Away"
   },
   {
     "match_id": 57,
@@ -39,9 +39,9 @@
     "matchday": "Matchweek 36",
     "date": "2025-05-10",
     "venue": "Tottenham Hotspur Stadium",
-    "home_score": 2,
-    "away_score": 0,
-    "is_tottenham_home": true
+    "spurs_score": 2,
+    "opponent_score": 0,
+    "home_away": "Home"
   },
   {
     "match_id": 56,
@@ -50,9 +50,9 @@
     "matchday": "Semi-finals",
     "date": "2025-05-08",
     "venue": "Aspmyra Stadion",
-    "home_score": 2,
-    "away_score": 0,
-    "is_tottenham_home": false
+    "spurs_score": 2,
+    "opponent_score": 0,
+    "home_away": "Away"
   },
   {
     "match_id": 55,
@@ -61,9 +61,9 @@
     "matchday": "Matchweek 35",
     "date": "2025-05-03",
     "venue": "London Stadium",
-    "home_score": 2,
-    "away_score": 1,
-    "is_tottenham_home": false
+    "spurs_score": 2,
+    "opponent_score": 1,
+    "home_away": "Away"
   },
   {
     "match_id": 54,
@@ -72,9 +72,9 @@
     "matchday": "Semi-finals",
     "date": "2025-05-01",
     "venue": "Tottenham Hotspur Stadium",
-    "home_score": 3,
-    "away_score": 1,
-    "is_tottenham_home": true
+    "spurs_score": 3,
+    "opponent_score": 1,
+    "home_away": "Home"
   },
   {
     "match_id": 53,
@@ -83,9 +83,9 @@
     "matchday": "Matchweek 34",
     "date": "2025-04-26",
     "venue": "Anfield",
-    "home_score": 5,
-    "away_score": 1,
-    "is_tottenham_home": false
+    "spurs_score": 1,
+    "opponent_score": 5,
+    "home_away": "Away"
   },
   {
     "match_id": 52,
@@ -94,9 +94,9 @@
     "matchday": "Matchweek 33",
     "date": "2025-04-19",
     "venue": "Tottenham Hotspur Stadium",
-    "home_score": 1,
-    "away_score": 2,
-    "is_tottenham_home": true
+    "spurs_score": 1,
+    "opponent_score": 2,
+    "home_away": "Home"
   },
   {
     "match_id": 51,
@@ -105,9 +105,9 @@
     "matchday": "Quarter-finals",
     "date": "2025-04-17",
     "venue": "Deutsche Bank Park",
-    "home_score": 1,
-    "away_score": 1,
-    "is_tottenham_home": false
+    "spurs_score": 1,
+    "opponent_score": 1,
+    "home_away": "Away"
   },
   {
     "match_id": 50,
@@ -116,9 +116,9 @@
     "matchday": "Matchweek 32",
     "date": "2025-04-12",
     "venue": "Molineux Stadium",
-    "home_score": 4,
-    "away_score": 2,
-    "is_tottenham_home": false
+    "spurs_score": 4,
+    "opponent_score": 2,
+    "home_away": "Away"
   },
   {
     "match_id": 49,
@@ -127,9 +127,9 @@
     "matchday": "Quarter-finals",
     "date": "2025-04-10",
     "venue": "Tottenham Hotspur Stadium",
-    "home_score": 1,
-    "away_score": 0,
-    "is_tottenham_home": true
+    "spurs_score": 1,
+    "opponent_score": 0,
+    "home_away": "Home"
   },
   {
     "match_id": 48,
@@ -138,9 +138,9 @@
     "matchday": "Matchweek 31",
     "date": "2025-04-05",
     "venue": "Tottenham Hotspur Stadium",
-    "home_score": 3,
-    "away_score": 1,
-    "is_tottenham_home": true
+    "spurs_score": 3,
+    "opponent_score": 1,
+    "home_away": "Home"
   },
   {
     "match_id": 47,
@@ -149,9 +149,9 @@
     "matchday": "Matchweek 30",
     "date": "2025-04-02",
     "venue": "Stamford Bridge",
-    "home_score": 1,
-    "away_score": 0,
-    "is_tottenham_home": false
+    "spurs_score": 1,
+    "opponent_score": 0,
+    "home_away": "Away"
   },
   {
     "match_id": 46,
@@ -160,9 +160,9 @@
     "matchday": "Matchweek 29",
     "date": "2025-03-16",
     "venue": "Craven Cottage",
-    "home_score": 2,
-    "away_score": 0,
-    "is_tottenham_home": false
+    "spurs_score": 2,
+    "opponent_score": 0,
+    "home_away": "Away"
   },
   {
     "match_id": 45,
@@ -171,9 +171,9 @@
     "matchday": "Round of 16",
     "date": "2025-03-13",
     "venue": "AFAS Stadion",
-    "home_score": 3,
-    "away_score": 2,
-    "is_tottenham_home": false
+    "spurs_score": 3,
+    "opponent_score": 2,
+    "home_away": "Away"
   },
   {
     "match_id": 44,
@@ -182,9 +182,9 @@
     "matchday": "Matchweek 28",
     "date": "2025-03-09",
     "venue": "Tottenham Hotspur Stadium",
-    "home_score": 2,
-    "away_score": 2,
-    "is_tottenham_home": true
+    "spurs_score": 2,
+    "opponent_score": 2,
+    "home_away": "Home"
   },
   {
     "match_id": 43,
@@ -193,9 +193,9 @@
     "matchday": "Round of 16",
     "date": "2025-03-06",
     "venue": "Tottenham Hotspur Stadium",
-    "home_score": 1,
-    "away_score": 0,
-    "is_tottenham_home": true
+    "spurs_score": 1,
+    "opponent_score": 0,
+    "home_away": "Home"
   },
   {
     "match_id": 42,
@@ -204,9 +204,9 @@
     "matchday": "Matchweek 27",
     "date": "2025-02-26",
     "venue": "Tottenham Hotspur Stadium",
-    "home_score": 0,
-    "away_score": 1,
-    "is_tottenham_home": true
+    "spurs_score": 0,
+    "opponent_score": 1,
+    "home_away": "Home"
   },
   {
     "match_id": 41,
@@ -215,9 +215,9 @@
     "matchday": "Matchweek 26",
     "date": "2025-02-22",
     "venue": "Portman Road",
-    "home_score": 1,
-    "away_score": 4,
-    "is_tottenham_home": false
+    "spurs_score": 4,
+    "opponent_score": 1,
+    "home_away": "Away"
   },
   {
     "match_id": 40,
@@ -226,9 +226,9 @@
     "matchday": "Matchweek 25",
     "date": "2025-02-16",
     "venue": "Tottenham Hotspur Stadium",
-    "home_score": 1,
-    "away_score": 0,
-    "is_tottenham_home": true
+    "spurs_score": 1,
+    "opponent_score": 0,
+    "home_away": "Home"
   },
   {
     "match_id": 39,
@@ -237,9 +237,9 @@
     "matchday": "Fourth round proper",
     "date": "2025-02-09",
     "venue": "Villa Park",
-    "home_score": 0,
-    "away_score": 2,
-    "is_tottenham_home": false
+    "spurs_score": 0,
+    "opponent_score": 2,
+    "home_away": "Away"
   },
   {
     "match_id": 38,
@@ -248,9 +248,9 @@
     "matchday": "Semi-finals",
     "date": "2025-02-06",
     "venue": "Anfield",
-    "home_score": 0,
-    "away_score": 4,
-    "is_tottenham_home": false
+    "spurs_score": 0,
+    "opponent_score": 4,
+    "home_away": "Away"
   },
   {
     "match_id": 37,
@@ -259,9 +259,9 @@
     "matchday": "Matchweek 24",
     "date": "2025-02-02",
     "venue": "Brentford Community Stadium",
-    "home_score": 0,
-    "away_score": 2,
-    "is_tottenham_home": false
+    "spurs_score": 0,
+    "opponent_score": 2,
+    "home_away": "Away"
   },
   {
     "match_id": 36,
@@ -270,9 +270,9 @@
     "matchday": "League phase",
     "date": "2025-01-30",
     "venue": "Tottenham Hotspur Stadium",
-    "home_score": 3,
-    "away_score": 0,
-    "is_tottenham_home": true
+    "spurs_score": 3,
+    "opponent_score": 0,
+    "home_away": "Home"
   },
   {
     "match_id": 35,
@@ -281,9 +281,9 @@
     "matchday": "Matchweek 23",
     "date": "2025-01-26",
     "venue": "Tottenham Hotspur Stadium",
-    "home_score": 1,
-    "away_score": 2,
-    "is_tottenham_home": true
+    "spurs_score": 1,
+    "opponent_score": 2,
+    "home_away": "Home"
   },
   {
     "match_id": 34,
@@ -292,9 +292,9 @@
     "matchday": "League phase",
     "date": "2025-01-23",
     "venue": "Tottenham Hotspur Stadium",
-    "home_score": 3,
-    "away_score": 0,
-    "is_tottenham_home": true
+    "spurs_score": 3,
+    "opponent_score": 0,
+    "home_away": "Home"
   },
   {
     "match_id": 33,
@@ -303,9 +303,9 @@
     "matchday": "Matchweek 22",
     "date": "2025-01-19",
     "venue": "Goodison Park",
-    "home_score": 3,
-    "away_score": 2,
-    "is_tottenham_home": false
+    "spurs_score": 3,
+    "opponent_score": 2,
+    "home_away": "Away"
   },
   {
     "match_id": 32,
@@ -314,9 +314,9 @@
     "matchday": "Matchweek 21",
     "date": "2025-01-15",
     "venue": "Emirates Stadium",
-    "home_score": 2,
-    "away_score": 1,
-    "is_tottenham_home": false
+    "spurs_score": 2,
+    "opponent_score": 1,
+    "home_away": "Away"
   },
   {
     "match_id": 31,
@@ -325,9 +325,9 @@
     "matchday": "Third round proper",
     "date": "2025-01-12",
     "venue": "The Lamb Ground",
-    "home_score": 3,
-    "away_score": 0,
-    "is_tottenham_home": false
+    "spurs_score": 3,
+    "opponent_score": 0,
+    "home_away": "Away"
   },
   {
     "match_id": 30,
@@ -336,9 +336,9 @@
     "matchday": "Semi-finals",
     "date": "2025-01-08",
     "venue": "Tottenham Hotspur Stadium",
-    "home_score": 1,
-    "away_score": 0,
-    "is_tottenham_home": true
+    "spurs_score": 1,
+    "opponent_score": 0,
+    "home_away": "Home"
   },
   {
     "match_id": 29,
@@ -347,9 +347,9 @@
     "matchday": "Matchweek 20",
     "date": "2025-01-04",
     "venue": "Tottenham Hotspur Stadium",
-    "home_score": 1,
-    "away_score": 2,
-    "is_tottenham_home": true
+    "spurs_score": 1,
+    "opponent_score": 2,
+    "home_away": "Home"
   },
   {
     "match_id": 28,
@@ -358,9 +358,9 @@
     "matchday": "Matchweek 19",
     "date": "2024-12-29",
     "venue": "Tottenham Hotspur Stadium",
-    "home_score": 2,
-    "away_score": 2,
-    "is_tottenham_home": true
+    "spurs_score": 2,
+    "opponent_score": 2,
+    "home_away": "Home"
   },
   {
     "match_id": 27,
@@ -369,9 +369,9 @@
     "matchday": "Matchweek 18",
     "date": "2024-12-26",
     "venue": "City Ground",
-    "home_score": 1,
-    "away_score": 0,
-    "is_tottenham_home": false
+    "spurs_score": 1,
+    "opponent_score": 0,
+    "home_away": "Away"
   },
   {
     "match_id": 26,
@@ -380,9 +380,9 @@
     "matchday": "Matchweek 17",
     "date": "2024-12-22",
     "venue": "Tottenham Hotspur Stadium",
-    "home_score": 3,
-    "away_score": 6,
-    "is_tottenham_home": true
+    "spurs_score": 3,
+    "opponent_score": 6,
+    "home_away": "Home"
   },
   {
     "match_id": 25,
@@ -391,9 +391,9 @@
     "matchday": "Quarter-finals",
     "date": "2024-12-19",
     "venue": "Tottenham Hotspur Stadium",
-    "home_score": 4,
-    "away_score": 3,
-    "is_tottenham_home": true
+    "spurs_score": 4,
+    "opponent_score": 3,
+    "home_away": "Home"
   },
   {
     "match_id": 24,
@@ -402,9 +402,9 @@
     "matchday": "Matchweek 16",
     "date": "2024-12-15",
     "venue": "St Mary's Stadium",
-    "home_score": 0,
-    "away_score": 5,
-    "is_tottenham_home": false
+    "spurs_score": 5,
+    "opponent_score": 0,
+    "home_away": "Away"
   },
   {
     "match_id": 23,
@@ -413,9 +413,9 @@
     "matchday": "League phase",
     "date": "2024-12-12",
     "venue": "Ibrox Stadium",
-    "home_score": 1,
-    "away_score": 1,
-    "is_tottenham_home": false
+    "spurs_score": 1,
+    "opponent_score": 1,
+    "home_away": "Away"
   },
   {
     "match_id": 22,
@@ -424,9 +424,9 @@
     "matchday": "Matchweek 15",
     "date": "2024-12-08",
     "venue": "Tottenham Hotspur Stadium",
-    "home_score": 3,
-    "away_score": 4,
-    "is_tottenham_home": true
+    "spurs_score": 3,
+    "opponent_score": 4,
+    "home_away": "Home"
   },
   {
     "match_id": 21,
@@ -435,9 +435,9 @@
     "matchday": "Matchweek 14",
     "date": "2024-12-05",
     "venue": "Dean Court",
-    "home_score": 1,
-    "away_score": 0,
-    "is_tottenham_home": false
+    "spurs_score": 1,
+    "opponent_score": 0,
+    "home_away": "Away"
   },
   {
     "match_id": 20,
@@ -446,9 +446,9 @@
     "matchday": "Matchweek 13",
     "date": "2024-12-01",
     "venue": "Tottenham Hotspur Stadium",
-    "home_score": 1,
-    "away_score": 1,
-    "is_tottenham_home": true
+    "spurs_score": 1,
+    "opponent_score": 1,
+    "home_away": "Home"
   },
   {
     "match_id": 19,
@@ -457,9 +457,9 @@
     "matchday": "League phase",
     "date": "2024-11-28",
     "venue": "Stadio Olimpico",
-    "home_score": 2,
-    "away_score": 2,
-    "is_tottenham_home": false
+    "spurs_score": 2,
+    "opponent_score": 2,
+    "home_away": "Away"
   },
   {
     "match_id": 18,
@@ -468,9 +468,9 @@
     "matchday": "Matchweek 12",
     "date": "2024-11-23",
     "venue": "City of Manchester Stadium",
-    "home_score": 0,
-    "away_score": 4,
-    "is_tottenham_home": false
+    "spurs_score": 0,
+    "opponent_score": 4,
+    "home_away": "Away"
   },
   {
     "match_id": 17,
@@ -479,9 +479,9 @@
     "matchday": "Matchweek 11",
     "date": "2024-11-10",
     "venue": "Tottenham Hotspur Stadium",
-    "home_score": 1,
-    "away_score": 2,
-    "is_tottenham_home": true
+    "spurs_score": 1,
+    "opponent_score": 2,
+    "home_away": "Home"
   },
   {
     "match_id": 16,
@@ -490,9 +490,9 @@
     "matchday": "League phase",
     "date": "2024-11-07",
     "venue": "Tottenham Hotspur Stadium",
-    "home_score": 3,
-    "away_score": 2,
-    "is_tottenham_home": true
+    "spurs_score": 3,
+    "opponent_score": 2,
+    "home_away": "Home"
   },
   {
     "match_id": 15,
@@ -501,9 +501,9 @@
     "matchday": "Matchweek 10",
     "date": "2024-11-03",
     "venue": "Tottenham Hotspur Stadium",
-    "home_score": 4,
-    "away_score": 1,
-    "is_tottenham_home": true
+    "spurs_score": 4,
+    "opponent_score": 1,
+    "home_away": "Home"
   },
   {
     "match_id": 14,
@@ -512,9 +512,9 @@
     "matchday": "Fourth round",
     "date": "2024-10-30",
     "venue": "Tottenham Hotspur Stadium",
-    "home_score": 2,
-    "away_score": 1,
-    "is_tottenham_home": true
+    "spurs_score": 2,
+    "opponent_score": 1,
+    "home_away": "Home"
   },
   {
     "match_id": 13,
@@ -523,9 +523,9 @@
     "matchday": "Matchweek 9",
     "date": "2024-10-27",
     "venue": "Selhurst Park",
-    "home_score": 1,
-    "away_score": 0,
-    "is_tottenham_home": false
+    "spurs_score": 1,
+    "opponent_score": 0,
+    "home_away": "Away"
   },
   {
     "match_id": 12,
@@ -534,9 +534,9 @@
     "matchday": "League phase",
     "date": "2024-10-24",
     "venue": "AFAS Stadion",
-    "home_score": 1,
-    "away_score": 0,
-    "is_tottenham_home": false
+    "spurs_score": 1,
+    "opponent_score": 0,
+    "home_away": "Away"
   },
   {
     "match_id": 11,
@@ -545,9 +545,9 @@
     "matchday": "Matchweek 8",
     "date": "2024-10-19",
     "venue": "Tottenham Hotspur Stadium",
-    "home_score": 4,
-    "away_score": 1,
-    "is_tottenham_home": true
+    "spurs_score": 4,
+    "opponent_score": 1,
+    "home_away": "Home"
   },
   {
     "match_id": 10,
@@ -556,9 +556,9 @@
     "matchday": "Matchweek 7",
     "date": "2024-10-06",
     "venue": "Falmer Stadium",
-    "home_score": 3,
-    "away_score": 2,
-    "is_tottenham_home": false
+    "spurs_score": 3,
+    "opponent_score": 2,
+    "home_away": "Away"
   },
   {
     "match_id": 9,
@@ -567,9 +567,9 @@
     "matchday": "League phase",
     "date": "2024-10-03",
     "venue": "Tottenham Hotspur Stadium",
-    "home_score": 2,
-    "away_score": 1,
-    "is_tottenham_home": true
+    "spurs_score": 2,
+    "opponent_score": 1,
+    "home_away": "Home"
   },
   {
     "match_id": 8,
@@ -578,9 +578,9 @@
     "matchday": "Matchweek 6",
     "date": "2024-09-29",
     "venue": "Old Trafford",
-    "home_score": 0,
-    "away_score": 3,
-    "is_tottenham_home": false
+    "spurs_score": 0,
+    "opponent_score": 3,
+    "home_away": "Away"
   },
   {
     "match_id": 7,
@@ -589,9 +589,9 @@
     "matchday": "League phase",
     "date": "2024-09-26",
     "venue": "Tottenham Hotspur Stadium",
-    "home_score": 3,
-    "away_score": 0,
-    "is_tottenham_home": true
+    "spurs_score": 3,
+    "opponent_score": 0,
+    "home_away": "Home"
   },
   {
     "match_id": 6,
@@ -600,9 +600,9 @@
     "matchday": "Matchweek 5",
     "date": "2024-09-21",
     "venue": "Tottenham Hotspur Stadium",
-    "home_score": 3,
-    "away_score": 1,
-    "is_tottenham_home": true
+    "spurs_score": 3,
+    "opponent_score": 1,
+    "home_away": "Home"
   },
   {
     "match_id": 5,
@@ -611,9 +611,9 @@
     "matchday": "Third round",
     "date": "2024-09-18",
     "venue": "Tottenham Hotspur Stadium",
-    "home_score": 2,
-    "away_score": 1,
-    "is_tottenham_home": true
+    "spurs_score": 2,
+    "opponent_score": 1,
+    "home_away": "Home"
   },
   {
     "match_id": 4,
@@ -622,9 +622,9 @@
     "matchday": "Matchweek 4",
     "date": "2024-09-15",
     "venue": "Tottenham Hotspur Stadium",
-    "home_score": 0,
-    "away_score": 1,
-    "is_tottenham_home": true
+    "spurs_score": 0,
+    "opponent_score": 1,
+    "home_away": "Home"
   },
   {
     "match_id": 3,
@@ -633,9 +633,9 @@
     "matchday": "Matchweek 3",
     "date": "2024-09-01",
     "venue": "St James' Park",
-    "home_score": 2,
-    "away_score": 1,
-    "is_tottenham_home": false
+    "spurs_score": 2,
+    "opponent_score": 1,
+    "home_away": "Away"
   },
   {
     "match_id": 2,
@@ -644,9 +644,9 @@
     "matchday": "Matchweek 2",
     "date": "2024-08-24",
     "venue": "Tottenham Hotspur Stadium",
-    "home_score": 4,
-    "away_score": 0,
-    "is_tottenham_home": true
+    "spurs_score": 4,
+    "opponent_score": 0,
+    "home_away": "Home"
   },
   {
     "match_id": 1,
@@ -655,8 +655,8 @@
     "matchday": "Matchweek 1",
     "date": "2024-08-19",
     "venue": "King Power Stadium",
-    "home_score": 1,
-    "away_score": 1,
-    "is_tottenham_home": false
+    "spurs_score": 1,
+    "opponent_score": 1,
+    "home_away": "Away"
   }
 ]

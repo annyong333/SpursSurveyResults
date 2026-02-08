@@ -6,9 +6,9 @@
     "matchday": "Matchweek 34",
     "date": "2025-04-26",
     "venue": "Anfield",
-    "home_score": 5,
-    "away_score": 1,
-    "is_tottenham_home": false
+    "spurs_score": 1,
+    "opponent_score": 5,
+    "home_away": "Away"
   },
   "formation": "",
   "team_rating": {

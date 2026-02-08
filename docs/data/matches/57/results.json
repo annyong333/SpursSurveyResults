@@ -6,9 +6,9 @@
     "matchday": "Matchweek 36",
     "date": "2025-05-10",
     "venue": "Tottenham Hotspur Stadium",
-    "home_score": 2,
-    "away_score": 0,
-    "is_tottenham_home": true
+    "spurs_score": 2,
+    "opponent_score": 0,
+    "home_away": "Home"
   },
   "formation": "",
   "team_rating": {

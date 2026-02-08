@@ -4,7 +4,8 @@ Manually compiled from Wikipedia's 2024-25 Tottenham Hotspur F.C. season article
 Source: https://en.wikipedia.org/wiki/2024%E2%80%9325_Tottenham_Hotspur_F.C._season
 """
 
-# (date, opponent_in_spreadsheet, home_score, away_score, is_tottenham_home, venue)
+# (date, opponent_in_spreadsheet, tottenham_score, opponent_score, is_tottenham_home, venue)
+# For neutral venues, is_tottenham_home is None
 RESULTS = [
     # Premier League
     ("2024-08-19", "Leicester City", 1, 1, False, "King Power Stadium"),
@@ -22,7 +23,7 @@ RESULTS = [
     ("2024-12-01", "Fulham", 1, 1, True, "Tottenham Hotspur Stadium"),
     ("2024-12-05", "Bournemouth", 1, 0, False, "Dean Court"),
     ("2024-12-08", "Chelsea", 3, 4, True, "Tottenham Hotspur Stadium"),
-    ("2024-12-15", "Southampton", 0, 5, False, "St Mary's Stadium"),
+    ("2024-12-15", "Southampton", 5, 0, False, "St Mary's Stadium"),
     ("2024-12-22", "Liverpool", 3, 6, True, "Tottenham Hotspur Stadium"),
     ("2024-12-26", "Nott'ham Forest", 1, 0, False, "City Ground"),
     ("2024-12-29", "Wolves", 2, 2, True, "Tottenham Hotspur Stadium"),
@@ -32,7 +33,7 @@ RESULTS = [
     ("2025-01-26", "Leicester City", 1, 2, True, "Tottenham Hotspur Stadium"),
     ("2025-02-02", "Brentford", 0, 2, False, "Brentford Community Stadium"),
     ("2025-02-16", "Manchester Utd", 1, 0, True, "Tottenham Hotspur Stadium"),
-    ("2025-02-22", "Ipswich Town", 1, 4, False, "Portman Road"),
+    ("2025-02-22", "Ipswich Town", 4, 1, False, "Portman Road"),
     ("2025-02-26", "Manchester City", 0, 1, True, "Tottenham Hotspur Stadium"),
     ("2025-03-09", "Bournemouth", 2, 2, True, "Tottenham Hotspur Stadium"),
     ("2025-03-16", "Fulham", 2, 0, False, "Craven Cottage"),
@@ -40,7 +41,7 @@ RESULTS = [
     ("2025-04-05", "Southampton", 3, 1, True, "Tottenham Hotspur Stadium"),
     ("2025-04-12", "Wolves", 4, 2, False, "Molineux Stadium"),
     ("2025-04-19", "Nott'ham Forest", 1, 2, True, "Tottenham Hotspur Stadium"),
-    ("2025-04-26", "Liverpool", 5, 1, False, "Anfield"),
+    ("2025-04-26", "Liverpool", 1, 5, False, "Anfield"),
     ("2025-05-03", "West Ham", 2, 1, False, "London Stadium"),
     ("2025-05-10", "Crystal Palace", 2, 0, True, "Tottenham Hotspur Stadium"),
     ("2025-05-18", "Aston Villa", 1, 0, False, "Villa Park"),
@@ -69,5 +70,5 @@ RESULTS = [
     ("2025-04-17", "de Eint Frankfurt", 1, 1, False, "Deutsche Bank Park"),
     ("2025-05-01", "no Bodø/Glimt", 3, 1, True, "Tottenham Hotspur Stadium"),
     ("2025-05-08", "no Bodø/Glimt", 2, 0, False, "Aspmyra Stadion"),
-    ("2025-05-21", "Manchester Utd", 1, 0, False, "San Mamés Stadium"),  # EL Final (neutral)
+    ("2025-05-21", "Manchester Utd", 1, 0, None, "San Mamés Stadium"),  # EL Final (neutral)
 ]

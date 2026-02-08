@@ -6,9 +6,9 @@
     "matchday": "Semi-finals",
     "date": "2025-05-08",
     "venue": "Aspmyra Stadion",
-    "home_score": 2,
-    "away_score": 0,
-    "is_tottenham_home": false
+    "spurs_score": 2,
+    "opponent_score": 0,
+    "home_away": "Away"
   },
   "formation": "",
   "team_rating": {

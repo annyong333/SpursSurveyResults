@@ -6,9 +6,9 @@
     "matchday": "Matchweek 16",
     "date": "2024-12-15",
     "venue": "St Mary's Stadium",
-    "home_score": 0,
-    "away_score": 5,
-    "is_tottenham_home": false
+    "spurs_score": 5,
+    "opponent_score": 0,
+    "home_away": "Away"
   },
   "formation": "",
   "team_rating": {

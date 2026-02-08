@@ -6,9 +6,9 @@
     "matchday": "Matchweek 3",
     "date": "2024-09-01",
     "venue": "St James' Park",
-    "home_score": 2,
-    "away_score": 1,
-    "is_tottenham_home": false
+    "spurs_score": 2,
+    "opponent_score": 1,
+    "home_away": "Away"
   },
   "formation": "",
   "team_rating": {

@@ -6,9 +6,9 @@
     "matchday": "Matchweek 5",
     "date": "2024-09-21",
     "venue": "Tottenham Hotspur Stadium",
-    "home_score": 3,
-    "away_score": 1,
-    "is_tottenham_home": true
+    "spurs_score": 3,
+    "opponent_score": 1,
+    "home_away": "Home"
   },
   "formation": "",
   "team_rating": {

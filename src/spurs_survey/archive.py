@@ -83,9 +83,9 @@ def build_site(data_dir: str, output_dir: str) -> None:
             "matchday": meta.matchday,
             "date": meta.date,
             "venue": meta.venue,
-            "home_score": meta.home_score,
-            "away_score": meta.away_score,
-            "is_tottenham_home": meta.is_tottenham_home,
+            "spurs_score": meta.spurs_score,
+            "opponent_score": meta.opponent_score,
+            "home_away": meta.home_away,
         })
 
     # Sort most recent first

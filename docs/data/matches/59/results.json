@@ -6,9 +6,9 @@
     "matchday": "Final",
     "date": "2025-05-21",
     "venue": "San Mam\u00e9s Stadium",
-    "home_score": 1,
-    "away_score": 0,
-    "is_tottenham_home": false
+    "spurs_score": 1,
+    "opponent_score": 0,
+    "home_away": "Neutral"
   },
   "formation": "",
   "team_rating": {

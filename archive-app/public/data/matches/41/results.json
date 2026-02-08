@@ -6,9 +6,9 @@
     "matchday": "Matchweek 26",
     "date": "2025-02-22",
     "venue": "Portman Road",
-    "home_score": 1,
-    "away_score": 4,
-    "is_tottenham_home": false
+    "spurs_score": 4,
+    "opponent_score": 1,
+    "home_away": "Away"
   },
   "formation": "",
   "team_rating": {
