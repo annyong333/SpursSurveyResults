@@ -1,4 +1,4 @@
-/* r/coys Match Survey Archive */
+/* r/coys Match Survey Archive — Spurs themed */
 
 *,
 *::before,
@@ -8,37 +8,68 @@
     padding: 0;
 }
 
+:root {
+    --spurs-navy: #132257;
+    --spurs-navy-light: #1b3070;
+    --spurs-navy-dark: #0b1535;
+    --spurs-white: #ffffff;
+    --spurs-gray: #c4ced8;
+    --spurs-gold: #d4a843;
+    --spurs-bg: #0a0f1a;
+    --spurs-card: #111b2e;
+    --spurs-card-hover: #182640;
+    --spurs-border: #1e3050;
+}
+
 body {
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica,
         Arial, sans-serif;
-    background: #0f1923;
-    color: #e0e6ed;
+    background: var(--spurs-bg);
+    color: #dce3ea;
     min-height: 100vh;
-    padding: 2rem;
+    padding: 0;
 }
 
+/* Header */
+
 header {
+    background: var(--spurs-navy);
+    padding: 1.5rem 2rem;
+    border-bottom: 3px solid var(--spurs-gold);
+}
+
+.header-inner {
     max-width: 960px;
-    margin: 0 auto 1.5rem;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+
+.crest {
+    width: 56px;
+    height: 56px;
+    flex-shrink: 0;
 }
 
 header h1 {
-    font-size: 1.6rem;
-    color: #fff;
+    font-size: 1.5rem;
+    color: var(--spurs-white);
+    letter-spacing: 0.02em;
 }
 
 .subtitle {
-    color: #8899aa;
-    font-size: 0.9rem;
-    margin-top: 0.25rem;
+    color: var(--spurs-gray);
+    font-size: 0.85rem;
+    margin-top: 0.15rem;
 }
 
 .back-link {
     display: inline-block;
-    color: #5b9bd5;
+    color: var(--spurs-gold);
     text-decoration: none;
-    margin-bottom: 0.75rem;
     font-size: 0.9rem;
+    margin-bottom: 0.5rem;
 }
 
 .back-link:hover {
@@ -49,7 +80,8 @@ header h1 {
 
 .filters {
     max-width: 960px;
-    margin: 0 auto 1.5rem;
+    margin: 1.5rem auto;
+    padding: 0 2rem;
     display: flex;
     flex-wrap: wrap;
     gap: 1rem;
@@ -63,34 +95,42 @@ header h1 {
 }
 
 .filter-group label {
-    font-size: 0.75rem;
-    color: #8899aa;
+    font-size: 0.7rem;
+    color: var(--spurs-gray);
     text-transform: uppercase;
-    letter-spacing: 0.05em;
+    letter-spacing: 0.06em;
+    font-weight: 600;
 }
 
 .filter-group select,
 .filter-group input {
     padding: 0.4rem 0.6rem;
-    border: 1px solid #2a3a4a;
+    border: 1px solid var(--spurs-border);
     border-radius: 4px;
-    background: #1a2733;
-    color: #e0e6ed;
+    background: var(--spurs-card);
+    color: #dce3ea;
     font-size: 0.85rem;
+}
+
+.filter-group select:focus,
+.filter-group input:focus {
+    outline: none;
+    border-color: var(--spurs-gold);
 }
 
 .btn-clear {
     padding: 0.4rem 0.8rem;
-    border: 1px solid #2a3a4a;
+    border: 1px solid var(--spurs-border);
     border-radius: 4px;
     background: transparent;
-    color: #5b9bd5;
+    color: var(--spurs-gold);
     cursor: pointer;
     font-size: 0.85rem;
+    font-weight: 600;
 }
 
 .btn-clear:hover {
-    background: #1a2733;
+    background: var(--spurs-card);
 }
 
 /* Match list */
@@ -98,6 +138,7 @@ header h1 {
 #match-list {
     max-width: 960px;
     margin: 0 auto;
+    padding: 0 2rem 2rem;
     display: flex;
     flex-direction: column;
     gap: 0.5rem;
@@ -109,35 +150,38 @@ header h1 {
     gap: 1rem;
     align-items: center;
     padding: 0.75rem 1rem;
-    background: #1a2733;
+    background: var(--spurs-card);
     border-radius: 6px;
+    border-left: 3px solid var(--spurs-navy);
     text-decoration: none;
-    color: #e0e6ed;
-    transition: background 0.15s;
+    color: #dce3ea;
+    transition: background 0.15s, border-color 0.15s;
 }
 
 .match-card:hover {
-    background: #243444;
+    background: var(--spurs-card-hover);
+    border-left-color: var(--spurs-gold);
 }
 
 .match-date {
     font-size: 0.8rem;
-    color: #8899aa;
+    color: var(--spurs-gray);
 }
 
 .match-opponent {
     font-weight: 600;
+    color: var(--spurs-white);
 }
 
 .match-score {
     font-weight: 700;
     font-size: 1.1rem;
-    color: #fff;
+    color: var(--spurs-white);
 }
 
 .match-comp {
     font-size: 0.8rem;
-    color: #8899aa;
+    color: var(--spurs-gray);
     text-align: right;
 }
 
@@ -146,6 +190,7 @@ header h1 {
 #match-detail {
     max-width: 960px;
     margin: 0 auto;
+    padding: 1.5rem 2rem;
 }
 
 .infographic {
@@ -154,7 +199,18 @@ header h1 {
 }
 
 .empty {
-    color: #8899aa;
+    color: var(--spurs-gray);
     text-align: center;
     padding: 3rem 0;
+    font-size: 0.95rem;
+}
+
+/* Footer accent */
+
+body::after {
+    content: "";
+    display: block;
+    height: 3px;
+    background: linear-gradient(90deg, var(--spurs-navy), var(--spurs-gold), var(--spurs-navy));
+    margin-top: 2rem;
 }
