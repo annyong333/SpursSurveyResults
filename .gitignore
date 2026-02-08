@@ -4,5 +4,5 @@ __pycache__/
 .hypothesis/
 .pytest_cache/
 .DS_Store
-*.png
-!assets/placeholder.png
+tottenham 2025 squad/
+reference/*.png
