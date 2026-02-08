@@ -52,6 +52,12 @@ interface RawMatchDetail {
     total_responses: number;
 }
 
+function getHeadshotSlug(name: string): string {
+    // Strip substitution info like "(86' for Bentancur)"
+    const clean = name.replace(/\s*\(.*\)$/, '').trim();
+    return clean.toLowerCase().replace(/[- ]+/g, '_');
+}
+
 function parseDetail(raw: RawMatchDetail): Match {
     const m = raw.metadata;
     const score = `${m.spurs_score} - ${m.opponent_score}`;
@@ -70,6 +76,7 @@ function parseDetail(raw: RawMatchDetail): Match {
         ownGoals: p.own_goals,
         isMotm: p.is_motm,
         isStarter: p.is_starter,
+        imagePath: `images/players/${getHeadshotSlug(p.name)}.png`,
     }));
 
     return {

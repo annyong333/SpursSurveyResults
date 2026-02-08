@@ -1,19 +1,19 @@
+import { useState } from 'react';
 import { Link } from 'react-router-dom';
 import type { Match } from '../types';
-import { ArrowLeft, Trophy, Users } from 'lucide-react';
+import { ArrowLeft, Trophy } from 'lucide-react';
 
 interface MatchDetailProps {
     match: Match;
 }
 
 export function MatchDetail({ match }: MatchDetailProps) {
+    const BASE = import.meta.env.BASE_URL;
+
     const formatDate = (dateString: string) => {
         const date = new Date(dateString);
         return date.toLocaleDateString('en-GB', {
-            weekday: 'long',
-            day: 'numeric',
-            month: 'long',
-            year: 'numeric',
+            weekday: 'long', day: 'numeric', month: 'long', year: 'numeric',
         });
     };
 
@@ -54,6 +54,13 @@ export function MatchDetail({ match }: MatchDetailProps) {
     const sortedPlayers = [...match.playerRatings].sort((a, b) => b.rating - a.rating);
     const topRated = sortedPlayers[0];
 
+    const [imgErrors, setImgErrors] = useState<Set<string>>(new Set());
+    const handleImgError = (name: string) => {
+        setImgErrors((prev) => new Set(prev).add(name));
+    };
+
+    const fmtRating = (val: number) => val ? val.toFixed(1) : '—';
+
     return (
         <div>
             {/* Back Button */}
@@ -65,115 +72,174 @@ export function MatchDetail({ match }: MatchDetailProps) {
                 <span>Back to matches</span>
             </Link>
 
-            {/* Match Header Card */}
-            <div className="bg-gradient-to-r from-[#132257] to-[#1a2d6b] rounded-lg p-8 mb-8 border border-[#30363d]">
-                <div className="flex items-center justify-between flex-wrap gap-4 mb-6">
-                    <div>
-                        <div className="flex items-center gap-3 mb-3">
-                            <span
-                                className={`${getResultColor(match.result)} text-white px-4 py-2 rounded-lg text-lg font-semibold`}
-                            >
-                                {getResultText(match.result)}
-                            </span>
-                            <span className="text-[#8b949e] text-lg">{match.homeAway}</span>
-                        </div>
-                        <h2 className="text-4xl text-white mb-2">
-                            Tottenham Hotspur {match.score} {match.opponent}
-                        </h2>
-                        <p className="text-[#8b949e] text-lg">{formatDate(match.date)}</p>
-                    </div>
+            {/* Match Header */}
+            <div className="bg-gradient-to-r from-[#132257] to-[#1a2d6b] rounded-lg p-8 mb-6 border border-[#30363d]">
+                <div className="flex items-center gap-3 mb-3">
+                    <span className={`${getResultColor(match.result)} text-white px-4 py-2 rounded-lg text-lg font-semibold`}>
+                        {getResultText(match.result)}
+                    </span>
+                    <span className="text-[#8b949e] text-lg">{match.homeAway}</span>
                 </div>
-
-                <div className="flex items-center gap-2 mb-6">
-                    <span className="inline-block bg-white/10 text-white px-4 py-2 rounded-lg text-base border border-white/20">
+                <h2 className="text-4xl text-white mb-2">
+                    Tottenham Hotspur {match.score} {match.opponent}
+                </h2>
+                <p className="text-[#8b949e] text-lg">{formatDate(match.date)}</p>
+                <div className="flex items-center gap-4 mt-4">
+                    <span className="bg-white/10 text-white px-4 py-2 rounded-lg text-base border border-white/20">
                         {match.competition}
                     </span>
-                </div>
-
-                {/* Stats Grid */}
-                <div className="grid grid-cols-1 sm:grid-cols-3 gap-6 mt-6">
-                    <div className="bg-white/5 rounded-lg p-6 border border-white/10">
-                        <div className="flex items-center gap-3 mb-2">
-                            <div className="bg-[#58a6ff]/20 p-2 rounded">
-                                <Trophy className="w-6 h-6 text-[#58a6ff]" />
-                            </div>
-                            <p className="text-[#8b949e] text-sm uppercase tracking-wide">Average Rating</p>
-                        </div>
-                        <p className="text-4xl text-white">
-                            {match.averageRating ? match.averageRating.toFixed(2) : '—'}
-                        </p>
-                    </div>
-                    <div className="bg-white/5 rounded-lg p-6 border border-white/10">
-                        <div className="flex items-center gap-3 mb-2">
-                            <div className="bg-[#58a6ff]/20 p-2 rounded">
-                                <Users className="w-6 h-6 text-[#58a6ff]" />
-                            </div>
-                            <p className="text-[#8b949e] text-sm uppercase tracking-wide">Total Votes</p>
-                        </div>
-                        <p className="text-4xl text-white">
-                            {match.totalVotes ? match.totalVotes.toLocaleString() : '—'}
-                        </p>
-                    </div>
-                    <div className="bg-white/5 rounded-lg p-6 border border-white/10">
-                        <div className="flex items-center gap-3 mb-2">
-                            <div className="bg-yellow-500/20 p-2 rounded">
-                                <Trophy className="w-6 h-6 text-yellow-400" />
-                            </div>
-                            <p className="text-[#8b949e] text-sm uppercase tracking-wide">Man of the Match</p>
-                        </div>
-                        <p className="text-2xl text-white">{match.motm || '—'}</p>
-                    </div>
+                    {match.totalVotes > 0 && (
+                        <span className="text-[#8b949e] text-base">
+                            {match.totalVotes.toLocaleString()} votes
+                        </span>
+                    )}
                 </div>
             </div>
 
+            {/* Match Info Grid */}
+            <div className="grid grid-cols-2 sm:grid-cols-4 gap-4 mb-6">
+                <InfoCard label="Spurs Score" value={String(match.spursScore)} />
+                <InfoCard label={`${match.opponent} Score`} value={String(match.opponentScore)} />
+                <InfoCard label="Man of the Match" value={match.motm || '—'} />
+                <InfoCard label="Average Rating" value={match.averageRating ? match.averageRating.toFixed(2) : '—'} />
+            </div>
+
+            {/* Team / Opponent / Referee Ratings */}
+            <div className="grid grid-cols-1 sm:grid-cols-3 gap-4 mb-6">
+                <RatingCard label="Team Rating" mean={match.teamRating.mean} stdDev={match.teamRating.stdDev} getRatingColor={getRatingColor} />
+                <RatingCard label="Opponent Rating" mean={match.opponentRating.mean} stdDev={match.opponentRating.stdDev} getRatingColor={getRatingColor} />
+                <RatingCard label="Referee Rating" mean={match.refereeRating.mean} stdDev={match.refereeRating.stdDev} getRatingColor={getRatingColor} />
+            </div>
+
+            {/* Coach Ratings */}
+            {match.coachRatings.name && (
+                <div className="bg-[#161b22] rounded-lg p-6 border border-[#30363d] mb-6">
+                    <h3 className="text-lg text-white mb-4">
+                        Coach: <span className="text-[#d4a843]">{match.coachRatings.name}</span>
+                    </h3>
+                    <div className="grid grid-cols-1 sm:grid-cols-3 gap-4">
+                        <MiniRating label="Starting XI" mean={match.coachRatings.startingEleven.mean} stdDev={match.coachRatings.startingEleven.stdDev} getRatingColor={getRatingColor} />
+                        <MiniRating label="Tactics" mean={match.coachRatings.onFieldTactics.mean} stdDev={match.coachRatings.onFieldTactics.stdDev} getRatingColor={getRatingColor} />
+                        <MiniRating label="Substitutions" mean={match.coachRatings.substitutions.mean} stdDev={match.coachRatings.substitutions.stdDev} getRatingColor={getRatingColor} />
+                    </div>
+                </div>
+            )}
+
             {/* Player Ratings */}
             {sortedPlayers.length > 0 && (
-                <div className="bg-[#161b22] rounded-lg p-8 border border-[#30363d]">
+                <div className="bg-[#161b22] rounded-lg p-6 border border-[#30363d]">
                     <h3 className="text-2xl text-white mb-6">Player Ratings</h3>
-                    <div className="space-y-4">
-                        {sortedPlayers.map((player, index) => (
-                            <div
-                                key={player.name}
-                                className="bg-[#0d1117] rounded-lg p-6 border border-[#30363d] hover:border-[#58a6ff] transition-all"
-                            >
-                                <div className="flex items-center justify-between gap-4 mb-4">
-                                    <div className="flex items-center gap-4 flex-1">
-                                        <div className="flex items-center gap-3">
-                                            {player === topRated && (
-                                                <Trophy className="w-5 h-5 text-yellow-400" />
+                    <div className="space-y-3">
+                        {sortedPlayers.map((player) => {
+                            const showImg = player.imagePath && !imgErrors.has(player.name);
+                            return (
+                                <div
+                                    key={player.name}
+                                    className="bg-[#0d1117] rounded-lg p-4 border border-[#30363d] hover:border-[#58a6ff] transition-all"
+                                >
+                                    <div className="flex items-center gap-4">
+                                        {/* Headshot or rank */}
+                                        <div className="w-12 h-12 flex-shrink-0 flex items-center justify-center">
+                                            {showImg ? (
+                                                <img
+                                                    src={`${BASE}${player.imagePath}`}
+                                                    alt={player.name}
+                                                    className="w-12 h-12 rounded-full object-cover bg-[#21262d]"
+                                                    onError={() => handleImgError(player.name)}
+                                                />
+                                            ) : (
+                                                <div className="w-12 h-12 rounded-full bg-[#21262d] flex items-center justify-center text-[#8b949e] text-sm font-bold">
+                                                    {player.name.split(' ').map(n => n[0]).join('').slice(0, 2)}
+                                                </div>
                                             )}
-                                            <span className="text-[#8b949e] text-lg w-6">#{index + 1}</span>
                                         </div>
-                                        <div className="flex-1">
-                                            <div className="flex items-center gap-3 mb-1">
-                                                <h4 className="text-white text-lg">{player.name}</h4>
-                                                <span
-                                                    className={`${getPositionColor(player.position)} px-2 py-1 rounded text-xs font-semibold`}
-                                                >
-                                                    {player.position}
-                                                </span>
+                                        {/* Player info */}
+                                        <div className="flex-1 min-w-0">
+                                            <div className="flex items-center gap-2 mb-1">
+                                                {player === topRated && <Trophy className="w-4 h-4 text-yellow-400 flex-shrink-0" />}
+                                                <h4 className="text-white text-base truncate">{player.name}</h4>
+                                                {player.position && (
+                                                    <span className={`${getPositionColor(player.position)} px-2 py-0.5 rounded text-xs font-semibold flex-shrink-0`}>
+                                                        {player.position}
+                                                    </span>
+                                                )}
                                                 {player.isMotm && (
-                                                    <span className="bg-yellow-500/20 text-yellow-400 px-2 py-1 rounded text-xs font-semibold">
+                                                    <span className="bg-yellow-500/20 text-yellow-400 px-2 py-0.5 rounded text-xs font-semibold flex-shrink-0">
                                                         MOTM
                                                     </span>
                                                 )}
+                                                {!player.isStarter && (
+                                                    <span className="text-[#8b949e] text-xs flex-shrink-0">SUB</span>
+                                                )}
+                                            </div>
+                                            {/* Rating bar */}
+                                            <div className="w-full bg-[#30363d] rounded-full h-2.5 overflow-hidden">
+                                                <div
+                                                    className={`${getRatingColor(player.rating)} h-full rounded-full transition-all duration-500`}
+                                                    style={{ width: `${(player.rating / 10) * 100}%` }}
+                                                />
                                             </div>
                                         </div>
-                                    </div>
-                                    <div className="text-right">
-                                        <div className="text-3xl text-white mb-1">{player.rating.toFixed(1)}</div>
+                                        {/* Rating number */}
+                                        <div className="text-2xl text-white font-bold flex-shrink-0 w-14 text-right">
+                                            {fmtRating(player.rating)}
+                                        </div>
                                     </div>
                                 </div>
-                                {/* Rating Bar */}
-                                <div className="w-full bg-[#30363d] rounded-full h-3 overflow-hidden">
-                                    <div
-                                        className={`${getRatingColor(player.rating)} h-full rounded-full transition-all duration-500`}
-                                        style={{ width: `${(player.rating / 10) * 100}%` }}
-                                    />
-                                </div>
-                            </div>
-                        ))}
+                            );
+                        })}
                     </div>
+                </div>
+            )}
+        </div>
+    );
+}
+
+/* Sub-components */
+
+function InfoCard({ label, value }: { label: string; value: string }) {
+    return (
+        <div className="bg-[#161b22] rounded-lg p-4 border border-[#30363d]">
+            <p className="text-[#8b949e] text-xs uppercase tracking-wider mb-1">{label}</p>
+            <p className="text-white text-xl font-semibold">{value}</p>
+        </div>
+    );
+}
+
+function RatingCard({ label, mean, stdDev, getRatingColor }: { label: string; mean: number; stdDev: number; getRatingColor: (r: number) => string }) {
+    return (
+        <div className="bg-[#161b22] rounded-lg p-5 border border-[#30363d]">
+            <p className="text-[#8b949e] text-xs uppercase tracking-wider mb-2">{label}</p>
+            <div className="flex items-end gap-2 mb-2">
+                <span className="text-3xl text-white font-bold">{mean ? mean.toFixed(1) : '—'}</span>
+                {stdDev > 0 && <span className="text-[#8b949e] text-sm mb-1">± {stdDev.toFixed(1)}</span>}
+            </div>
+            {mean > 0 && (
+                <div className="w-full bg-[#30363d] rounded-full h-2.5 overflow-hidden">
+                    <div
+                        className={`${getRatingColor(mean)} h-full rounded-full`}
+                        style={{ width: `${(mean / 10) * 100}%` }}
+                    />
+                </div>
+            )}
+        </div>
+    );
+}
+
+function MiniRating({ label, mean, stdDev, getRatingColor }: { label: string; mean: number; stdDev: number; getRatingColor: (r: number) => string }) {
+    return (
+        <div className="bg-[#0d1117] rounded-lg p-4 border border-[#30363d]">
+            <p className="text-[#8b949e] text-xs uppercase tracking-wider mb-1">{label}</p>
+            <div className="flex items-end gap-2 mb-2">
+                <span className="text-2xl text-white font-bold">{mean ? mean.toFixed(1) : '—'}</span>
+                {stdDev > 0 && <span className="text-[#8b949e] text-sm mb-0.5">± {stdDev.toFixed(1)}</span>}
+            </div>
+            {mean > 0 && (
+                <div className="w-full bg-[#30363d] rounded-full h-2 overflow-hidden">
+                    <div
+                        className={`${getRatingColor(mean)} h-full rounded-full`}
+                        style={{ width: `${(mean / 10) * 100}%` }}
+                    />
                 </div>
             )}
         </div>

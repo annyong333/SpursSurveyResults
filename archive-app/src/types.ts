@@ -9,6 +9,7 @@ export interface PlayerRating {
     ownGoals: number;
     isMotm: boolean;
     isStarter: boolean;
+    imagePath: string | null;
 }
 
 export interface Match {
