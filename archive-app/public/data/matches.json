@@ -28,8 +28,8 @@
     "matchday": "Matchweek 37",
     "date": "2025-05-18",
     "venue": "Villa Park",
-    "spurs_score": 1,
-    "opponent_score": 0,
+    "spurs_score": 0,
+    "opponent_score": 1,
     "home_away": "Away"
   },
   {
@@ -61,8 +61,8 @@
     "matchday": "Matchweek 35",
     "date": "2025-05-03",
     "venue": "London Stadium",
-    "spurs_score": 2,
-    "opponent_score": 1,
+    "spurs_score": 1,
+    "opponent_score": 2,
     "home_away": "Away"
   },
   {
@@ -116,8 +116,8 @@
     "matchday": "Matchweek 32",
     "date": "2025-04-12",
     "venue": "Molineux Stadium",
-    "spurs_score": 4,
-    "opponent_score": 2,
+    "spurs_score": 2,
+    "opponent_score": 4,
     "home_away": "Away"
   },
   {
@@ -149,8 +149,8 @@
     "matchday": "Matchweek 30",
     "date": "2025-04-02",
     "venue": "Stamford Bridge",
-    "spurs_score": 1,
-    "opponent_score": 0,
+    "spurs_score": 0,
+    "opponent_score": 1,
     "home_away": "Away"
   },
   {
@@ -160,8 +160,8 @@
     "matchday": "Matchweek 29",
     "date": "2025-03-16",
     "venue": "Craven Cottage",
-    "spurs_score": 2,
-    "opponent_score": 0,
+    "spurs_score": 0,
+    "opponent_score": 2,
     "home_away": "Away"
   },
   {
@@ -259,8 +259,8 @@
     "matchday": "Matchweek 24",
     "date": "2025-02-02",
     "venue": "Brentford Community Stadium",
-    "spurs_score": 0,
-    "opponent_score": 2,
+    "spurs_score": 2,
+    "opponent_score": 0,
     "home_away": "Away"
   },
   {
@@ -303,8 +303,8 @@
     "matchday": "Matchweek 22",
     "date": "2025-01-19",
     "venue": "Goodison Park",
-    "spurs_score": 3,
-    "opponent_score": 2,
+    "spurs_score": 2,
+    "opponent_score": 3,
     "home_away": "Away"
   },
   {
@@ -314,8 +314,8 @@
     "matchday": "Matchweek 21",
     "date": "2025-01-15",
     "venue": "Emirates Stadium",
-    "spurs_score": 2,
-    "opponent_score": 1,
+    "spurs_score": 1,
+    "opponent_score": 2,
     "home_away": "Away"
   },
   {
@@ -369,8 +369,8 @@
     "matchday": "Matchweek 18",
     "date": "2024-12-26",
     "venue": "City Ground",
-    "spurs_score": 1,
-    "opponent_score": 0,
+    "spurs_score": 0,
+    "opponent_score": 1,
     "home_away": "Away"
   },
   {
@@ -435,8 +435,8 @@
     "matchday": "Matchweek 14",
     "date": "2024-12-05",
     "venue": "Dean Court",
-    "spurs_score": 1,
-    "opponent_score": 0,
+    "spurs_score": 0,
+    "opponent_score": 1,
     "home_away": "Away"
   },
   {
@@ -468,8 +468,8 @@
     "matchday": "Matchweek 12",
     "date": "2024-11-23",
     "venue": "City of Manchester Stadium",
-    "spurs_score": 0,
-    "opponent_score": 4,
+    "spurs_score": 4,
+    "opponent_score": 0,
     "home_away": "Away"
   },
   {
@@ -523,8 +523,8 @@
     "matchday": "Matchweek 9",
     "date": "2024-10-27",
     "venue": "Selhurst Park",
-    "spurs_score": 1,
-    "opponent_score": 0,
+    "spurs_score": 0,
+    "opponent_score": 1,
     "home_away": "Away"
   },
   {
@@ -556,8 +556,8 @@
     "matchday": "Matchweek 7",
     "date": "2024-10-06",
     "venue": "Falmer Stadium",
-    "spurs_score": 3,
-    "opponent_score": 2,
+    "spurs_score": 2,
+    "opponent_score": 3,
     "home_away": "Away"
   },
   {
@@ -578,8 +578,8 @@
     "matchday": "Matchweek 6",
     "date": "2024-09-29",
     "venue": "Old Trafford",
-    "spurs_score": 0,
-    "opponent_score": 3,
+    "spurs_score": 3,
+    "opponent_score": 0,
     "home_away": "Away"
   },
   {
@@ -633,8 +633,8 @@
     "matchday": "Matchweek 3",
     "date": "2024-09-01",
     "venue": "St James' Park",
-    "spurs_score": 2,
-    "opponent_score": 1,
+    "spurs_score": 1,
+    "opponent_score": 2,
     "home_away": "Away"
   },
   {
