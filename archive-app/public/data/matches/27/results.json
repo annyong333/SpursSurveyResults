@@ -1,0 +1,273 @@
+{
+  "match_id": 27,
+  "metadata": {
+    "opponent": "Nott'ham Forest",
+    "competition": "Premier League",
+    "matchday": "Matchweek 18",
+    "date": "2024-12-26",
+    "venue": "City Ground",
+    "home_score": 1,
+    "away_score": 0,
+    "is_tottenham_home": false
+  },
+  "formation": "",
+  "team_rating": {
+    "mean": 2.5,
+    "std_dev": 1.6
+  },
+  "opponent_rating": {
+    "mean": 6.4,
+    "std_dev": 1.5
+  },
+  "referee_rating": {
+    "mean": 3.6,
+    "std_dev": 2.3
+  },
+  "coach_ratings": {
+    "name": "Postecoglou",
+    "starting_eleven": {
+      "mean": 5.1,
+      "std_dev": 2.5
+    },
+    "on_field_tactics": {
+      "mean": 3.0,
+      "std_dev": 2.4
+    },
+    "substitutions": {
+      "mean": 4.0,
+      "std_dev": 2.4
+    }
+  },
+  "overall_rating": 4.52,
+  "starting_players": [
+    {
+      "name": "Heung-Min Son",
+      "position": "",
+      "image_path": null,
+      "rating": {
+        "mean": 3.1,
+        "std_dev": 1.9
+      },
+      "is_starter": true,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "is_motm": false
+    },
+    {
+      "name": "Rodrigo Bentancur",
+      "position": "",
+      "image_path": null,
+      "rating": {
+        "mean": 3.8,
+        "std_dev": 1.7
+      },
+      "is_starter": true,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "is_motm": false
+    },
+    {
+      "name": "Brennan Johnson",
+      "position": "",
+      "image_path": null,
+      "rating": {
+        "mean": 3.9,
+        "std_dev": 2.2
+      },
+      "is_starter": true,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "is_motm": false
+    },
+    {
+      "name": "Pape Matar Sarr",
+      "position": "",
+      "image_path": null,
+      "rating": {
+        "mean": 4.1,
+        "std_dev": 1.7
+      },
+      "is_starter": true,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "is_motm": false
+    },
+    {
+      "name": "Destiny Udogie",
+      "position": "",
+      "image_path": null,
+      "rating": {
+        "mean": 4.4,
+        "std_dev": 1.7
+      },
+      "is_starter": true,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "is_motm": false
+    },
+    {
+      "name": "Yves Bissouma",
+      "position": "",
+      "image_path": null,
+      "rating": {
+        "mean": 4.5,
+        "std_dev": 1.6
+      },
+      "is_starter": true,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "is_motm": false
+    },
+    {
+      "name": "Pedro Porro",
+      "position": "",
+      "image_path": null,
+      "rating": {
+        "mean": 4.5,
+        "std_dev": 1.5
+      },
+      "is_starter": true,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "is_motm": false
+    },
+    {
+      "name": "Timo Werner",
+      "position": "",
+      "image_path": null,
+      "rating": {
+        "mean": 4.5,
+        "std_dev": 1.8
+      },
+      "is_starter": true,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "is_motm": false
+    },
+    {
+      "name": "Radu Dragusin",
+      "position": "",
+      "image_path": null,
+      "rating": {
+        "mean": 4.5,
+        "std_dev": 1.9
+      },
+      "is_starter": true,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "is_motm": false
+    },
+    {
+      "name": "Dejan Kulusevski",
+      "position": "",
+      "image_path": null,
+      "rating": {
+        "mean": 4.5,
+        "std_dev": 1.8
+      },
+      "is_starter": true,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "is_motm": false
+    },
+    {
+      "name": "Dominic Solanke",
+      "position": "",
+      "image_path": null,
+      "rating": {
+        "mean": 4.6,
+        "std_dev": 1.6
+      },
+      "is_starter": true,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "is_motm": false
+    },
+    {
+      "name": "James Maddison",
+      "position": "",
+      "image_path": null,
+      "rating": {
+        "mean": 4.6,
+        "std_dev": 1.7
+      },
+      "is_starter": true,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "is_motm": false
+    },
+    {
+      "name": "Djed Spence",
+      "position": "",
+      "image_path": null,
+      "rating": {
+        "mean": 5.0,
+        "std_dev": 1.9
+      },
+      "is_starter": true,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "is_motm": false
+    },
+    {
+      "name": "Fraser Forster",
+      "position": "",
+      "image_path": null,
+      "rating": {
+        "mean": 5.1,
+        "std_dev": 1.7
+      },
+      "is_starter": true,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "is_motm": false
+    },
+    {
+      "name": "Archie Gray",
+      "position": "",
+      "image_path": null,
+      "rating": {
+        "mean": 5.3,
+        "std_dev": 1.5
+      },
+      "is_starter": true,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "is_motm": false
+    },
+    {
+      "name": "Lucas Bergvall",
+      "position": "",
+      "image_path": null,
+      "rating": {
+        "mean": 5.9,
+        "std_dev": 1.7
+      },
+      "is_starter": true,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "is_motm": true
+    }
+  ],
+  "substitute_players": [],
+  "motm_winners": [
+    "Lucas Bergvall"
+  ],
+  "total_responses": 0
+}

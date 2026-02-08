@@ -1,0 +1,259 @@
+{
+  "match_id": 53,
+  "metadata": {
+    "opponent": "Liverpool",
+    "competition": "Premier League",
+    "matchday": "Matchweek 34",
+    "date": "2025-04-26",
+    "venue": "Anfield",
+    "home_score": 5,
+    "away_score": 1,
+    "is_tottenham_home": false
+  },
+  "formation": "",
+  "team_rating": {
+    "mean": 0.9,
+    "std_dev": 1.2
+  },
+  "opponent_rating": {
+    "mean": 8.1,
+    "std_dev": 1.7
+  },
+  "referee_rating": {
+    "mean": 4.8,
+    "std_dev": 2.3
+  },
+  "coach_ratings": {
+    "name": "Postecoglou",
+    "starting_eleven": {
+      "mean": 2.3,
+      "std_dev": 2.4
+    },
+    "on_field_tactics": {
+      "mean": 0.8,
+      "std_dev": 1.4
+    },
+    "substitutions": {
+      "mean": 1.4,
+      "std_dev": 1.9
+    }
+  },
+  "overall_rating": 2.27,
+  "starting_players": [
+    {
+      "name": "Brennan Johnson",
+      "position": "",
+      "image_path": null,
+      "rating": {
+        "mean": 1.4,
+        "std_dev": 1.7
+      },
+      "is_starter": true,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "is_motm": false
+    },
+    {
+      "name": "Archie Gray",
+      "position": "",
+      "image_path": null,
+      "rating": {
+        "mean": 1.4,
+        "std_dev": 1.5
+      },
+      "is_starter": true,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "is_motm": false
+    },
+    {
+      "name": "Guglielmo Vicario",
+      "position": "",
+      "image_path": null,
+      "rating": {
+        "mean": 1.5,
+        "std_dev": 1.7
+      },
+      "is_starter": true,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "is_motm": false
+    },
+    {
+      "name": "Destiny Udogie",
+      "position": "",
+      "image_path": null,
+      "rating": {
+        "mean": 1.8,
+        "std_dev": 1.8
+      },
+      "is_starter": true,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "is_motm": false
+    },
+    {
+      "name": "Dejan Kulusevski",
+      "position": "",
+      "image_path": null,
+      "rating": {
+        "mean": 1.9,
+        "std_dev": 1.9
+      },
+      "is_starter": true,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "is_motm": false
+    },
+    {
+      "name": "Djed Spence",
+      "position": "",
+      "image_path": null,
+      "rating": {
+        "mean": 2.1,
+        "std_dev": 2.0
+      },
+      "is_starter": true,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "is_motm": false
+    },
+    {
+      "name": "Wilson Odobert",
+      "position": "",
+      "image_path": null,
+      "rating": {
+        "mean": 2.1,
+        "std_dev": 2.0
+      },
+      "is_starter": true,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "is_motm": false
+    },
+    {
+      "name": "Richarlison",
+      "position": "",
+      "image_path": null,
+      "rating": {
+        "mean": 2.1,
+        "std_dev": 1.8
+      },
+      "is_starter": true,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "is_motm": false
+    },
+    {
+      "name": "Ben Davies",
+      "position": "",
+      "image_path": null,
+      "rating": {
+        "mean": 2.2,
+        "std_dev": 1.9
+      },
+      "is_starter": true,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "is_motm": false
+    },
+    {
+      "name": "Pape Sarr",
+      "position": "",
+      "image_path": null,
+      "rating": {
+        "mean": 2.2,
+        "std_dev": 1.9
+      },
+      "is_starter": true,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "is_motm": false
+    },
+    {
+      "name": "James Maddison",
+      "position": "",
+      "image_path": null,
+      "rating": {
+        "mean": 2.5,
+        "std_dev": 2.2
+      },
+      "is_starter": true,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "is_motm": false
+    },
+    {
+      "name": "Mathys Tel",
+      "position": "",
+      "image_path": null,
+      "rating": {
+        "mean": 2.5,
+        "std_dev": 2.2
+      },
+      "is_starter": true,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "is_motm": false
+    },
+    {
+      "name": "Kevin Danso",
+      "position": "",
+      "image_path": null,
+      "rating": {
+        "mean": 3.0,
+        "std_dev": 2.2
+      },
+      "is_starter": true,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "is_motm": false
+    },
+    {
+      "name": "Lucas Bergvall",
+      "position": "",
+      "image_path": null,
+      "rating": {
+        "mean": 3.0,
+        "std_dev": 2.2
+      },
+      "is_starter": true,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "is_motm": false
+    },
+    {
+      "name": "Dominic Solanke",
+      "position": "",
+      "image_path": null,
+      "rating": {
+        "mean": 4.3,
+        "std_dev": 2.1
+      },
+      "is_starter": true,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "is_motm": true
+    }
+  ],
+  "substitute_players": [],
+  "motm_winners": [
+    "Dominic Solanke"
+  ],
+  "total_responses": 0
+}
