@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>r/coys Match Survey Results</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+    <header>
+        <h1>r/coys Match Survey Results</h1>
+        <p class="subtitle">Post-match player rating archive</p>
+    </header>
+
+    <section class="filters">
+        <div class="filter-group">
+            <label for="opponent-filter">Opponent</label>
+            <select id="opponent-filter">
+                <option value="">All opponents</option>
+            </select>
+        </div>
+        <div class="filter-group">
+            <label for="competition-filter">Competition</label>
+            <select id="competition-filter">
+                <option value="">All competitions</option>
+            </select>
+        </div>
+        <div class="filter-group">
+            <label for="date-from">From</label>
+            <input type="date" id="date-from">
+        </div>
+        <div class="filter-group">
+            <label for="date-to">To</label>
+            <input type="date" id="date-to">
+        </div>
+        <button id="clear-filters" class="btn-clear">Clear filters</button>
+    </section>
+
+    <main id="match-list"></main>
+
+    <script src="js/app.js"></script>
+</body>
+
+</html>

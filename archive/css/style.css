@@ -1,0 +1,160 @@
+/* r/coys Match Survey Archive */
+
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica,
+        Arial, sans-serif;
+    background: #0f1923;
+    color: #e0e6ed;
+    min-height: 100vh;
+    padding: 2rem;
+}
+
+header {
+    max-width: 960px;
+    margin: 0 auto 1.5rem;
+}
+
+header h1 {
+    font-size: 1.6rem;
+    color: #fff;
+}
+
+.subtitle {
+    color: #8899aa;
+    font-size: 0.9rem;
+    margin-top: 0.25rem;
+}
+
+.back-link {
+    display: inline-block;
+    color: #5b9bd5;
+    text-decoration: none;
+    margin-bottom: 0.75rem;
+    font-size: 0.9rem;
+}
+
+.back-link:hover {
+    text-decoration: underline;
+}
+
+/* Filters */
+
+.filters {
+    max-width: 960px;
+    margin: 0 auto 1.5rem;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    align-items: flex-end;
+}
+
+.filter-group {
+    display: flex;
+    flex-direction: column;
+    gap: 0.25rem;
+}
+
+.filter-group label {
+    font-size: 0.75rem;
+    color: #8899aa;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+}
+
+.filter-group select,
+.filter-group input {
+    padding: 0.4rem 0.6rem;
+    border: 1px solid #2a3a4a;
+    border-radius: 4px;
+    background: #1a2733;
+    color: #e0e6ed;
+    font-size: 0.85rem;
+}
+
+.btn-clear {
+    padding: 0.4rem 0.8rem;
+    border: 1px solid #2a3a4a;
+    border-radius: 4px;
+    background: transparent;
+    color: #5b9bd5;
+    cursor: pointer;
+    font-size: 0.85rem;
+}
+
+.btn-clear:hover {
+    background: #1a2733;
+}
+
+/* Match list */
+
+#match-list {
+    max-width: 960px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+}
+
+.match-card {
+    display: grid;
+    grid-template-columns: 110px 1fr auto auto;
+    gap: 1rem;
+    align-items: center;
+    padding: 0.75rem 1rem;
+    background: #1a2733;
+    border-radius: 6px;
+    text-decoration: none;
+    color: #e0e6ed;
+    transition: background 0.15s;
+}
+
+.match-card:hover {
+    background: #243444;
+}
+
+.match-date {
+    font-size: 0.8rem;
+    color: #8899aa;
+}
+
+.match-opponent {
+    font-weight: 600;
+}
+
+.match-score {
+    font-weight: 700;
+    font-size: 1.1rem;
+    color: #fff;
+}
+
+.match-comp {
+    font-size: 0.8rem;
+    color: #8899aa;
+    text-align: right;
+}
+
+/* Match detail */
+
+#match-detail {
+    max-width: 960px;
+    margin: 0 auto;
+}
+
+.infographic {
+    width: 100%;
+    border-radius: 6px;
+}
+
+.empty {
+    color: #8899aa;
+    text-align: center;
+    padding: 3rem 0;
+}
