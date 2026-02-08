@@ -1,0 +1,273 @@
+{
+  "match_id": 44,
+  "metadata": {
+    "opponent": "Bournemouth",
+    "competition": "Premier League",
+    "matchday": "Matchweek 28",
+    "date": "2025-03-09",
+    "venue": "Tottenham Hotspur Stadium",
+    "home_score": 2,
+    "away_score": 2,
+    "is_tottenham_home": true
+  },
+  "formation": "",
+  "team_rating": {
+    "mean": 4.0,
+    "std_dev": 1.4
+  },
+  "opponent_rating": {
+    "mean": 6.6,
+    "std_dev": 0.9
+  },
+  "referee_rating": {
+    "mean": 4.9,
+    "std_dev": 1.8
+  },
+  "coach_ratings": {
+    "name": "Postecoglou",
+    "starting_eleven": {
+      "mean": 4.5,
+      "std_dev": 2.0
+    },
+    "on_field_tactics": {
+      "mean": 3.5,
+      "std_dev": 2.2
+    },
+    "substitutions": {
+      "mean": 6.4,
+      "std_dev": 2.0
+    }
+  },
+  "overall_rating": 5.24,
+  "starting_players": [
+    {
+      "name": "Yves Bissouma",
+      "position": "",
+      "image_path": null,
+      "rating": {
+        "mean": 3.3,
+        "std_dev": 1.6
+      },
+      "is_starter": true,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "is_motm": false
+    },
+    {
+      "name": "Brennan Johnson",
+      "position": "",
+      "image_path": null,
+      "rating": {
+        "mean": 3.5,
+        "std_dev": 1.5
+      },
+      "is_starter": true,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "is_motm": false
+    },
+    {
+      "name": "Christian Romero",
+      "position": "",
+      "image_path": null,
+      "rating": {
+        "mean": 3.8,
+        "std_dev": 1.5
+      },
+      "is_starter": true,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "is_motm": false
+    },
+    {
+      "name": "Rodrigo Bentancur",
+      "position": "",
+      "image_path": null,
+      "rating": {
+        "mean": 4.2,
+        "std_dev": 1.6
+      },
+      "is_starter": true,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "is_motm": false
+    },
+    {
+      "name": "Pedro Porro",
+      "position": "",
+      "image_path": null,
+      "rating": {
+        "mean": 4.3,
+        "std_dev": 1.6
+      },
+      "is_starter": true,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "is_motm": false
+    },
+    {
+      "name": "Dominic Solanke",
+      "position": "",
+      "image_path": null,
+      "rating": {
+        "mean": 4.7,
+        "std_dev": 1.6
+      },
+      "is_starter": true,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "is_motm": false
+    },
+    {
+      "name": "Wilson Odobert",
+      "position": "",
+      "image_path": null,
+      "rating": {
+        "mean": 5.0,
+        "std_dev": 1.5
+      },
+      "is_starter": true,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "is_motm": false
+    },
+    {
+      "name": "Destiny Udogie (87\u2019 for Porro)",
+      "position": "",
+      "image_path": null,
+      "rating": {
+        "mean": 5.2,
+        "std_dev": 1.1
+      },
+      "is_starter": true,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "is_motm": false
+    },
+    {
+      "name": "Kevin Danso",
+      "position": "",
+      "image_path": null,
+      "rating": {
+        "mean": 5.3,
+        "std_dev": 1.5
+      },
+      "is_starter": true,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "is_motm": false
+    },
+    {
+      "name": "James Maddison (61\u2019 for Bentancur)",
+      "position": "",
+      "image_path": null,
+      "rating": {
+        "mean": 5.4,
+        "std_dev": 1.6
+      },
+      "is_starter": true,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "is_motm": false
+    },
+    {
+      "name": "Micky Van de Ven (61\u2019 for Romero)",
+      "position": "",
+      "image_path": null,
+      "rating": {
+        "mean": 6.0,
+        "std_dev": 1.2
+      },
+      "is_starter": true,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "is_motm": false
+    },
+    {
+      "name": "Pape Matar Sarr",
+      "position": "",
+      "image_path": null,
+      "rating": {
+        "mean": 6.1,
+        "std_dev": 1.4
+      },
+      "is_starter": true,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "is_motm": false
+    },
+    {
+      "name": "Djed Spence",
+      "position": "",
+      "image_path": null,
+      "rating": {
+        "mean": 6.3,
+        "std_dev": 1.3
+      },
+      "is_starter": true,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "is_motm": false
+    },
+    {
+      "name": "Heung-Min Son (46\u2019 for Johnson)",
+      "position": "",
+      "image_path": null,
+      "rating": {
+        "mean": 6.5,
+        "std_dev": 1.3
+      },
+      "is_starter": true,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "is_motm": false
+    },
+    {
+      "name": "Lucas Bergvall (46\u2019 for Bissouma)",
+      "position": "",
+      "image_path": null,
+      "rating": {
+        "mean": 6.8,
+        "std_dev": 1.4
+      },
+      "is_starter": true,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "is_motm": false
+    },
+    {
+      "name": "Guglielmo Vicario",
+      "position": "",
+      "image_path": null,
+      "rating": {
+        "mean": 7.5,
+        "std_dev": 1.4
+      },
+      "is_starter": true,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "is_motm": true
+    }
+  ],
+  "substitute_players": [],
+  "motm_winners": [
+    "Guglielmo Vicario"
+  ],
+  "total_responses": 0
+}

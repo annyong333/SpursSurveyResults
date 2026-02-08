@@ -1,0 +1,259 @@
+{
+  "match_id": 59,
+  "metadata": {
+    "opponent": "Manchester Utd",
+    "competition": "Europa Lg",
+    "matchday": "Final",
+    "date": "2025-05-21",
+    "venue": "San Mam\u00e9s Stadium",
+    "home_score": 1,
+    "away_score": 0,
+    "is_tottenham_home": false
+  },
+  "formation": "",
+  "team_rating": {
+    "mean": 9.2,
+    "std_dev": 1.1
+  },
+  "opponent_rating": {
+    "mean": 3.1,
+    "std_dev": 2.3
+  },
+  "referee_rating": {
+    "mean": 5.1,
+    "std_dev": 2.7
+  },
+  "coach_ratings": {
+    "name": "Postecoglou",
+    "starting_eleven": {
+      "mean": 9.5,
+      "std_dev": 0.8
+    },
+    "on_field_tactics": {
+      "mean": 9.6,
+      "std_dev": 0.8
+    },
+    "substitutions": {
+      "mean": 9.3,
+      "std_dev": 1.2
+    }
+  },
+  "overall_rating": 9.0,
+  "starting_players": [
+    {
+      "name": "Archie Gray",
+      "position": "",
+      "image_path": null,
+      "rating": {
+        "mean": 8.4,
+        "std_dev": 1.7
+      },
+      "is_starter": true,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "is_motm": false
+    },
+    {
+      "name": "Heung-Min Son",
+      "position": "",
+      "image_path": null,
+      "rating": {
+        "mean": 8.4,
+        "std_dev": 1.8
+      },
+      "is_starter": true,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "is_motm": false
+    },
+    {
+      "name": "Djed Spence",
+      "position": "",
+      "image_path": null,
+      "rating": {
+        "mean": 8.4,
+        "std_dev": 1.6
+      },
+      "is_starter": true,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "is_motm": false
+    },
+    {
+      "name": "Guglielmo Vicario",
+      "position": "",
+      "image_path": null,
+      "rating": {
+        "mean": 8.7,
+        "std_dev": 1.5
+      },
+      "is_starter": true,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "is_motm": false
+    },
+    {
+      "name": "Dominic Solanke",
+      "position": "",
+      "image_path": null,
+      "rating": {
+        "mean": 8.7,
+        "std_dev": 1.4
+      },
+      "is_starter": true,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "is_motm": false
+    },
+    {
+      "name": "Rodrigo Bentancur",
+      "position": "",
+      "image_path": null,
+      "rating": {
+        "mean": 9.0,
+        "std_dev": 1.2
+      },
+      "is_starter": true,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "is_motm": false
+    },
+    {
+      "name": "Kevin Danso",
+      "position": "",
+      "image_path": null,
+      "rating": {
+        "mean": 9.0,
+        "std_dev": 1.2
+      },
+      "is_starter": true,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "is_motm": false
+    },
+    {
+      "name": "Destiny Udogie",
+      "position": "",
+      "image_path": null,
+      "rating": {
+        "mean": 9.0,
+        "std_dev": 1.3
+      },
+      "is_starter": true,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "is_motm": false
+    },
+    {
+      "name": "Pedro Porro",
+      "position": "",
+      "image_path": null,
+      "rating": {
+        "mean": 9.1,
+        "std_dev": 1.1
+      },
+      "is_starter": true,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "is_motm": false
+    },
+    {
+      "name": "Richarlison",
+      "position": "",
+      "image_path": null,
+      "rating": {
+        "mean": 9.2,
+        "std_dev": 1.1
+      },
+      "is_starter": true,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "is_motm": false
+    },
+    {
+      "name": "Pape Matar Sarr",
+      "position": "",
+      "image_path": null,
+      "rating": {
+        "mean": 9.2,
+        "std_dev": 1.1
+      },
+      "is_starter": true,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "is_motm": false
+    },
+    {
+      "name": "Brennan Johnson",
+      "position": "",
+      "image_path": null,
+      "rating": {
+        "mean": 9.3,
+        "std_dev": 1.0
+      },
+      "is_starter": true,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "is_motm": false
+    },
+    {
+      "name": "Yves Bissouma",
+      "position": "",
+      "image_path": null,
+      "rating": {
+        "mean": 9.4,
+        "std_dev": 0.9
+      },
+      "is_starter": true,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "is_motm": false
+    },
+    {
+      "name": "Cristian Romero",
+      "position": "",
+      "image_path": null,
+      "rating": {
+        "mean": 9.5,
+        "std_dev": 0.8
+      },
+      "is_starter": true,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "is_motm": false
+    },
+    {
+      "name": "Micky Van de Ven",
+      "position": "",
+      "image_path": null,
+      "rating": {
+        "mean": 9.7,
+        "std_dev": 0.6
+      },
+      "is_starter": true,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "is_motm": true
+    }
+  ],
+  "substitute_players": [],
+  "motm_winners": [
+    "Micky Van de Ven"
+  ],
+  "total_responses": 0
+}

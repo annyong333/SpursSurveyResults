@@ -1,0 +1,259 @@
+{
+  "match_id": 13,
+  "metadata": {
+    "opponent": "Crystal Palace",
+    "competition": "Premier League",
+    "matchday": "Matchweek 9",
+    "date": "2024-10-27",
+    "venue": "Selhurst Park",
+    "home_score": 1,
+    "away_score": 0,
+    "is_tottenham_home": false
+  },
+  "formation": "",
+  "team_rating": {
+    "mean": 1.8,
+    "std_dev": 1.4
+  },
+  "opponent_rating": {
+    "mean": 6.5,
+    "std_dev": 1.5
+  },
+  "referee_rating": {
+    "mean": 3.5,
+    "std_dev": 2.2
+  },
+  "coach_ratings": {
+    "name": "Postecoglou",
+    "starting_eleven": {
+      "mean": 5.5,
+      "std_dev": 2.4
+    },
+    "on_field_tactics": {
+      "mean": 3.1,
+      "std_dev": 2.1
+    },
+    "substitutions": {
+      "mean": 3.6,
+      "std_dev": 2.2
+    }
+  },
+  "overall_rating": 4.17,
+  "starting_players": [
+    {
+      "name": "Micky Van de Ven",
+      "position": "",
+      "image_path": null,
+      "rating": {
+        "mean": 3.3,
+        "std_dev": 1.6
+      },
+      "is_starter": true,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "is_motm": false
+    },
+    {
+      "name": "Cristian Romero",
+      "position": "",
+      "image_path": null,
+      "rating": {
+        "mean": 3.4,
+        "std_dev": 1.8
+      },
+      "is_starter": true,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "is_motm": false
+    },
+    {
+      "name": "Richarlison",
+      "position": "",
+      "image_path": null,
+      "rating": {
+        "mean": 3.4,
+        "std_dev": 1.8
+      },
+      "is_starter": true,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "is_motm": false
+    },
+    {
+      "name": "Dejan Kulusevski",
+      "position": "",
+      "image_path": null,
+      "rating": {
+        "mean": 3.6,
+        "std_dev": 1.6
+      },
+      "is_starter": true,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "is_motm": false
+    },
+    {
+      "name": "Pedro Porro",
+      "position": "",
+      "image_path": null,
+      "rating": {
+        "mean": 3.7,
+        "std_dev": 1.8
+      },
+      "is_starter": true,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "is_motm": false
+    },
+    {
+      "name": "Brennan Johnson",
+      "position": "",
+      "image_path": null,
+      "rating": {
+        "mean": 3.7,
+        "std_dev": 1.8
+      },
+      "is_starter": true,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "is_motm": false
+    },
+    {
+      "name": "Mikey Moore",
+      "position": "",
+      "image_path": null,
+      "rating": {
+        "mean": 3.9,
+        "std_dev": 1.7
+      },
+      "is_starter": true,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "is_motm": false
+    },
+    {
+      "name": "James Maddison",
+      "position": "",
+      "image_path": null,
+      "rating": {
+        "mean": 4.1,
+        "std_dev": 1.8
+      },
+      "is_starter": true,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "is_motm": false
+    },
+    {
+      "name": "Yves Bissouma",
+      "position": "",
+      "image_path": null,
+      "rating": {
+        "mean": 4.3,
+        "std_dev": 1.7
+      },
+      "is_starter": true,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "is_motm": false
+    },
+    {
+      "name": "Rodrigo Bentancur",
+      "position": "",
+      "image_path": null,
+      "rating": {
+        "mean": 4.3,
+        "std_dev": 1.7
+      },
+      "is_starter": true,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "is_motm": false
+    },
+    {
+      "name": "Destiny Udogie",
+      "position": "",
+      "image_path": null,
+      "rating": {
+        "mean": 4.6,
+        "std_dev": 1.8
+      },
+      "is_starter": true,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "is_motm": false
+    },
+    {
+      "name": "Dominic Solanke",
+      "position": "",
+      "image_path": null,
+      "rating": {
+        "mean": 4.8,
+        "std_dev": 2.1
+      },
+      "is_starter": true,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "is_motm": false
+    },
+    {
+      "name": "Timo Werner",
+      "position": "",
+      "image_path": null,
+      "rating": {
+        "mean": 4.8,
+        "std_dev": 2.1
+      },
+      "is_starter": true,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "is_motm": false
+    },
+    {
+      "name": "Pape Matar Sarr",
+      "position": "",
+      "image_path": null,
+      "rating": {
+        "mean": 4.9,
+        "std_dev": 1.7
+      },
+      "is_starter": true,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "is_motm": false
+    },
+    {
+      "name": "Guglielmo Vicario",
+      "position": "",
+      "image_path": null,
+      "rating": {
+        "mean": 5.8,
+        "std_dev": 1.9
+      },
+      "is_starter": true,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "is_motm": true
+    }
+  ],
+  "substitute_players": [],
+  "motm_winners": [
+    "Guglielmo Vicario"
+  ],
+  "total_responses": 0
+}

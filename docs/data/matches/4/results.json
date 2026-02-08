@@ -1,0 +1,245 @@
+{
+  "match_id": 4,
+  "metadata": {
+    "opponent": "Arsenal",
+    "competition": "Premier League",
+    "matchday": "Matchweek 4",
+    "date": "2024-09-15",
+    "venue": "Tottenham Hotspur Stadium",
+    "home_score": 0,
+    "away_score": 1,
+    "is_tottenham_home": true
+  },
+  "formation": "",
+  "team_rating": {
+    "mean": 3.4,
+    "std_dev": 1.8
+  },
+  "opponent_rating": {
+    "mean": 5.4,
+    "std_dev": 1.8
+  },
+  "referee_rating": {
+    "mean": 3.6,
+    "std_dev": 2.4
+  },
+  "coach_ratings": {
+    "name": "Postecoglou",
+    "starting_eleven": {
+      "mean": 5.6,
+      "std_dev": 2.0
+    },
+    "on_field_tactics": {
+      "mean": 3.7,
+      "std_dev": 2.3
+    },
+    "substitutions": {
+      "mean": 3.4,
+      "std_dev": 2.2
+    }
+  },
+  "overall_rating": 4.75,
+  "starting_players": [
+    {
+      "name": "Brennan Johnson",
+      "position": "",
+      "image_path": null,
+      "rating": {
+        "mean": 3.3,
+        "std_dev": 1.8
+      },
+      "is_starter": true,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "is_motm": false
+    },
+    {
+      "name": "Timo Werner",
+      "position": "",
+      "image_path": null,
+      "rating": {
+        "mean": 3.6,
+        "std_dev": 1.8
+      },
+      "is_starter": true,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "is_motm": false
+    },
+    {
+      "name": "Heung-Min Son",
+      "position": "",
+      "image_path": null,
+      "rating": {
+        "mean": 4.1,
+        "std_dev": 1.7
+      },
+      "is_starter": true,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "is_motm": false
+    },
+    {
+      "name": "Dominic Solanke",
+      "position": "",
+      "image_path": null,
+      "rating": {
+        "mean": 4.4,
+        "std_dev": 1.8
+      },
+      "is_starter": true,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "is_motm": false
+    },
+    {
+      "name": "Christian Romero",
+      "position": "",
+      "image_path": null,
+      "rating": {
+        "mean": 4.5,
+        "std_dev": 1.8
+      },
+      "is_starter": true,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "is_motm": false
+    },
+    {
+      "name": "Pape Matar Sarr",
+      "position": "",
+      "image_path": null,
+      "rating": {
+        "mean": 4.5,
+        "std_dev": 1.6
+      },
+      "is_starter": true,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "is_motm": false
+    },
+    {
+      "name": "James Maddison",
+      "position": "",
+      "image_path": null,
+      "rating": {
+        "mean": 4.6,
+        "std_dev": 1.6
+      },
+      "is_starter": true,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "is_motm": false
+    },
+    {
+      "name": "Rodrigo Bentancur",
+      "position": "",
+      "image_path": null,
+      "rating": {
+        "mean": 4.8,
+        "std_dev": 1.5
+      },
+      "is_starter": true,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "is_motm": false
+    },
+    {
+      "name": "Guglielmo Vicario",
+      "position": "",
+      "image_path": null,
+      "rating": {
+        "mean": 4.9,
+        "std_dev": 1.9
+      },
+      "is_starter": true,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "is_motm": false
+    },
+    {
+      "name": "Destiny Udogie",
+      "position": "",
+      "image_path": null,
+      "rating": {
+        "mean": 5.0,
+        "std_dev": 1.6
+      },
+      "is_starter": true,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "is_motm": false
+    },
+    {
+      "name": "Wilson Odobert",
+      "position": "",
+      "image_path": null,
+      "rating": {
+        "mean": 5.1,
+        "std_dev": 1.6
+      },
+      "is_starter": true,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "is_motm": false
+    },
+    {
+      "name": "Pedro Porro",
+      "position": "",
+      "image_path": null,
+      "rating": {
+        "mean": 5.4,
+        "std_dev": 1.5
+      },
+      "is_starter": true,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "is_motm": false
+    },
+    {
+      "name": "Dejan Kulusevski",
+      "position": "",
+      "image_path": null,
+      "rating": {
+        "mean": 5.7,
+        "std_dev": 1.6
+      },
+      "is_starter": true,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "is_motm": false
+    },
+    {
+      "name": "Micky Van de Ven",
+      "position": "",
+      "image_path": null,
+      "rating": {
+        "mean": 6.6,
+        "std_dev": 1.6
+      },
+      "is_starter": true,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "is_motm": true
+    }
+  ],
+  "substitute_players": [],
+  "motm_winners": [
+    "Micky Van de Ven"
+  ],
+  "total_responses": 0
+}

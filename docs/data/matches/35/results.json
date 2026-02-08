@@ -1,0 +1,245 @@
+{
+  "match_id": 35,
+  "metadata": {
+    "opponent": "Leicester City",
+    "competition": "Premier League",
+    "matchday": "Matchweek 23",
+    "date": "2025-01-26",
+    "venue": "Tottenham Hotspur Stadium",
+    "home_score": 1,
+    "away_score": 2,
+    "is_tottenham_home": true
+  },
+  "formation": "",
+  "team_rating": {
+    "mean": 2.0,
+    "std_dev": 1.6
+  },
+  "opponent_rating": {
+    "mean": 4.6,
+    "std_dev": 1.9
+  },
+  "referee_rating": {
+    "mean": 3.8,
+    "std_dev": 2.1
+  },
+  "coach_ratings": {
+    "name": "Postecoglou",
+    "starting_eleven": {
+      "mean": 4.7,
+      "std_dev": 2.5
+    },
+    "on_field_tactics": {
+      "mean": 2.5,
+      "std_dev": 2.2
+    },
+    "substitutions": {
+      "mean": 3.0,
+      "std_dev": 2.5
+    }
+  },
+  "overall_rating": 4.24,
+  "starting_players": [
+    {
+      "name": "Pape Matar Sarr",
+      "position": "",
+      "image_path": null,
+      "rating": {
+        "mean": 2.5,
+        "std_dev": 1.6
+      },
+      "is_starter": true,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "is_motm": false
+    },
+    {
+      "name": "Pedro Porro",
+      "position": "",
+      "image_path": null,
+      "rating": {
+        "mean": 2.5,
+        "std_dev": 2.0
+      },
+      "is_starter": true,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "is_motm": false
+    },
+    {
+      "name": "Dejan Kulusevski",
+      "position": "",
+      "image_path": null,
+      "rating": {
+        "mean": 3.8,
+        "std_dev": 1.9
+      },
+      "is_starter": true,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "is_motm": false
+    },
+    {
+      "name": "Ben Davies",
+      "position": "",
+      "image_path": null,
+      "rating": {
+        "mean": 3.8,
+        "std_dev": 1.7
+      },
+      "is_starter": true,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "is_motm": false
+    },
+    {
+      "name": "Rodrigo Bentancur",
+      "position": "",
+      "image_path": null,
+      "rating": {
+        "mean": 3.9,
+        "std_dev": 1.8
+      },
+      "is_starter": true,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "is_motm": false
+    },
+    {
+      "name": "Radu Dragusin",
+      "position": "",
+      "image_path": null,
+      "rating": {
+        "mean": 3.9,
+        "std_dev": 2.0
+      },
+      "is_starter": true,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "is_motm": false
+    },
+    {
+      "name": "Sergio Reguilon",
+      "position": "",
+      "image_path": null,
+      "rating": {
+        "mean": 4.0,
+        "std_dev": 1.8
+      },
+      "is_starter": true,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "is_motm": false
+    },
+    {
+      "name": "Will Lankshear",
+      "position": "",
+      "image_path": null,
+      "rating": {
+        "mean": 4.5,
+        "std_dev": 1.8
+      },
+      "is_starter": true,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "is_motm": false
+    },
+    {
+      "name": "Heung-Min Son",
+      "position": "",
+      "image_path": null,
+      "rating": {
+        "mean": 4.5,
+        "std_dev": 2.0
+      },
+      "is_starter": true,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "is_motm": false
+    },
+    {
+      "name": "Antonin Kinsey",
+      "position": "",
+      "image_path": null,
+      "rating": {
+        "mean": 4.6,
+        "std_dev": 1.7
+      },
+      "is_starter": true,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "is_motm": false
+    },
+    {
+      "name": "Mikey Moore",
+      "position": "",
+      "image_path": null,
+      "rating": {
+        "mean": 4.9,
+        "std_dev": 1.7
+      },
+      "is_starter": true,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "is_motm": false
+    },
+    {
+      "name": "Lucas Bergvall",
+      "position": "",
+      "image_path": null,
+      "rating": {
+        "mean": 4.9,
+        "std_dev": 1.7
+      },
+      "is_starter": true,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "is_motm": false
+    },
+    {
+      "name": "Archie Gray",
+      "position": "",
+      "image_path": null,
+      "rating": {
+        "mean": 5.2,
+        "std_dev": 1.9
+      },
+      "is_starter": true,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "is_motm": false
+    },
+    {
+      "name": "Richarlison",
+      "position": "",
+      "image_path": null,
+      "rating": {
+        "mean": 6.3,
+        "std_dev": 1.6
+      },
+      "is_starter": true,
+      "goals": 0,
+      "assists": 0,
+      "own_goals": 0,
+      "is_motm": true
+    }
+  ],
+  "substitute_players": [],
+  "motm_winners": [
+    "Richarlison"
+  ],
+  "total_responses": 0
+}
