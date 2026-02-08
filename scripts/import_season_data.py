@@ -1,5 +1,6 @@
 """Import 24-25 season data from Excel into matches.json for the archive site."""
 
+import csv
 import json
 import openpyxl
 from datetime import datetime, timedelta
@@ -209,6 +210,39 @@ def main():
 
     print(f"Wrote {len(matches_index)} matches to {out / 'matches.json'}")
     print(f"Wrote {len(all_match_details)} match detail files")
+
+    # Write CSV with all player ratings flattened
+    csv_path = out / "all_ratings.csv"
+    with open(csv_path, "w", newline="", encoding="utf-8") as f:
+        writer = csv.writer(f)
+        writer.writerow([
+            "date", "opponent", "competition", "matchday", "venue",
+            "home_away", "spurs_score", "opponent_score", "result",
+            "player", "rating", "std_dev", "is_motm",
+            "team_rating", "team_rating_std",
+            "opponent_rating", "opponent_rating_std",
+            "referee_rating", "referee_rating_std",
+            "overall_rating",
+        ])
+        for detail in sorted(all_match_details, key=lambda d: d["metadata"]["date"], reverse=True):
+            m = detail["metadata"]
+            ss, os_ = m["spurs_score"], m["opponent_score"]
+            result = "W" if ss > os_ else ("L" if ss < os_ else "D")
+            tr = detail["team_rating"]
+            opr = detail["opponent_rating"]
+            rr = detail["referee_rating"]
+            for p in detail["starting_players"] + detail["substitute_players"]:
+                writer.writerow([
+                    m["date"], m["opponent"], m["competition"], m["matchday"],
+                    m["venue"], m["home_away"], ss, os_, result,
+                    p["name"], round(p["rating"]["mean"], 2), round(p["rating"]["std_dev"], 2),
+                    p["is_motm"],
+                    round(tr["mean"], 2), round(tr["std_dev"], 2),
+                    round(opr["mean"], 2), round(opr["std_dev"], 2),
+                    round(rr["mean"], 2), round(rr["std_dev"], 2),
+                    detail["overall_rating"],
+                ])
+    print(f"Wrote CSV to {csv_path}")
 
 
 if __name__ == "__main__":

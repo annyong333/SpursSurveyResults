@@ -1,5 +1,6 @@
 import { useState } from 'react';
 import { Link } from 'react-router-dom';
+import { Download } from 'lucide-react';
 import type { Match } from '../types';
 
 interface MatchListProps {
@@ -97,6 +98,14 @@ export function MatchList({ matches }: MatchListProps) {
                 >
                     Clear filters
                 </button>
+                <a
+                    href={`${import.meta.env.BASE_URL}data/all_ratings.csv`}
+                    download="all_ratings.csv"
+                    className="flex items-center gap-1.5 border border-[#30363d] text-[#c9d1d9] rounded px-4 py-2 text-sm font-semibold hover:bg-[#161b22] hover:text-[#d4a843] transition-colors ml-auto"
+                >
+                    <Download size={14} />
+                    Download CSV
+                </a>
             </div>
 
             {/* Match Cards */}

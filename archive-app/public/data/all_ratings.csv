@@ -1,0 +1,920 @@
+date,opponent,competition,matchday,venue,home_away,spurs_score,opponent_score,result,player,rating,std_dev,is_motm,team_rating,team_rating_std,opponent_rating,opponent_rating_std,referee_rating,referee_rating_std,overall_rating
+2025-05-25,Brighton,Premier League,Matchweek 38,Tottenham Hotspur Stadium,Home,1,3,L,Yves Bissouma,3.1,1.8,False,3.0,1.3,7.4,1.0,5.5,2.0,4.69
+2025-05-25,Brighton,Premier League,Matchweek 38,Tottenham Hotspur Stadium,Home,1,3,L,Archie Gray,3.4,1.8,False,3.0,1.3,7.4,1.0,5.5,2.0,4.69
+2025-05-25,Brighton,Premier League,Matchweek 38,Tottenham Hotspur Stadium,Home,1,3,L,Wilson Odobert,4.0,1.7,False,3.0,1.3,7.4,1.0,5.5,2.0,4.69
+2025-05-25,Brighton,Premier League,Matchweek 38,Tottenham Hotspur Stadium,Home,1,3,L,Destiny Udogie,4.1,1.7,False,3.0,1.3,7.4,1.0,5.5,2.0,4.69
+2025-05-25,Brighton,Premier League,Matchweek 38,Tottenham Hotspur Stadium,Home,1,3,L,Djed Spence,4.2,1.4,False,3.0,1.3,7.4,1.0,5.5,2.0,4.69
+2025-05-25,Brighton,Premier League,Matchweek 38,Tottenham Hotspur Stadium,Home,1,3,L,Pape Matar Sarr,4.5,1.2,False,3.0,1.3,7.4,1.0,5.5,2.0,4.69
+2025-05-25,Brighton,Premier League,Matchweek 38,Tottenham Hotspur Stadium,Home,1,3,L,Richarlison,4.5,1.7,False,3.0,1.3,7.4,1.0,5.5,2.0,4.69
+2025-05-25,Brighton,Premier League,Matchweek 38,Tottenham Hotspur Stadium,Home,1,3,L,Pedro Porro,4.5,1.3,False,3.0,1.3,7.4,1.0,5.5,2.0,4.69
+2025-05-25,Brighton,Premier League,Matchweek 38,Tottenham Hotspur Stadium,Home,1,3,L,Guglielmo Vicario,4.7,1.4,False,3.0,1.3,7.4,1.0,5.5,2.0,4.69
+2025-05-25,Brighton,Premier League,Matchweek 38,Tottenham Hotspur Stadium,Home,1,3,L,Brennan Johnson,4.7,1.9,False,3.0,1.3,7.4,1.0,5.5,2.0,4.69
+2025-05-25,Brighton,Premier League,Matchweek 38,Tottenham Hotspur Stadium,Home,1,3,L,Ben Davies,4.7,1.6,False,3.0,1.3,7.4,1.0,5.5,2.0,4.69
+2025-05-25,Brighton,Premier League,Matchweek 38,Tottenham Hotspur Stadium,Home,1,3,L,Dominic Solanke,5.2,1.6,False,3.0,1.3,7.4,1.0,5.5,2.0,4.69
+2025-05-25,Brighton,Premier League,Matchweek 38,Tottenham Hotspur Stadium,Home,1,3,L,Micky Van de Ven,5.5,1.7,False,3.0,1.3,7.4,1.0,5.5,2.0,4.69
+2025-05-25,Brighton,Premier League,Matchweek 38,Tottenham Hotspur Stadium,Home,1,3,L,Kevin Danso,5.6,1.7,False,3.0,1.3,7.4,1.0,5.5,2.0,4.69
+2025-05-25,Brighton,Premier League,Matchweek 38,Tottenham Hotspur Stadium,Home,1,3,L,Mathys Tel,5.9,1.7,False,3.0,1.3,7.4,1.0,5.5,2.0,4.69
+2025-05-25,Brighton,Premier League,Matchweek 38,Tottenham Hotspur Stadium,Home,1,3,L,Rodrigo Bentancur,6.4,2.0,True,3.0,1.3,7.4,1.0,5.5,2.0,4.69
+2025-05-21,Manchester Utd,Europa Lg,Final,San Mamés Stadium,Neutral,1,0,W,Archie Gray,8.4,1.7,False,9.2,1.1,3.1,2.3,5.1,2.7,9.0
+2025-05-21,Manchester Utd,Europa Lg,Final,San Mamés Stadium,Neutral,1,0,W,Heung-Min Son,8.4,1.8,False,9.2,1.1,3.1,2.3,5.1,2.7,9.0
+2025-05-21,Manchester Utd,Europa Lg,Final,San Mamés Stadium,Neutral,1,0,W,Djed Spence,8.4,1.6,False,9.2,1.1,3.1,2.3,5.1,2.7,9.0
+2025-05-21,Manchester Utd,Europa Lg,Final,San Mamés Stadium,Neutral,1,0,W,Guglielmo Vicario,8.7,1.5,False,9.2,1.1,3.1,2.3,5.1,2.7,9.0
+2025-05-21,Manchester Utd,Europa Lg,Final,San Mamés Stadium,Neutral,1,0,W,Dominic Solanke,8.7,1.4,False,9.2,1.1,3.1,2.3,5.1,2.7,9.0
+2025-05-21,Manchester Utd,Europa Lg,Final,San Mamés Stadium,Neutral,1,0,W,Rodrigo Bentancur,9.0,1.2,False,9.2,1.1,3.1,2.3,5.1,2.7,9.0
+2025-05-21,Manchester Utd,Europa Lg,Final,San Mamés Stadium,Neutral,1,0,W,Kevin Danso,9.0,1.2,False,9.2,1.1,3.1,2.3,5.1,2.7,9.0
+2025-05-21,Manchester Utd,Europa Lg,Final,San Mamés Stadium,Neutral,1,0,W,Destiny Udogie,9.0,1.3,False,9.2,1.1,3.1,2.3,5.1,2.7,9.0
+2025-05-21,Manchester Utd,Europa Lg,Final,San Mamés Stadium,Neutral,1,0,W,Pedro Porro,9.1,1.1,False,9.2,1.1,3.1,2.3,5.1,2.7,9.0
+2025-05-21,Manchester Utd,Europa Lg,Final,San Mamés Stadium,Neutral,1,0,W,Richarlison,9.2,1.1,False,9.2,1.1,3.1,2.3,5.1,2.7,9.0
+2025-05-21,Manchester Utd,Europa Lg,Final,San Mamés Stadium,Neutral,1,0,W,Pape Matar Sarr,9.2,1.1,False,9.2,1.1,3.1,2.3,5.1,2.7,9.0
+2025-05-21,Manchester Utd,Europa Lg,Final,San Mamés Stadium,Neutral,1,0,W,Brennan Johnson,9.3,1.0,False,9.2,1.1,3.1,2.3,5.1,2.7,9.0
+2025-05-21,Manchester Utd,Europa Lg,Final,San Mamés Stadium,Neutral,1,0,W,Yves Bissouma,9.4,0.9,False,9.2,1.1,3.1,2.3,5.1,2.7,9.0
+2025-05-21,Manchester Utd,Europa Lg,Final,San Mamés Stadium,Neutral,1,0,W,Cristian Romero,9.5,0.8,False,9.2,1.1,3.1,2.3,5.1,2.7,9.0
+2025-05-21,Manchester Utd,Europa Lg,Final,San Mamés Stadium,Neutral,1,0,W,Micky Van de Ven,9.7,0.6,True,9.2,1.1,3.1,2.3,5.1,2.7,9.0
+2025-05-18,Aston Villa,Premier League,Matchweek 37,Villa Park,Away,0,1,L,Archie Gray,3.7,1.7,False,3.5,2.0,6.1,1.6,5.3,1.6,4.9
+2025-05-18,Aston Villa,Premier League,Matchweek 37,Villa Park,Away,0,1,L,Brennan Johnson,4.1,1.8,False,3.5,2.0,6.1,1.6,5.3,1.6,4.9
+2025-05-18,Aston Villa,Premier League,Matchweek 37,Villa Park,Away,0,1,L,Yves Bissouma,4.2,2.0,False,3.5,2.0,6.1,1.6,5.3,1.6,4.9
+2025-05-18,Aston Villa,Premier League,Matchweek 37,Villa Park,Away,0,1,L,Mikey Moore,4.2,1.8,False,3.5,2.0,6.1,1.6,5.3,1.6,4.9
+2025-05-18,Aston Villa,Premier League,Matchweek 37,Villa Park,Away,0,1,L,Djed Spence,4.3,1.8,False,3.5,2.0,6.1,1.6,5.3,1.6,4.9
+2025-05-18,Aston Villa,Premier League,Matchweek 37,Villa Park,Away,0,1,L,Pape Matar Sarr,4.5,1.6,False,3.5,2.0,6.1,1.6,5.3,1.6,4.9
+2025-05-18,Aston Villa,Premier League,Matchweek 37,Villa Park,Away,0,1,L,Richarlison,4.6,1.7,False,3.5,2.0,6.1,1.6,5.3,1.6,4.9
+2025-05-18,Aston Villa,Premier League,Matchweek 37,Villa Park,Away,0,1,L,Rodrigo Bentancur,4.6,1.5,False,3.5,2.0,6.1,1.6,5.3,1.6,4.9
+2025-05-18,Aston Villa,Premier League,Matchweek 37,Villa Park,Away,0,1,L,Sergio Reguilon,4.7,2.1,False,3.5,2.0,6.1,1.6,5.3,1.6,4.9
+2025-05-18,Aston Villa,Premier League,Matchweek 37,Villa Park,Away,0,1,L,Ben Davies,4.8,1.9,False,3.5,2.0,6.1,1.6,5.3,1.6,4.9
+2025-05-18,Aston Villa,Premier League,Matchweek 37,Villa Park,Away,0,1,L,Dominic Solanke,4.8,1.4,False,3.5,2.0,6.1,1.6,5.3,1.6,4.9
+2025-05-18,Aston Villa,Premier League,Matchweek 37,Villa Park,Away,0,1,L,Wilson Odobert,5.3,2.2,False,3.5,2.0,6.1,1.6,5.3,1.6,4.9
+2025-05-18,Aston Villa,Premier League,Matchweek 37,Villa Park,Away,0,1,L,Mathys Tel,5.7,1.9,False,3.5,2.0,6.1,1.6,5.3,1.6,4.9
+2025-05-18,Aston Villa,Premier League,Matchweek 37,Villa Park,Away,0,1,L,Antonin Kinsky,6.2,2.0,False,3.5,2.0,6.1,1.6,5.3,1.6,4.9
+2025-05-18,Aston Villa,Premier League,Matchweek 37,Villa Park,Away,0,1,L,Heung-Min Son,6.3,1.8,False,3.5,2.0,6.1,1.6,5.3,1.6,4.9
+2025-05-18,Aston Villa,Premier League,Matchweek 37,Villa Park,Away,0,1,L,Kevin Danso,6.4,1.8,True,3.5,2.0,6.1,1.6,5.3,1.6,4.9
+2025-05-10,Crystal Palace,Premier League,Matchweek 36,Tottenham Hotspur Stadium,Home,2,0,W,Archie Gray,2.6,1.8,False,2.0,1.5,6.6,1.5,5.0,1.6,3.97
+2025-05-10,Crystal Palace,Premier League,Matchweek 36,Tottenham Hotspur Stadium,Home,2,0,W,Djed Spence,2.6,2.2,False,2.0,1.5,6.6,1.5,5.0,1.6,3.97
+2025-05-10,Crystal Palace,Premier League,Matchweek 36,Tottenham Hotspur Stadium,Home,2,0,W,Pape Matar Sarr,3.1,1.7,False,2.0,1.5,6.6,1.5,5.0,1.6,3.97
+2025-05-10,Crystal Palace,Premier League,Matchweek 36,Tottenham Hotspur Stadium,Home,2,0,W,Ben Davies,3.4,2.0,False,2.0,1.5,6.6,1.5,5.0,1.6,3.97
+2025-05-10,Crystal Palace,Premier League,Matchweek 36,Tottenham Hotspur Stadium,Home,2,0,W,Yves Bissouma,3.6,1.9,False,2.0,1.5,6.6,1.5,5.0,1.6,3.97
+2025-05-10,Crystal Palace,Premier League,Matchweek 36,Tottenham Hotspur Stadium,Home,2,0,W,Rodrigo Bentancur,3.7,1.7,False,2.0,1.5,6.6,1.5,5.0,1.6,3.97
+2025-05-10,Crystal Palace,Premier League,Matchweek 36,Tottenham Hotspur Stadium,Home,2,0,W,Dejan Kulusevski,3.7,1.8,False,2.0,1.5,6.6,1.5,5.0,1.6,3.97
+2025-05-10,Crystal Palace,Premier League,Matchweek 36,Tottenham Hotspur Stadium,Home,2,0,W,Wilson Odobert,4.1,1.9,False,2.0,1.5,6.6,1.5,5.0,1.6,3.97
+2025-05-10,Crystal Palace,Premier League,Matchweek 36,Tottenham Hotspur Stadium,Home,2,0,W,Mikey Moore,4.2,1.5,False,2.0,1.5,6.6,1.5,5.0,1.6,3.97
+2025-05-10,Crystal Palace,Premier League,Matchweek 36,Tottenham Hotspur Stadium,Home,2,0,W,Heung-Min Son,4.4,2.1,False,2.0,1.5,6.6,1.5,5.0,1.6,3.97
+2025-05-10,Crystal Palace,Premier League,Matchweek 36,Tottenham Hotspur Stadium,Home,2,0,W,Mathys Tel,4.6,2.2,False,2.0,1.5,6.6,1.5,5.0,1.6,3.97
+2025-05-10,Crystal Palace,Premier League,Matchweek 36,Tottenham Hotspur Stadium,Home,2,0,W,Kevin Danso,4.6,2.0,False,2.0,1.5,6.6,1.5,5.0,1.6,3.97
+2025-05-10,Crystal Palace,Premier League,Matchweek 36,Tottenham Hotspur Stadium,Home,2,0,W,Pedro Porro,5.0,1.7,False,2.0,1.5,6.6,1.5,5.0,1.6,3.97
+2025-05-10,Crystal Palace,Premier League,Matchweek 36,Tottenham Hotspur Stadium,Home,2,0,W,Antonin Kinsky,6.0,1.6,True,2.0,1.5,6.6,1.5,5.0,1.6,3.97
+2025-05-08,no Bodø/Glimt,Europa Lg,Semi-finals,Aspmyra Stadion,Away,2,0,W,Brennan Johnson,6.4,1.8,False,8.6,1.1,5.0,1.9,6.8,1.7,7.95
+2025-05-08,no Bodø/Glimt,Europa Lg,Semi-finals,Aspmyra Stadion,Away,2,0,W,Dejan Kulusevski,6.8,1.7,False,8.6,1.1,5.0,1.9,6.8,1.7,7.95
+2025-05-08,no Bodø/Glimt,Europa Lg,Semi-finals,Aspmyra Stadion,Away,2,0,W,Pape Sarr,7.2,1.3,False,8.6,1.1,5.0,1.9,6.8,1.7,7.95
+2025-05-08,no Bodø/Glimt,Europa Lg,Semi-finals,Aspmyra Stadion,Away,2,0,W,Richarlison,7.2,1.5,False,8.6,1.1,5.0,1.9,6.8,1.7,7.95
+2025-05-08,no Bodø/Glimt,Europa Lg,Semi-finals,Aspmyra Stadion,Away,2,0,W,Mathys Tel,7.4,1.4,False,8.6,1.1,5.0,1.9,6.8,1.7,7.95
+2025-05-08,no Bodø/Glimt,Europa Lg,Semi-finals,Aspmyra Stadion,Away,2,0,W,Guglielmo Vicario,7.8,1.2,False,8.6,1.1,5.0,1.9,6.8,1.7,7.95
+2025-05-08,no Bodø/Glimt,Europa Lg,Semi-finals,Aspmyra Stadion,Away,2,0,W,Rodrigo Bentancur,8.3,1.2,False,8.6,1.1,5.0,1.9,6.8,1.7,7.95
+2025-05-08,no Bodø/Glimt,Europa Lg,Semi-finals,Aspmyra Stadion,Away,2,0,W,Yves Bissouma,8.4,1.2,False,8.6,1.1,5.0,1.9,6.8,1.7,7.95
+2025-05-08,no Bodø/Glimt,Europa Lg,Semi-finals,Aspmyra Stadion,Away,2,0,W,Micky Van de Ven,8.6,1.0,False,8.6,1.1,5.0,1.9,6.8,1.7,7.95
+2025-05-08,no Bodø/Glimt,Europa Lg,Semi-finals,Aspmyra Stadion,Away,2,0,W,Dominic Solanke,8.6,1.0,False,8.6,1.1,5.0,1.9,6.8,1.7,7.95
+2025-05-08,no Bodø/Glimt,Europa Lg,Semi-finals,Aspmyra Stadion,Away,2,0,W,Destiny Udogie,8.6,1.1,False,8.6,1.1,5.0,1.9,6.8,1.7,7.95
+2025-05-08,no Bodø/Glimt,Europa Lg,Semi-finals,Aspmyra Stadion,Away,2,0,W,Pedro Porro,9.0,0.9,False,8.6,1.1,5.0,1.9,6.8,1.7,7.95
+2025-05-08,no Bodø/Glimt,Europa Lg,Semi-finals,Aspmyra Stadion,Away,2,0,W,Christian Romero,9.1,0.9,True,8.6,1.1,5.0,1.9,6.8,1.7,7.95
+2025-05-03,West Ham,Premier League,Matchweek 35,London Stadium,Away,1,2,L,Dejan Kulusevski,3.6,2.0,False,4.0,1.5,3.7,1.6,3.5,2.1,5.12
+2025-05-03,West Ham,Premier League,Matchweek 35,London Stadium,Away,1,2,L,Archie Gray,4.6,1.5,False,4.0,1.5,3.7,1.6,3.5,2.1,5.12
+2025-05-03,West Ham,Premier League,Matchweek 35,London Stadium,Away,1,2,L,Pape Matar Sarr,4.7,1.4,False,4.0,1.5,3.7,1.6,3.5,2.1,5.12
+2025-05-03,West Ham,Premier League,Matchweek 35,London Stadium,Away,1,2,L,Ben Davies,4.7,1.6,False,4.0,1.5,3.7,1.6,3.5,2.1,5.12
+2025-05-03,West Ham,Premier League,Matchweek 35,London Stadium,Away,1,2,L,Guglielmo Vicario,4.9,1.8,False,4.0,1.5,3.7,1.6,3.5,2.1,5.12
+2025-05-03,West Ham,Premier League,Matchweek 35,London Stadium,Away,1,2,L,Yves Bissouma,5.0,1.3,False,4.0,1.5,3.7,1.6,3.5,2.1,5.12
+2025-05-03,West Ham,Premier League,Matchweek 35,London Stadium,Away,1,2,L,Djed Spence,5.0,1.7,False,4.0,1.5,3.7,1.6,3.5,2.1,5.12
+2025-05-03,West Ham,Premier League,Matchweek 35,London Stadium,Away,1,2,L,Richarlison,5.1,1.7,False,4.0,1.5,3.7,1.6,3.5,2.1,5.12
+2025-05-03,West Ham,Premier League,Matchweek 35,London Stadium,Away,1,2,L,Wilson Odobert,5.9,1.2,False,4.0,1.5,3.7,1.6,3.5,2.1,5.12
+2025-05-03,West Ham,Premier League,Matchweek 35,London Stadium,Away,1,2,L,Mikey Moore,5.9,1.4,False,4.0,1.5,3.7,1.6,3.5,2.1,5.12
+2025-05-03,West Ham,Premier League,Matchweek 35,London Stadium,Away,1,2,L,Mathys Tel,6.0,1.5,True,4.0,1.5,3.7,1.6,3.5,2.1,5.12
+2025-05-03,West Ham,Premier League,Matchweek 35,London Stadium,Away,1,2,L,Kevin Danso,6.0,1.4,False,4.0,1.5,3.7,1.6,3.5,2.1,5.12
+2025-05-01,no Bodø/Glimt,Europa Lg,Semi-finals,Tottenham Hotspur Stadium,Home,3,1,W,Dejan Kulusevski,5.7,1.3,False,7.7,1.0,4.9,1.3,6.1,1.5,7.14
+2025-05-01,no Bodø/Glimt,Europa Lg,Semi-finals,Tottenham Hotspur Stadium,Home,3,1,W,Wilson Odobert,5.8,1.2,False,7.7,1.0,4.9,1.3,6.1,1.5,7.14
+2025-05-01,no Bodø/Glimt,Europa Lg,Semi-finals,Tottenham Hotspur Stadium,Home,3,1,W,Mathys Tel,6.2,1.2,False,7.7,1.0,4.9,1.3,6.1,1.5,7.14
+2025-05-01,no Bodø/Glimt,Europa Lg,Semi-finals,Tottenham Hotspur Stadium,Home,3,1,W,Guglielmo Vicario,6.6,1.1,False,7.7,1.0,4.9,1.3,6.1,1.5,7.14
+2025-05-01,no Bodø/Glimt,Europa Lg,Semi-finals,Tottenham Hotspur Stadium,Home,3,1,W,Richarlison,7.0,1.2,False,7.7,1.0,4.9,1.3,6.1,1.5,7.14
+2025-05-01,no Bodø/Glimt,Europa Lg,Semi-finals,Tottenham Hotspur Stadium,Home,3,1,W,Brennan Johnson,7.1,1.3,False,7.7,1.0,4.9,1.3,6.1,1.5,7.14
+2025-05-01,no Bodø/Glimt,Europa Lg,Semi-finals,Tottenham Hotspur Stadium,Home,3,1,W,Christian Romero,7.1,1.2,False,7.7,1.0,4.9,1.3,6.1,1.5,7.14
+2025-05-01,no Bodø/Glimt,Europa Lg,Semi-finals,Tottenham Hotspur Stadium,Home,3,1,W,Micky Van de Ven,7.2,0.9,False,7.7,1.0,4.9,1.3,6.1,1.5,7.14
+2025-05-01,no Bodø/Glimt,Europa Lg,Semi-finals,Tottenham Hotspur Stadium,Home,3,1,W,Yves Bissouma,7.6,1.2,False,7.7,1.0,4.9,1.3,6.1,1.5,7.14
+2025-05-01,no Bodø/Glimt,Europa Lg,Semi-finals,Tottenham Hotspur Stadium,Home,3,1,W,Destiny Udogie,7.6,1.1,False,7.7,1.0,4.9,1.3,6.1,1.5,7.14
+2025-05-01,no Bodø/Glimt,Europa Lg,Semi-finals,Tottenham Hotspur Stadium,Home,3,1,W,Dominic Solanke,7.7,1.0,False,7.7,1.0,4.9,1.3,6.1,1.5,7.14
+2025-05-01,no Bodø/Glimt,Europa Lg,Semi-finals,Tottenham Hotspur Stadium,Home,3,1,W,Rodrigo Bentancur,8.0,1.2,False,7.7,1.0,4.9,1.3,6.1,1.5,7.14
+2025-05-01,no Bodø/Glimt,Europa Lg,Semi-finals,Tottenham Hotspur Stadium,Home,3,1,W,James Maddison,8.2,0.9,True,7.7,1.0,4.9,1.3,6.1,1.5,7.14
+2025-05-01,no Bodø/Glimt,Europa Lg,Semi-finals,Tottenham Hotspur Stadium,Home,3,1,W,Pedro Porro,8.2,1.0,False,7.7,1.0,4.9,1.3,6.1,1.5,7.14
+2025-04-26,Liverpool,Premier League,Matchweek 34,Anfield,Away,1,5,L,Brennan Johnson,1.4,1.7,False,0.9,1.2,8.1,1.7,4.8,2.3,2.27
+2025-04-26,Liverpool,Premier League,Matchweek 34,Anfield,Away,1,5,L,Archie Gray,1.4,1.5,False,0.9,1.2,8.1,1.7,4.8,2.3,2.27
+2025-04-26,Liverpool,Premier League,Matchweek 34,Anfield,Away,1,5,L,Guglielmo Vicario,1.5,1.7,False,0.9,1.2,8.1,1.7,4.8,2.3,2.27
+2025-04-26,Liverpool,Premier League,Matchweek 34,Anfield,Away,1,5,L,Destiny Udogie,1.8,1.8,False,0.9,1.2,8.1,1.7,4.8,2.3,2.27
+2025-04-26,Liverpool,Premier League,Matchweek 34,Anfield,Away,1,5,L,Dejan Kulusevski,1.9,1.9,False,0.9,1.2,8.1,1.7,4.8,2.3,2.27
+2025-04-26,Liverpool,Premier League,Matchweek 34,Anfield,Away,1,5,L,Djed Spence,2.1,2.0,False,0.9,1.2,8.1,1.7,4.8,2.3,2.27
+2025-04-26,Liverpool,Premier League,Matchweek 34,Anfield,Away,1,5,L,Wilson Odobert,2.1,2.0,False,0.9,1.2,8.1,1.7,4.8,2.3,2.27
+2025-04-26,Liverpool,Premier League,Matchweek 34,Anfield,Away,1,5,L,Richarlison,2.1,1.8,False,0.9,1.2,8.1,1.7,4.8,2.3,2.27
+2025-04-26,Liverpool,Premier League,Matchweek 34,Anfield,Away,1,5,L,Ben Davies,2.2,1.9,False,0.9,1.2,8.1,1.7,4.8,2.3,2.27
+2025-04-26,Liverpool,Premier League,Matchweek 34,Anfield,Away,1,5,L,Pape Sarr,2.2,1.9,False,0.9,1.2,8.1,1.7,4.8,2.3,2.27
+2025-04-26,Liverpool,Premier League,Matchweek 34,Anfield,Away,1,5,L,James Maddison,2.5,2.2,False,0.9,1.2,8.1,1.7,4.8,2.3,2.27
+2025-04-26,Liverpool,Premier League,Matchweek 34,Anfield,Away,1,5,L,Mathys Tel,2.5,2.2,False,0.9,1.2,8.1,1.7,4.8,2.3,2.27
+2025-04-26,Liverpool,Premier League,Matchweek 34,Anfield,Away,1,5,L,Kevin Danso,3.0,2.2,False,0.9,1.2,8.1,1.7,4.8,2.3,2.27
+2025-04-26,Liverpool,Premier League,Matchweek 34,Anfield,Away,1,5,L,Lucas Bergvall,3.0,2.2,False,0.9,1.2,8.1,1.7,4.8,2.3,2.27
+2025-04-26,Liverpool,Premier League,Matchweek 34,Anfield,Away,1,5,L,Dominic Solanke,4.3,2.1,True,0.9,1.2,8.1,1.7,4.8,2.3,2.27
+2025-04-19,Nott'ham Forest,Premier League,Matchweek 33,Tottenham Hotspur Stadium,Home,1,2,L,Guglielmo Vicario,2.8,1.6,False,4.7,2.0,5.6,1.6,4.7,2.1,5.04
+2025-04-19,Nott'ham Forest,Premier League,Matchweek 33,Tottenham Hotspur Stadium,Home,1,2,L,Dejan Kulusevski,3.9,1.8,False,4.7,2.0,5.6,1.6,4.7,2.1,5.04
+2025-04-19,Nott'ham Forest,Premier League,Matchweek 33,Tottenham Hotspur Stadium,Home,1,2,L,Brennan Johnson,4.1,1.7,False,4.7,2.0,5.6,1.6,4.7,2.1,5.04
+2025-04-19,Nott'ham Forest,Premier League,Matchweek 33,Tottenham Hotspur Stadium,Home,1,2,L,Christian Romero,4.3,1.8,False,4.7,2.0,5.6,1.6,4.7,2.1,5.04
+2025-04-19,Nott'ham Forest,Premier League,Matchweek 33,Tottenham Hotspur Stadium,Home,1,2,L,Pape Matar Sarr,4.3,1.8,False,4.7,2.0,5.6,1.6,4.7,2.1,5.04
+2025-04-19,Nott'ham Forest,Premier League,Matchweek 33,Tottenham Hotspur Stadium,Home,1,2,L,Dominic Solanke,4.8,1.7,False,4.7,2.0,5.6,1.6,4.7,2.1,5.04
+2025-04-19,Nott'ham Forest,Premier League,Matchweek 33,Tottenham Hotspur Stadium,Home,1,2,L,Rodrigo Bentancur,4.8,1.7,False,4.7,2.0,5.6,1.6,4.7,2.1,5.04
+2025-04-19,Nott'ham Forest,Premier League,Matchweek 33,Tottenham Hotspur Stadium,Home,1,2,L,Micky Van de Ven,4.9,1.6,False,4.7,2.0,5.6,1.6,4.7,2.1,5.04
+2025-04-19,Nott'ham Forest,Premier League,Matchweek 33,Tottenham Hotspur Stadium,Home,1,2,L,Djed Spence,5.3,1.7,False,4.7,2.0,5.6,1.6,4.7,2.1,5.04
+2025-04-19,Nott'ham Forest,Premier League,Matchweek 33,Tottenham Hotspur Stadium,Home,1,2,L,Pedro Porro,5.7,2.0,False,4.7,2.0,5.6,1.6,4.7,2.1,5.04
+2025-04-19,Nott'ham Forest,Premier League,Matchweek 33,Tottenham Hotspur Stadium,Home,1,2,L,Richarlison,5.7,1.9,False,4.7,2.0,5.6,1.6,4.7,2.1,5.04
+2025-04-19,Nott'ham Forest,Premier League,Matchweek 33,Tottenham Hotspur Stadium,Home,1,2,L,Ben Davies,5.8,1.4,False,4.7,2.0,5.6,1.6,4.7,2.1,5.04
+2025-04-19,Nott'ham Forest,Premier League,Matchweek 33,Tottenham Hotspur Stadium,Home,1,2,L,Kevin Danso,5.9,1.6,False,4.7,2.0,5.6,1.6,4.7,2.1,5.04
+2025-04-19,Nott'ham Forest,Premier League,Matchweek 33,Tottenham Hotspur Stadium,Home,1,2,L,Wilson Odobert,5.9,1.9,False,4.7,2.0,5.6,1.6,4.7,2.1,5.04
+2025-04-19,Nott'ham Forest,Premier League,Matchweek 33,Tottenham Hotspur Stadium,Home,1,2,L,Mathys Tel,6.1,2.0,False,4.7,2.0,5.6,1.6,4.7,2.1,5.04
+2025-04-19,Nott'ham Forest,Premier League,Matchweek 33,Tottenham Hotspur Stadium,Home,1,2,L,Lucas Bergvall,6.3,1.6,True,4.7,2.0,5.6,1.6,4.7,2.1,5.04
+2025-04-17,de Eint Frankfurt,Europa Lg,Quarter-finals,Deutsche Bank Park,Away,1,1,D,Pape Matar Sarr,6.4,1.2,False,7.9,1.1,5.6,1.4,3.2,2.3,7.59
+2025-04-17,de Eint Frankfurt,Europa Lg,Quarter-finals,Deutsche Bank Park,Away,1,1,D,Brennan Johnson,6.4,1.5,False,7.9,1.1,5.6,1.4,3.2,2.3,7.59
+2025-04-17,de Eint Frankfurt,Europa Lg,Quarter-finals,Deutsche Bank Park,Away,1,1,D,Kevin Danso,7.0,1.2,False,7.9,1.1,5.6,1.4,3.2,2.3,7.59
+2025-04-17,de Eint Frankfurt,Europa Lg,Quarter-finals,Deutsche Bank Park,Away,1,1,D,Dejan Kulusevski,7.1,1.2,False,7.9,1.1,5.6,1.4,3.2,2.3,7.59
+2025-04-17,de Eint Frankfurt,Europa Lg,Quarter-finals,Deutsche Bank Park,Away,1,1,D,Pedro Porro,7.5,1.1,False,7.9,1.1,5.6,1.4,3.2,2.3,7.59
+2025-04-17,de Eint Frankfurt,Europa Lg,Quarter-finals,Deutsche Bank Park,Away,1,1,D,Mathys Tel,7.5,1.2,False,7.9,1.1,5.6,1.4,3.2,2.3,7.59
+2025-04-17,de Eint Frankfurt,Europa Lg,Quarter-finals,Deutsche Bank Park,Away,1,1,D,James Maddison,7.6,1.3,False,7.9,1.1,5.6,1.4,3.2,2.3,7.59
+2025-04-17,de Eint Frankfurt,Europa Lg,Quarter-finals,Deutsche Bank Park,Away,1,1,D,Guglielmo Vicario,7.9,1.1,False,7.9,1.1,5.6,1.4,3.2,2.3,7.59
+2025-04-17,de Eint Frankfurt,Europa Lg,Quarter-finals,Deutsche Bank Park,Away,1,1,D,Rodrigo Bentancur,7.9,1.3,False,7.9,1.1,5.6,1.4,3.2,2.3,7.59
+2025-04-17,de Eint Frankfurt,Europa Lg,Quarter-finals,Deutsche Bank Park,Away,1,1,D,Dominic Solanke,7.9,1.2,False,7.9,1.1,5.6,1.4,3.2,2.3,7.59
+2025-04-17,de Eint Frankfurt,Europa Lg,Quarter-finals,Deutsche Bank Park,Away,1,1,D,Lucas Bergvall,8.0,1.2,False,7.9,1.1,5.6,1.4,3.2,2.3,7.59
+2025-04-17,de Eint Frankfurt,Europa Lg,Quarter-finals,Deutsche Bank Park,Away,1,1,D,Micky Van de Ven,8.3,1.1,False,7.9,1.1,5.6,1.4,3.2,2.3,7.59
+2025-04-17,de Eint Frankfurt,Europa Lg,Quarter-finals,Deutsche Bank Park,Away,1,1,D,Destiny Udogie,8.3,1.2,False,7.9,1.1,5.6,1.4,3.2,2.3,7.59
+2025-04-17,de Eint Frankfurt,Europa Lg,Quarter-finals,Deutsche Bank Park,Away,1,1,D,Christian Romero,8.5,1.1,True,7.9,1.1,5.6,1.4,3.2,2.3,7.59
+2025-04-12,Wolves,Premier League,Matchweek 32,Molineux Stadium,Away,2,4,L,Guglielmo Vicario,1.5,1.5,False,1.5,1.4,5.7,1.8,4.6,2.1,3.47
+2025-04-12,Wolves,Premier League,Matchweek 32,Molineux Stadium,Away,2,4,L,Christian Romero,2.3,1.8,False,1.5,1.4,5.7,1.8,4.6,2.1,3.47
+2025-04-12,Wolves,Premier League,Matchweek 32,Molineux Stadium,Away,2,4,L,Ben Davies,2.7,1.8,False,1.5,1.4,5.7,1.8,4.6,2.1,3.47
+2025-04-12,Wolves,Premier League,Matchweek 32,Molineux Stadium,Away,2,4,L,Pape Matar Sarr,2.8,1.8,False,1.5,1.4,5.7,1.8,4.6,2.1,3.47
+2025-04-12,Wolves,Premier League,Matchweek 32,Molineux Stadium,Away,2,4,L,Dominic Solanke,2.9,1.9,False,1.5,1.4,5.7,1.8,4.6,2.1,3.47
+2025-04-12,Wolves,Premier League,Matchweek 32,Molineux Stadium,Away,2,4,L,Yves Bissouma,3.0,2.0,False,1.5,1.4,5.7,1.8,4.6,2.1,3.47
+2025-04-12,Wolves,Premier League,Matchweek 32,Molineux Stadium,Away,2,4,L,Brennan Johnson,3.3,2.0,False,1.5,1.4,5.7,1.8,4.6,2.1,3.47
+2025-04-12,Wolves,Premier League,Matchweek 32,Molineux Stadium,Away,2,4,L,Archie Gray,3.4,1.7,False,1.5,1.4,5.7,1.8,4.6,2.1,3.47
+2025-04-12,Wolves,Premier League,Matchweek 32,Molineux Stadium,Away,2,4,L,James Maddison,3.5,2.0,False,1.5,1.4,5.7,1.8,4.6,2.1,3.47
+2025-04-12,Wolves,Premier League,Matchweek 32,Molineux Stadium,Away,2,4,L,Rodrigo Bentancur,3.8,2.0,False,1.5,1.4,5.7,1.8,4.6,2.1,3.47
+2025-04-12,Wolves,Premier League,Matchweek 32,Molineux Stadium,Away,2,4,L,Djed Spence,3.9,2.0,False,1.5,1.4,5.7,1.8,4.6,2.1,3.47
+2025-04-12,Wolves,Premier League,Matchweek 32,Molineux Stadium,Away,2,4,L,Lucas Bergvall,4.1,2.2,False,1.5,1.4,5.7,1.8,4.6,2.1,3.47
+2025-04-12,Wolves,Premier League,Matchweek 32,Molineux Stadium,Away,2,4,L,Dejan Kulusevski,4.5,1.8,False,1.5,1.4,5.7,1.8,4.6,2.1,3.47
+2025-04-12,Wolves,Premier League,Matchweek 32,Molineux Stadium,Away,2,4,L,Mathys Tel,5.1,1.9,False,1.5,1.4,5.7,1.8,4.6,2.1,3.47
+2025-04-12,Wolves,Premier League,Matchweek 32,Molineux Stadium,Away,2,4,L,Richarlison,5.2,1.9,True,1.5,1.4,5.7,1.8,4.6,2.1,3.47
+2025-04-10,de Eint Frankfurt,Europa Lg,Quarter-finals,Tottenham Hotspur Stadium,Home,1,0,W,Brennan Johnson,4.8,1.6,False,7.0,1.1,5.5,1.1,2.2,2.0,6.25
+2025-04-10,de Eint Frankfurt,Europa Lg,Quarter-finals,Tottenham Hotspur Stadium,Home,1,0,W,Pape Matar Sarr,5.2,1.1,False,7.0,1.1,5.5,1.1,2.2,2.0,6.25
+2025-04-10,de Eint Frankfurt,Europa Lg,Quarter-finals,Tottenham Hotspur Stadium,Home,1,0,W,Dominic Solanke,5.3,1.8,False,7.0,1.1,5.5,1.1,2.2,2.0,6.25
+2025-04-10,de Eint Frankfurt,Europa Lg,Quarter-finals,Tottenham Hotspur Stadium,Home,1,0,W,Richarlison,5.3,1.1,False,7.0,1.1,5.5,1.1,2.2,2.0,6.25
+2025-04-10,de Eint Frankfurt,Europa Lg,Quarter-finals,Tottenham Hotspur Stadium,Home,1,0,W,Mathys Tel,5.3,1.3,False,7.0,1.1,5.5,1.1,2.2,2.0,6.25
+2025-04-10,de Eint Frankfurt,Europa Lg,Quarter-finals,Tottenham Hotspur Stadium,Home,1,0,W,Heung-Min Son,5.4,1.6,False,7.0,1.1,5.5,1.1,2.2,2.0,6.25
+2025-04-10,de Eint Frankfurt,Europa Lg,Quarter-finals,Tottenham Hotspur Stadium,Home,1,0,W,Djed Spence,5.9,1.1,False,7.0,1.1,5.5,1.1,2.2,2.0,6.25
+2025-04-10,de Eint Frankfurt,Europa Lg,Quarter-finals,Tottenham Hotspur Stadium,Home,1,0,W,Guglielmo Vicario,6.2,1.2,False,7.0,1.1,5.5,1.1,2.2,2.0,6.25
+2025-04-10,de Eint Frankfurt,Europa Lg,Quarter-finals,Tottenham Hotspur Stadium,Home,1,0,W,James Maddison,6.7,1.2,False,7.0,1.1,5.5,1.1,2.2,2.0,6.25
+2025-04-10,de Eint Frankfurt,Europa Lg,Quarter-finals,Tottenham Hotspur Stadium,Home,1,0,W,Christian Romero,6.7,1.3,False,7.0,1.1,5.5,1.1,2.2,2.0,6.25
+2025-04-10,de Eint Frankfurt,Europa Lg,Quarter-finals,Tottenham Hotspur Stadium,Home,1,0,W,Micky Van de Ven,7.1,1.2,False,7.0,1.1,5.5,1.1,2.2,2.0,6.25
+2025-04-10,de Eint Frankfurt,Europa Lg,Quarter-finals,Tottenham Hotspur Stadium,Home,1,0,W,Destiny Udogie,7.2,1.3,False,7.0,1.1,5.5,1.1,2.2,2.0,6.25
+2025-04-10,de Eint Frankfurt,Europa Lg,Quarter-finals,Tottenham Hotspur Stadium,Home,1,0,W,Rodrigo Bentancur,7.3,1.4,False,7.0,1.1,5.5,1.1,2.2,2.0,6.25
+2025-04-10,de Eint Frankfurt,Europa Lg,Quarter-finals,Tottenham Hotspur Stadium,Home,1,0,W,Pedro Porro,7.4,1.1,False,7.0,1.1,5.5,1.1,2.2,2.0,6.25
+2025-04-10,de Eint Frankfurt,Europa Lg,Quarter-finals,Tottenham Hotspur Stadium,Home,1,0,W,Lucas Bergvall,7.9,1.1,True,7.0,1.1,5.5,1.1,2.2,2.0,6.25
+2025-04-05,Southampton,Premier League,Matchweek 31,Tottenham Hotspur Stadium,Home,3,1,W,Pape Matar Sarr,5.3,1.3,False,6.2,1.4,3.1,1.6,4.4,2.1,6.32
+2025-04-05,Southampton,Premier League,Matchweek 31,Tottenham Hotspur Stadium,Home,3,1,W,Archie Gray,5.4,1.2,False,6.2,1.4,3.1,1.6,4.4,2.1,6.32
+2025-04-05,Southampton,Premier League,Matchweek 31,Tottenham Hotspur Stadium,Home,3,1,W,Yves Bissouma,5.4,1.3,False,6.2,1.4,3.1,1.6,4.4,2.1,6.32
+2025-04-05,Southampton,Premier League,Matchweek 31,Tottenham Hotspur Stadium,Home,3,1,W,Wilson Odobert,5.5,1.3,False,6.2,1.4,3.1,1.6,4.4,2.1,6.32
+2025-04-05,Southampton,Premier League,Matchweek 31,Tottenham Hotspur Stadium,Home,3,1,W,Mathys Tel,5.5,2.1,False,6.2,1.4,3.1,1.6,4.4,2.1,6.32
+2025-04-05,Southampton,Premier League,Matchweek 31,Tottenham Hotspur Stadium,Home,3,1,W,Dominic Solanke,5.7,1.7,False,6.2,1.4,3.1,1.6,4.4,2.1,6.32
+2025-04-05,Southampton,Premier League,Matchweek 31,Tottenham Hotspur Stadium,Home,3,1,W,Heung-Min Son,5.8,1.4,False,6.2,1.4,3.1,1.6,4.4,2.1,6.32
+2025-04-05,Southampton,Premier League,Matchweek 31,Tottenham Hotspur Stadium,Home,3,1,W,Rodrigo Bentancur,6.3,1.4,False,6.2,1.4,3.1,1.6,4.4,2.1,6.32
+2025-04-05,Southampton,Premier League,Matchweek 31,Tottenham Hotspur Stadium,Home,3,1,W,James Maddison,6.3,1.5,False,6.2,1.4,3.1,1.6,4.4,2.1,6.32
+2025-04-05,Southampton,Premier League,Matchweek 31,Tottenham Hotspur Stadium,Home,3,1,W,Ben Davies,6.5,1.3,False,6.2,1.4,3.1,1.6,4.4,2.1,6.32
+2025-04-05,Southampton,Premier League,Matchweek 31,Tottenham Hotspur Stadium,Home,3,1,W,Pedro Porro,6.6,1.2,False,6.2,1.4,3.1,1.6,4.4,2.1,6.32
+2025-04-05,Southampton,Premier League,Matchweek 31,Tottenham Hotspur Stadium,Home,3,1,W,Djed Spence,6.8,1.3,False,6.2,1.4,3.1,1.6,4.4,2.1,6.32
+2025-04-05,Southampton,Premier League,Matchweek 31,Tottenham Hotspur Stadium,Home,3,1,W,Christian Romero,6.9,1.2,False,6.2,1.4,3.1,1.6,4.4,2.1,6.32
+2025-04-05,Southampton,Premier League,Matchweek 31,Tottenham Hotspur Stadium,Home,3,1,W,Guglielmo Vicario,7.1,1.1,False,6.2,1.4,3.1,1.6,4.4,2.1,6.32
+2025-04-05,Southampton,Premier League,Matchweek 31,Tottenham Hotspur Stadium,Home,3,1,W,Lucas Bergvall,7.6,1.2,False,6.2,1.4,3.1,1.6,4.4,2.1,6.32
+2025-04-05,Southampton,Premier League,Matchweek 31,Tottenham Hotspur Stadium,Home,3,1,W,Brennan Johnson,8.4,1.2,True,6.2,1.4,3.1,1.6,4.4,2.1,6.32
+2025-04-02,Chelsea,Premier League,Matchweek 30,Stamford Bridge,Away,0,1,L,Destiny Udogie,3.6,1.9,False,2.7,1.9,5.0,1.8,3.2,2.5,4.35
+2025-04-02,Chelsea,Premier League,Matchweek 30,Stamford Bridge,Away,0,1,L,Brennan Johnson,3.7,2.1,False,2.7,1.9,5.0,1.8,3.2,2.5,4.35
+2025-04-02,Chelsea,Premier League,Matchweek 30,Stamford Bridge,Away,0,1,L,Dominic Solanke,3.7,2.0,False,2.7,1.9,5.0,1.8,3.2,2.5,4.35
+2025-04-02,Chelsea,Premier League,Matchweek 30,Stamford Bridge,Away,0,1,L,Rodrigo Bentancur,3.8,1.9,False,2.7,1.9,5.0,1.8,3.2,2.5,4.35
+2025-04-02,Chelsea,Premier League,Matchweek 30,Stamford Bridge,Away,0,1,L,James Maddison,3.9,2.0,False,2.7,1.9,5.0,1.8,3.2,2.5,4.35
+2025-04-02,Chelsea,Premier League,Matchweek 30,Stamford Bridge,Away,0,1,L,Mathys Tel,4.0,1.7,False,2.7,1.9,5.0,1.8,3.2,2.5,4.35
+2025-04-02,Chelsea,Premier League,Matchweek 30,Stamford Bridge,Away,0,1,L,Heung-Min Son,4.0,2.0,False,2.7,1.9,5.0,1.8,3.2,2.5,4.35
+2025-04-02,Chelsea,Premier League,Matchweek 30,Stamford Bridge,Away,0,1,L,Wilson Odobert,4.0,1.9,False,2.7,1.9,5.0,1.8,3.2,2.5,4.35
+2025-04-02,Chelsea,Premier League,Matchweek 30,Stamford Bridge,Away,0,1,L,Djed Spence,4.3,1.9,False,2.7,1.9,5.0,1.8,3.2,2.5,4.35
+2025-04-02,Chelsea,Premier League,Matchweek 30,Stamford Bridge,Away,0,1,L,Pedro Porro,4.4,1.8,False,2.7,1.9,5.0,1.8,3.2,2.5,4.35
+2025-04-02,Chelsea,Premier League,Matchweek 30,Stamford Bridge,Away,0,1,L,Christian Romero,4.5,2.0,False,2.7,1.9,5.0,1.8,3.2,2.5,4.35
+2025-04-02,Chelsea,Premier League,Matchweek 30,Stamford Bridge,Away,0,1,L,Micky Van de Ven,4.6,1.9,False,2.7,1.9,5.0,1.8,3.2,2.5,4.35
+2025-04-02,Chelsea,Premier League,Matchweek 30,Stamford Bridge,Away,0,1,L,Pape Matar Sarr,5.0,2.0,False,2.7,1.9,5.0,1.8,3.2,2.5,4.35
+2025-04-02,Chelsea,Premier League,Matchweek 30,Stamford Bridge,Away,0,1,L,Lucas Bergvall,5.5,2.1,False,2.7,1.9,5.0,1.8,3.2,2.5,4.35
+2025-04-02,Chelsea,Premier League,Matchweek 30,Stamford Bridge,Away,0,1,L,Guglielmo Vicario,6.3,2.2,True,2.7,1.9,5.0,1.8,3.2,2.5,4.35
+2025-03-16,Fulham,Premier League,Matchweek 29,Craven Cottage,Away,0,2,L,Brennan Johnson,2.2,1.5,False,3.0,1.6,5.8,1.2,2.9,2.1,4.46
+2025-03-16,Fulham,Premier League,Matchweek 29,Craven Cottage,Away,0,2,L,Yves Bissouma,2.6,1.5,False,3.0,1.6,5.8,1.2,2.9,2.1,4.46
+2025-03-16,Fulham,Premier League,Matchweek 29,Craven Cottage,Away,0,2,L,Destiny Udogie,3.5,1.7,False,3.0,1.6,5.8,1.2,2.9,2.1,4.46
+2025-03-16,Fulham,Premier League,Matchweek 29,Craven Cottage,Away,0,2,L,Rodrigo Bentancur,3.6,1.7,False,3.0,1.6,5.8,1.2,2.9,2.1,4.46
+2025-03-16,Fulham,Premier League,Matchweek 29,Craven Cottage,Away,0,2,L,Ben Davies,3.7,1.6,False,3.0,1.6,5.8,1.2,2.9,2.1,4.46
+2025-03-16,Fulham,Premier League,Matchweek 29,Craven Cottage,Away,0,2,L,Wilson Odobert (77’ for Tel),3.7,1.5,False,3.0,1.6,5.8,1.2,2.9,2.1,4.46
+2025-03-16,Fulham,Premier League,Matchweek 29,Craven Cottage,Away,0,2,L,James Maddison (68’ for Romero),4.3,1.4,False,3.0,1.6,5.8,1.2,2.9,2.1,4.46
+2025-03-16,Fulham,Premier League,Matchweek 29,Craven Cottage,Away,0,2,L,Archie Gray,4.6,1.6,False,3.0,1.6,5.8,1.2,2.9,2.1,4.46
+2025-03-16,Fulham,Premier League,Matchweek 29,Craven Cottage,Away,0,2,L,Dominic Solanke,4.6,1.7,False,3.0,1.6,5.8,1.2,2.9,2.1,4.46
+2025-03-16,Fulham,Premier League,Matchweek 29,Craven Cottage,Away,0,2,L,Dane Scarlett (86’ for Bentancur),4.7,1.3,False,3.0,1.6,5.8,1.2,2.9,2.1,4.46
+2025-03-16,Fulham,Premier League,Matchweek 29,Craven Cottage,Away,0,2,L,Djed Spence,4.9,1.7,False,3.0,1.6,5.8,1.2,2.9,2.1,4.46
+2025-03-16,Fulham,Premier League,Matchweek 29,Craven Cottage,Away,0,2,L,Mathys Tel,4.9,1.6,False,3.0,1.6,5.8,1.2,2.9,2.1,4.46
+2025-03-16,Fulham,Premier League,Matchweek 29,Craven Cottage,Away,0,2,L,Guglielmo Vicario,5.5,1.4,False,3.0,1.6,5.8,1.2,2.9,2.1,4.46
+2025-03-16,Fulham,Premier League,Matchweek 29,Craven Cottage,Away,0,2,L,Heung-Min Son (46’ for Johnson),5.7,1.7,False,3.0,1.6,5.8,1.2,2.9,2.1,4.46
+2025-03-16,Fulham,Premier League,Matchweek 29,Craven Cottage,Away,0,2,L,Christian Romero,6.2,1.6,False,3.0,1.6,5.8,1.2,2.9,2.1,4.46
+2025-03-16,Fulham,Premier League,Matchweek 29,Craven Cottage,Away,0,2,L,Lucas Bergvall (46’ for Bissouma),6.6,1.4,True,3.0,1.6,5.8,1.2,2.9,2.1,4.46
+2025-03-13,nl AZ Alkmaar,Europa Lg,Round of 16,AFAS Stadion,Away,3,2,W,Brennan Johnson,5.6,1.1,False,7.6,0.8,5.2,1.1,6.1,1.7,7.16
+2025-03-13,nl AZ Alkmaar,Europa Lg,Round of 16,AFAS Stadion,Away,3,2,W,Ben Davies,6.0,1.0,False,7.6,0.8,5.2,1.1,6.1,1.7,7.16
+2025-03-13,nl AZ Alkmaar,Europa Lg,Round of 16,AFAS Stadion,Away,3,2,W,Pape Matar Sarr,6.1,1.2,False,7.6,0.8,5.2,1.1,6.1,1.7,7.16
+2025-03-13,nl AZ Alkmaar,Europa Lg,Round of 16,AFAS Stadion,Away,3,2,W,Archie Gray,6.3,1.2,False,7.6,0.8,5.2,1.1,6.1,1.7,7.16
+2025-03-13,nl AZ Alkmaar,Europa Lg,Round of 16,AFAS Stadion,Away,3,2,W,Pedro Porro,6.6,0.9,False,7.6,0.8,5.2,1.1,6.1,1.7,7.16
+2025-03-13,nl AZ Alkmaar,Europa Lg,Round of 16,AFAS Stadion,Away,3,2,W,Christian Romero,6.7,1.2,False,7.6,0.8,5.2,1.1,6.1,1.7,7.16
+2025-03-13,nl AZ Alkmaar,Europa Lg,Round of 16,AFAS Stadion,Away,3,2,W,Yves Bissouma,6.7,1.0,False,7.6,0.8,5.2,1.1,6.1,1.7,7.16
+2025-03-13,nl AZ Alkmaar,Europa Lg,Round of 16,AFAS Stadion,Away,3,2,W,Djed Spence,7.5,1.0,False,7.6,0.8,5.2,1.1,6.1,1.7,7.16
+2025-03-13,nl AZ Alkmaar,Europa Lg,Round of 16,AFAS Stadion,Away,3,2,W,Guglielmo Vicario,7.6,1.0,False,7.6,0.8,5.2,1.1,6.1,1.7,7.16
+2025-03-13,nl AZ Alkmaar,Europa Lg,Round of 16,AFAS Stadion,Away,3,2,W,Micky Van de Ven,7.7,0.9,False,7.6,0.8,5.2,1.1,6.1,1.7,7.16
+2025-03-13,nl AZ Alkmaar,Europa Lg,Round of 16,AFAS Stadion,Away,3,2,W,Heung-Min Son,7.7,1.1,False,7.6,0.8,5.2,1.1,6.1,1.7,7.16
+2025-03-13,nl AZ Alkmaar,Europa Lg,Round of 16,AFAS Stadion,Away,3,2,W,Dominic Solanke,7.9,1.0,False,7.6,0.8,5.2,1.1,6.1,1.7,7.16
+2025-03-13,nl AZ Alkmaar,Europa Lg,Round of 16,AFAS Stadion,Away,3,2,W,Lucas Bergvall,8.1,1.2,False,7.6,0.8,5.2,1.1,6.1,1.7,7.16
+2025-03-13,nl AZ Alkmaar,Europa Lg,Round of 16,AFAS Stadion,Away,3,2,W,James Maddison,8.1,0.9,False,7.6,0.8,5.2,1.1,6.1,1.7,7.16
+2025-03-13,nl AZ Alkmaar,Europa Lg,Round of 16,AFAS Stadion,Away,3,2,W,Wilson Odobert,8.8,0.9,True,7.6,0.8,5.2,1.1,6.1,1.7,7.16
+2025-03-09,Bournemouth,Premier League,Matchweek 28,Tottenham Hotspur Stadium,Home,2,2,D,Yves Bissouma,3.3,1.6,False,4.0,1.4,6.6,0.9,4.9,1.8,5.24
+2025-03-09,Bournemouth,Premier League,Matchweek 28,Tottenham Hotspur Stadium,Home,2,2,D,Brennan Johnson,3.5,1.5,False,4.0,1.4,6.6,0.9,4.9,1.8,5.24
+2025-03-09,Bournemouth,Premier League,Matchweek 28,Tottenham Hotspur Stadium,Home,2,2,D,Christian Romero,3.8,1.5,False,4.0,1.4,6.6,0.9,4.9,1.8,5.24
+2025-03-09,Bournemouth,Premier League,Matchweek 28,Tottenham Hotspur Stadium,Home,2,2,D,Rodrigo Bentancur,4.2,1.6,False,4.0,1.4,6.6,0.9,4.9,1.8,5.24
+2025-03-09,Bournemouth,Premier League,Matchweek 28,Tottenham Hotspur Stadium,Home,2,2,D,Pedro Porro,4.3,1.6,False,4.0,1.4,6.6,0.9,4.9,1.8,5.24
+2025-03-09,Bournemouth,Premier League,Matchweek 28,Tottenham Hotspur Stadium,Home,2,2,D,Dominic Solanke,4.7,1.6,False,4.0,1.4,6.6,0.9,4.9,1.8,5.24
+2025-03-09,Bournemouth,Premier League,Matchweek 28,Tottenham Hotspur Stadium,Home,2,2,D,Wilson Odobert,5.0,1.5,False,4.0,1.4,6.6,0.9,4.9,1.8,5.24
+2025-03-09,Bournemouth,Premier League,Matchweek 28,Tottenham Hotspur Stadium,Home,2,2,D,Destiny Udogie (87’ for Porro),5.2,1.1,False,4.0,1.4,6.6,0.9,4.9,1.8,5.24
+2025-03-09,Bournemouth,Premier League,Matchweek 28,Tottenham Hotspur Stadium,Home,2,2,D,Kevin Danso,5.3,1.5,False,4.0,1.4,6.6,0.9,4.9,1.8,5.24
+2025-03-09,Bournemouth,Premier League,Matchweek 28,Tottenham Hotspur Stadium,Home,2,2,D,James Maddison (61’ for Bentancur),5.4,1.6,False,4.0,1.4,6.6,0.9,4.9,1.8,5.24
+2025-03-09,Bournemouth,Premier League,Matchweek 28,Tottenham Hotspur Stadium,Home,2,2,D,Micky Van de Ven (61’ for Romero),6.0,1.2,False,4.0,1.4,6.6,0.9,4.9,1.8,5.24
+2025-03-09,Bournemouth,Premier League,Matchweek 28,Tottenham Hotspur Stadium,Home,2,2,D,Pape Matar Sarr,6.1,1.4,False,4.0,1.4,6.6,0.9,4.9,1.8,5.24
+2025-03-09,Bournemouth,Premier League,Matchweek 28,Tottenham Hotspur Stadium,Home,2,2,D,Djed Spence,6.3,1.3,False,4.0,1.4,6.6,0.9,4.9,1.8,5.24
+2025-03-09,Bournemouth,Premier League,Matchweek 28,Tottenham Hotspur Stadium,Home,2,2,D,Heung-Min Son (46’ for Johnson),6.5,1.3,False,4.0,1.4,6.6,0.9,4.9,1.8,5.24
+2025-03-09,Bournemouth,Premier League,Matchweek 28,Tottenham Hotspur Stadium,Home,2,2,D,Lucas Bergvall (46’ for Bissouma),6.8,1.4,False,4.0,1.4,6.6,0.9,4.9,1.8,5.24
+2025-03-09,Bournemouth,Premier League,Matchweek 28,Tottenham Hotspur Stadium,Home,2,2,D,Guglielmo Vicario,7.5,1.4,True,4.0,1.4,6.6,0.9,4.9,1.8,5.24
+2025-03-06,nl AZ Alkmaar,Europa Lg,Round of 16,Tottenham Hotspur Stadium,Home,1,0,W,Mathys Tel,1.9,1.3,False,1.5,1.4,6.0,1.4,4.9,1.8,3.96
+2025-03-06,nl AZ Alkmaar,Europa Lg,Round of 16,Tottenham Hotspur Stadium,Home,1,0,W,Brennan Johnson,2.3,1.5,False,1.5,1.4,6.0,1.4,4.9,1.8,3.96
+2025-03-06,nl AZ Alkmaar,Europa Lg,Round of 16,Tottenham Hotspur Stadium,Home,1,0,W,Heung-Min Son,2.4,1.7,False,1.5,1.4,6.0,1.4,4.9,1.8,3.96
+2025-03-06,nl AZ Alkmaar,Europa Lg,Round of 16,Tottenham Hotspur Stadium,Home,1,0,W,James Maddison,3.1,1.6,False,1.5,1.4,6.0,1.4,4.9,1.8,3.96
+2025-03-06,nl AZ Alkmaar,Europa Lg,Round of 16,Tottenham Hotspur Stadium,Home,1,0,W,Lucas Bergvall,3.5,2.1,False,1.5,1.4,6.0,1.4,4.9,1.8,3.96
+2025-03-06,nl AZ Alkmaar,Europa Lg,Round of 16,Tottenham Hotspur Stadium,Home,1,0,W,Wilson Odobert,3.5,1.7,False,1.5,1.4,6.0,1.4,4.9,1.8,3.96
+2025-03-06,nl AZ Alkmaar,Europa Lg,Round of 16,Tottenham Hotspur Stadium,Home,1,0,W,Destiny Udogie,3.6,1.6,False,1.5,1.4,6.0,1.4,4.9,1.8,3.96
+2025-03-06,nl AZ Alkmaar,Europa Lg,Round of 16,Tottenham Hotspur Stadium,Home,1,0,W,Rodrigo Bentancur,3.8,1.9,False,1.5,1.4,6.0,1.4,4.9,1.8,3.96
+2025-03-06,nl AZ Alkmaar,Europa Lg,Round of 16,Tottenham Hotspur Stadium,Home,1,0,W,Pape Matar Sarr,3.9,1.6,False,1.5,1.4,6.0,1.4,4.9,1.8,3.96
+2025-03-06,nl AZ Alkmaar,Europa Lg,Round of 16,Tottenham Hotspur Stadium,Home,1,0,W,Dominic Solanke,4.1,1.8,False,1.5,1.4,6.0,1.4,4.9,1.8,3.96
+2025-03-06,nl AZ Alkmaar,Europa Lg,Round of 16,Tottenham Hotspur Stadium,Home,1,0,W,Pedro Porro,4.2,1.6,False,1.5,1.4,6.0,1.4,4.9,1.8,3.96
+2025-03-06,nl AZ Alkmaar,Europa Lg,Round of 16,Tottenham Hotspur Stadium,Home,1,0,W,Archie Gray,4.5,1.8,False,1.5,1.4,6.0,1.4,4.9,1.8,3.96
+2025-03-06,nl AZ Alkmaar,Europa Lg,Round of 16,Tottenham Hotspur Stadium,Home,1,0,W,Dane Scarlett,4.7,1.8,False,1.5,1.4,6.0,1.4,4.9,1.8,3.96
+2025-03-06,nl AZ Alkmaar,Europa Lg,Round of 16,Tottenham Hotspur Stadium,Home,1,0,W,Kevin Danso,5.0,2.0,False,1.5,1.4,6.0,1.4,4.9,1.8,3.96
+2025-03-06,nl AZ Alkmaar,Europa Lg,Round of 16,Tottenham Hotspur Stadium,Home,1,0,W,Djed Spence,5.9,1.8,False,1.5,1.4,6.0,1.4,4.9,1.8,3.96
+2025-03-06,nl AZ Alkmaar,Europa Lg,Round of 16,Tottenham Hotspur Stadium,Home,1,0,W,Guglielmo Vicario,6.9,1.5,True,1.5,1.4,6.0,1.4,4.9,1.8,3.96
+2025-02-26,Manchester City,Premier League,Matchweek 27,Tottenham Hotspur Stadium,Home,0,1,L,Mathys Tel,3.9,1.5,False,5.7,1.3,6.1,1.1,2.7,2.0,5.98
+2025-02-26,Manchester City,Premier League,Matchweek 27,Tottenham Hotspur Stadium,Home,0,1,L,Timo Werner,4.6,1.5,False,5.7,1.3,6.1,1.1,2.7,2.0,5.98
+2025-02-26,Manchester City,Premier League,Matchweek 27,Tottenham Hotspur Stadium,Home,0,1,L,Brennan Johnson,5.0,1.6,False,5.7,1.3,6.1,1.1,2.7,2.0,5.98
+2025-02-26,Manchester City,Premier League,Matchweek 27,Tottenham Hotspur Stadium,Home,0,1,L,Pedro Porro,5.1,1.4,False,5.7,1.3,6.1,1.1,2.7,2.0,5.98
+2025-02-26,Manchester City,Premier League,Matchweek 27,Tottenham Hotspur Stadium,Home,0,1,L,Pape Matar Sarr,5.4,1.3,False,5.7,1.3,6.1,1.1,2.7,2.0,5.98
+2025-02-26,Manchester City,Premier League,Matchweek 27,Tottenham Hotspur Stadium,Home,0,1,L,Dejan Kulusevski,5.6,1.5,False,5.7,1.3,6.1,1.1,2.7,2.0,5.98
+2025-02-26,Manchester City,Premier League,Matchweek 27,Tottenham Hotspur Stadium,Home,0,1,L,Destiny Udogie,5.8,1.3,False,5.7,1.3,6.1,1.1,2.7,2.0,5.98
+2025-02-26,Manchester City,Premier League,Matchweek 27,Tottenham Hotspur Stadium,Home,0,1,L,Wilson Odobert,5.8,1.5,False,5.7,1.3,6.1,1.1,2.7,2.0,5.98
+2025-02-26,Manchester City,Premier League,Matchweek 27,Tottenham Hotspur Stadium,Home,0,1,L,Heung-Min Son,6.1,1.4,False,5.7,1.3,6.1,1.1,2.7,2.0,5.98
+2025-02-26,Manchester City,Premier League,Matchweek 27,Tottenham Hotspur Stadium,Home,0,1,L,James Maddison,6.2,1.3,False,5.7,1.3,6.1,1.1,2.7,2.0,5.98
+2025-02-26,Manchester City,Premier League,Matchweek 27,Tottenham Hotspur Stadium,Home,0,1,L,Archie Gray,6.3,1.4,False,5.7,1.3,6.1,1.1,2.7,2.0,5.98
+2025-02-26,Manchester City,Premier League,Matchweek 27,Tottenham Hotspur Stadium,Home,0,1,L,Rodrigo Bentancur,6.9,1.1,False,5.7,1.3,6.1,1.1,2.7,2.0,5.98
+2025-02-26,Manchester City,Premier League,Matchweek 27,Tottenham Hotspur Stadium,Home,0,1,L,Lucas Bergvall,7.0,1.3,False,5.7,1.3,6.1,1.1,2.7,2.0,5.98
+2025-02-26,Manchester City,Premier League,Matchweek 27,Tottenham Hotspur Stadium,Home,0,1,L,Djed Spence,7.2,1.1,False,5.7,1.3,6.1,1.1,2.7,2.0,5.98
+2025-02-26,Manchester City,Premier League,Matchweek 27,Tottenham Hotspur Stadium,Home,0,1,L,Kevin Danso,7.3,1.4,False,5.7,1.3,6.1,1.1,2.7,2.0,5.98
+2025-02-26,Manchester City,Premier League,Matchweek 27,Tottenham Hotspur Stadium,Home,0,1,L,Guglielmo Vicario,7.5,1.0,True,5.7,1.3,6.1,1.1,2.7,2.0,5.98
+2025-02-22,Ipswich Town,Premier League,Matchweek 26,Portman Road,Away,4,1,W,Mathys Tel,5.6,1.3,False,7.8,0.8,5.1,1.3,3.0,2.1,7.19
+2025-02-22,Ipswich Town,Premier League,Matchweek 26,Portman Road,Away,4,1,W,Mathys Tel,5.6,1.3,False,7.8,0.8,5.1,1.3,3.0,2.1,7.19
+2025-02-22,Ipswich Town,Premier League,Matchweek 26,Portman Road,Away,4,1,W,Yves Bissouma,5.9,1.1,False,7.8,0.8,5.1,1.3,3.0,2.1,7.19
+2025-02-22,Ipswich Town,Premier League,Matchweek 26,Portman Road,Away,4,1,W,Yves Bissouma,5.9,1.1,False,7.8,0.8,5.1,1.3,3.0,2.1,7.19
+2025-02-22,Ipswich Town,Premier League,Matchweek 26,Portman Road,Away,4,1,W,Wilson Odobert,6.2,1.0,False,7.8,0.8,5.1,1.3,3.0,2.1,7.19
+2025-02-22,Ipswich Town,Premier League,Matchweek 26,Portman Road,Away,4,1,W,Wilson Odobert,6.2,1.0,False,7.8,0.8,5.1,1.3,3.0,2.1,7.19
+2025-02-22,Ipswich Town,Premier League,Matchweek 26,Portman Road,Away,4,1,W,Pedro Porro,6.3,1.1,False,7.8,0.8,5.1,1.3,3.0,2.1,7.19
+2025-02-22,Ipswich Town,Premier League,Matchweek 26,Portman Road,Away,4,1,W,Pedro Porro,6.3,1.1,False,7.8,0.8,5.1,1.3,3.0,2.1,7.19
+2025-02-22,Ipswich Town,Premier League,Matchweek 26,Portman Road,Away,4,1,W,Archie Gray,6.8,1.2,False,7.8,0.8,5.1,1.3,3.0,2.1,7.19
+2025-02-22,Ipswich Town,Premier League,Matchweek 26,Portman Road,Away,4,1,W,Archie Gray,6.8,1.2,False,7.8,0.8,5.1,1.3,3.0,2.1,7.19
+2025-02-22,Ipswich Town,Premier League,Matchweek 26,Portman Road,Away,4,1,W,Dane Scarlett,6.8,1.1,False,7.8,0.8,5.1,1.3,3.0,2.1,7.19
+2025-02-22,Ipswich Town,Premier League,Matchweek 26,Portman Road,Away,4,1,W,Dane Scarlett,6.8,1.1,False,7.8,0.8,5.1,1.3,3.0,2.1,7.19
+2025-02-22,Ipswich Town,Premier League,Matchweek 26,Portman Road,Away,4,1,W,Destiny Udogie,6.9,0.9,False,7.8,0.8,5.1,1.3,3.0,2.1,7.19
+2025-02-22,Ipswich Town,Premier League,Matchweek 26,Portman Road,Away,4,1,W,Destiny Udogie,6.9,0.9,False,7.8,0.8,5.1,1.3,3.0,2.1,7.19
+2025-02-22,Ipswich Town,Premier League,Matchweek 26,Portman Road,Away,4,1,W,Rodrigo Bentancur,7.1,1.0,False,7.8,0.8,5.1,1.3,3.0,2.1,7.19
+2025-02-22,Ipswich Town,Premier League,Matchweek 26,Portman Road,Away,4,1,W,Rodrigo Bentancur,7.1,1.0,False,7.8,0.8,5.1,1.3,3.0,2.1,7.19
+2025-02-22,Ipswich Town,Premier League,Matchweek 26,Portman Road,Away,4,1,W,Dejan Kulusevski,7.3,1.1,False,7.8,0.8,5.1,1.3,3.0,2.1,7.19
+2025-02-22,Ipswich Town,Premier League,Matchweek 26,Portman Road,Away,4,1,W,Dejan Kulusevski,7.3,1.1,False,7.8,0.8,5.1,1.3,3.0,2.1,7.19
+2025-02-22,Ipswich Town,Premier League,Matchweek 26,Portman Road,Away,4,1,W,Guglielmo Vicario,7.3,1.0,False,7.8,0.8,5.1,1.3,3.0,2.1,7.19
+2025-02-22,Ipswich Town,Premier League,Matchweek 26,Portman Road,Away,4,1,W,Guglielmo Vicario,7.3,1.0,False,7.8,0.8,5.1,1.3,3.0,2.1,7.19
+2025-02-22,Ipswich Town,Premier League,Matchweek 26,Portman Road,Away,4,1,W,James Maddison,7.5,0.9,False,7.8,0.8,5.1,1.3,3.0,2.1,7.19
+2025-02-22,Ipswich Town,Premier League,Matchweek 26,Portman Road,Away,4,1,W,James Maddison,7.5,0.9,False,7.8,0.8,5.1,1.3,3.0,2.1,7.19
+2025-02-22,Ipswich Town,Premier League,Matchweek 26,Portman Road,Away,4,1,W,Lucas Bergvall,8.0,1.0,False,7.8,0.8,5.1,1.3,3.0,2.1,7.19
+2025-02-22,Ipswich Town,Premier League,Matchweek 26,Portman Road,Away,4,1,W,Lucas Bergvall,8.0,1.0,False,7.8,0.8,5.1,1.3,3.0,2.1,7.19
+2025-02-22,Ipswich Town,Premier League,Matchweek 26,Portman Road,Away,4,1,W,Kevin Danso,8.1,1.1,False,7.8,0.8,5.1,1.3,3.0,2.1,7.19
+2025-02-22,Ipswich Town,Premier League,Matchweek 26,Portman Road,Away,4,1,W,Kevin Danso,8.1,1.1,False,7.8,0.8,5.1,1.3,3.0,2.1,7.19
+2025-02-22,Ipswich Town,Premier League,Matchweek 26,Portman Road,Away,4,1,W,Brennan Johnson,8.3,1.0,False,7.8,0.8,5.1,1.3,3.0,2.1,7.19
+2025-02-22,Ipswich Town,Premier League,Matchweek 26,Portman Road,Away,4,1,W,Brennan Johnson,8.3,1.0,False,7.8,0.8,5.1,1.3,3.0,2.1,7.19
+2025-02-22,Ipswich Town,Premier League,Matchweek 26,Portman Road,Away,4,1,W,Heung-Min Son,8.4,0.9,False,7.8,0.8,5.1,1.3,3.0,2.1,7.19
+2025-02-22,Ipswich Town,Premier League,Matchweek 26,Portman Road,Away,4,1,W,Heung-Min Son,8.4,0.9,False,7.8,0.8,5.1,1.3,3.0,2.1,7.19
+2025-02-22,Ipswich Town,Premier League,Matchweek 26,Portman Road,Away,4,1,W,Djed Spence,8.5,0.9,True,7.8,0.8,5.1,1.3,3.0,2.1,7.19
+2025-02-22,Ipswich Town,Premier League,Matchweek 26,Portman Road,Away,4,1,W,Djed Spence,8.5,0.9,False,7.8,0.8,5.1,1.3,3.0,2.1,7.19
+2025-02-16,Manchester Utd,Premier League,Matchweek 25,Tottenham Hotspur Stadium,Home,1,0,W,Yves Bissouma,5.8,1.0,False,6.7,1.1,4.0,1.3,6.2,1.6,6.81
+2025-02-16,Manchester Utd,Premier League,Matchweek 25,Tottenham Hotspur Stadium,Home,1,0,W,Brennan Johnson,5.8,1.1,False,6.7,1.1,4.0,1.3,6.2,1.6,6.81
+2025-02-16,Manchester Utd,Premier League,Matchweek 25,Tottenham Hotspur Stadium,Home,1,0,W,Pape Matar Sarr,5.9,1.2,False,6.7,1.1,4.0,1.3,6.2,1.6,6.81
+2025-02-16,Manchester Utd,Premier League,Matchweek 25,Tottenham Hotspur Stadium,Home,1,0,W,Heung-Min Son,5.9,1.5,False,6.7,1.1,4.0,1.3,6.2,1.6,6.81
+2025-02-16,Manchester Utd,Premier League,Matchweek 25,Tottenham Hotspur Stadium,Home,1,0,W,Archie Gray,6.1,0.9,False,6.7,1.1,4.0,1.3,6.2,1.6,6.81
+2025-02-16,Manchester Utd,Premier League,Matchweek 25,Tottenham Hotspur Stadium,Home,1,0,W,Mathys Tel,6.3,1.4,False,6.7,1.1,4.0,1.3,6.2,1.6,6.81
+2025-02-16,Manchester Utd,Premier League,Matchweek 25,Tottenham Hotspur Stadium,Home,1,0,W,Wilson Odobert,6.4,1.2,False,6.7,1.1,4.0,1.3,6.2,1.6,6.81
+2025-02-16,Manchester Utd,Premier League,Matchweek 25,Tottenham Hotspur Stadium,Home,1,0,W,Dejan Kulusevski,6.4,1.3,False,6.7,1.1,4.0,1.3,6.2,1.6,6.81
+2025-02-16,Manchester Utd,Premier League,Matchweek 25,Tottenham Hotspur Stadium,Home,1,0,W,Lucas Bergvall,6.8,1.0,False,6.7,1.1,4.0,1.3,6.2,1.6,6.81
+2025-02-16,Manchester Utd,Premier League,Matchweek 25,Tottenham Hotspur Stadium,Home,1,0,W,Pedro Porro,6.9,1.1,False,6.7,1.1,4.0,1.3,6.2,1.6,6.81
+2025-02-16,Manchester Utd,Premier League,Matchweek 25,Tottenham Hotspur Stadium,Home,1,0,W,Rodrigo Bentancur,6.9,1.2,False,6.7,1.1,4.0,1.3,6.2,1.6,6.81
+2025-02-16,Manchester Utd,Premier League,Matchweek 25,Tottenham Hotspur Stadium,Home,1,0,W,Ben Davies,7.0,1.0,False,6.7,1.1,4.0,1.3,6.2,1.6,6.81
+2025-02-16,Manchester Utd,Premier League,Matchweek 25,Tottenham Hotspur Stadium,Home,1,0,W,Kevin Danso,7.3,1.0,False,6.7,1.1,4.0,1.3,6.2,1.6,6.81
+2025-02-16,Manchester Utd,Premier League,Matchweek 25,Tottenham Hotspur Stadium,Home,1,0,W,James Maddison,7.9,0.9,False,6.7,1.1,4.0,1.3,6.2,1.6,6.81
+2025-02-16,Manchester Utd,Premier League,Matchweek 25,Tottenham Hotspur Stadium,Home,1,0,W,Guglielmo Vicario,8.5,1.0,False,6.7,1.1,4.0,1.3,6.2,1.6,6.81
+2025-02-16,Manchester Utd,Premier League,Matchweek 25,Tottenham Hotspur Stadium,Home,1,0,W,Djed Spence,9.0,0.9,True,6.7,1.1,4.0,1.3,6.2,1.6,6.81
+2025-02-09,Aston Villa,FA Cup,Fourth round proper,Villa Park,Away,0,2,L,Heung-Min Son,2.4,1.8,False,2.6,1.4,6.3,1.3,2.7,2.0,4.48
+2025-02-09,Aston Villa,FA Cup,Fourth round proper,Villa Park,Away,0,2,L,Rodrigo Bentancur,3.3,1.7,False,2.6,1.4,6.3,1.3,2.7,2.0,4.48
+2025-02-09,Aston Villa,FA Cup,Fourth round proper,Villa Park,Away,0,2,L,Pedro Porro,3.4,1.7,False,2.6,1.4,6.3,1.3,2.7,2.0,4.48
+2025-02-09,Aston Villa,FA Cup,Fourth round proper,Villa Park,Away,0,2,L,Pape Matar Sarr,3.6,1.7,False,2.6,1.4,6.3,1.3,2.7,2.0,4.48
+2025-02-09,Aston Villa,FA Cup,Fourth round proper,Villa Park,Away,0,2,L,Yves Bissouma,4.1,1.8,False,2.6,1.4,6.3,1.3,2.7,2.0,4.48
+2025-02-09,Aston Villa,FA Cup,Fourth round proper,Villa Park,Away,0,2,L,Lucas Bergvall,4.3,1.6,False,2.6,1.4,6.3,1.3,2.7,2.0,4.48
+2025-02-09,Aston Villa,FA Cup,Fourth round proper,Villa Park,Away,0,2,L,Antonin Kinsky,4.5,1.8,False,2.6,1.4,6.3,1.3,2.7,2.0,4.48
+2025-02-09,Aston Villa,FA Cup,Fourth round proper,Villa Park,Away,0,2,L,Mikey Moore,4.6,1.6,False,2.6,1.4,6.3,1.3,2.7,2.0,4.48
+2025-02-09,Aston Villa,FA Cup,Fourth round proper,Villa Park,Away,0,2,L,Archie Gray,4.8,1.6,False,2.6,1.4,6.3,1.3,2.7,2.0,4.48
+2025-02-09,Aston Villa,FA Cup,Fourth round proper,Villa Park,Away,0,2,L,Dejan Kulusevski,4.9,1.8,False,2.6,1.4,6.3,1.3,2.7,2.0,4.48
+2025-02-09,Aston Villa,FA Cup,Fourth round proper,Villa Park,Away,0,2,L,Kevin Danso,5.4,1.6,False,2.6,1.4,6.3,1.3,2.7,2.0,4.48
+2025-02-09,Aston Villa,FA Cup,Fourth round proper,Villa Park,Away,0,2,L,Mathys Tel,6.3,1.6,False,2.6,1.4,6.3,1.3,2.7,2.0,4.48
+2025-02-09,Aston Villa,FA Cup,Fourth round proper,Villa Park,Away,0,2,L,Djed Spence,6.6,1.5,True,2.6,1.4,6.3,1.3,2.7,2.0,4.48
+2025-02-06,Liverpool,EFL Cup,Semi-finals,Anfield,Away,0,4,L,Yves Bissouma,2.3,1.7,False,1.9,1.5,8.3,1.2,4.3,2.1,4.12
+2025-02-06,Liverpool,EFL Cup,Semi-finals,Anfield,Away,0,4,L,Rodrigo Bentancur,2.6,1.8,False,1.9,1.5,8.3,1.2,4.3,2.1,4.12
+2025-02-06,Liverpool,EFL Cup,Semi-finals,Anfield,Away,0,4,L,Pape Matar Sarr,2.6,1.6,False,1.9,1.5,8.3,1.2,4.3,2.1,4.12
+2025-02-06,Liverpool,EFL Cup,Semi-finals,Anfield,Away,0,4,L,Antonin Kinsky,3.1,1.7,False,1.9,1.5,8.3,1.2,4.3,2.1,4.12
+2025-02-06,Liverpool,EFL Cup,Semi-finals,Anfield,Away,0,4,L,Heung-Min Son,3.3,1.9,False,1.9,1.5,8.3,1.2,4.3,2.1,4.12
+2025-02-06,Liverpool,EFL Cup,Semi-finals,Anfield,Away,0,4,L,Richarlison,3.8,1.8,False,1.9,1.5,8.3,1.2,4.3,2.1,4.12
+2025-02-06,Liverpool,EFL Cup,Semi-finals,Anfield,Away,0,4,L,Dejan Kulusevski,3.8,1.7,False,1.9,1.5,8.3,1.2,4.3,2.1,4.12
+2025-02-06,Liverpool,EFL Cup,Semi-finals,Anfield,Away,0,4,L,Pedro Porro,4.3,1.3,False,1.9,1.5,8.3,1.2,4.3,2.1,4.12
+2025-02-06,Liverpool,EFL Cup,Semi-finals,Anfield,Away,0,4,L,Mikey Moore,4.5,1.4,False,1.9,1.5,8.3,1.2,4.3,2.1,4.12
+2025-02-06,Liverpool,EFL Cup,Semi-finals,Anfield,Away,0,4,L,Ben Davies,4.6,1.7,False,1.9,1.5,8.3,1.2,4.3,2.1,4.12
+2025-02-06,Liverpool,EFL Cup,Semi-finals,Anfield,Away,0,4,L,Archie Gray,4.6,1.7,False,1.9,1.5,8.3,1.2,4.3,2.1,4.12
+2025-02-06,Liverpool,EFL Cup,Semi-finals,Anfield,Away,0,4,L,Mathys Tel,4.7,1.7,False,1.9,1.5,8.3,1.2,4.3,2.1,4.12
+2025-02-06,Liverpool,EFL Cup,Semi-finals,Anfield,Away,0,4,L,Lucas Bergvall,5.0,1.5,False,1.9,1.5,8.3,1.2,4.3,2.1,4.12
+2025-02-06,Liverpool,EFL Cup,Semi-finals,Anfield,Away,0,4,L,Kevin Danso,5.6,1.6,False,1.9,1.5,8.3,1.2,4.3,2.1,4.12
+2025-02-06,Liverpool,EFL Cup,Semi-finals,Anfield,Away,0,4,L,Djed Spence,7.0,1.6,True,1.9,1.5,8.3,1.2,4.3,2.1,4.12
+2025-02-02,Brentford,Premier League,Matchweek 24,Brentford Community Stadium,Away,2,0,W,Richarlison,5.9,1.3,False,7.1,1.0,5.2,1.3,5.0,2.1,7.01
+2025-02-02,Brentford,Premier League,Matchweek 24,Brentford Community Stadium,Away,2,0,W,Mikey Moore,6.0,1.1,False,7.1,1.0,5.2,1.3,5.0,2.1,7.01
+2025-02-02,Brentford,Premier League,Matchweek 24,Brentford Community Stadium,Away,2,0,W,Dane Scarlett,6.2,0.8,False,7.1,1.0,5.2,1.3,5.0,2.1,7.01
+2025-02-02,Brentford,Premier League,Matchweek 24,Brentford Community Stadium,Away,2,0,W,Yves Bissouma,6.4,1.1,False,7.1,1.0,5.2,1.3,5.0,2.1,7.01
+2025-02-02,Brentford,Premier League,Matchweek 24,Brentford Community Stadium,Away,2,0,W,Pedro Porro,6.6,1.1,False,7.1,1.0,5.2,1.3,5.0,2.1,7.01
+2025-02-02,Brentford,Premier League,Matchweek 24,Brentford Community Stadium,Away,2,0,W,Lucas Bergvall,6.6,0.9,False,7.1,1.0,5.2,1.3,5.0,2.1,7.01
+2025-02-02,Brentford,Premier League,Matchweek 24,Brentford Community Stadium,Away,2,0,W,Dejan Kulusevski,6.6,1.1,False,7.1,1.0,5.2,1.3,5.0,2.1,7.01
+2025-02-02,Brentford,Premier League,Matchweek 24,Brentford Community Stadium,Away,2,0,W,Antonin Kinsky,7.3,1.0,False,7.1,1.0,5.2,1.3,5.0,2.1,7.01
+2025-02-02,Brentford,Premier League,Matchweek 24,Brentford Community Stadium,Away,2,0,W,Heung-Min Son,7.3,1.2,False,7.1,1.0,5.2,1.3,5.0,2.1,7.01
+2025-02-02,Brentford,Premier League,Matchweek 24,Brentford Community Stadium,Away,2,0,W,Rodrigo Bentancur,7.3,1.1,False,7.1,1.0,5.2,1.3,5.0,2.1,7.01
+2025-02-02,Brentford,Premier League,Matchweek 24,Brentford Community Stadium,Away,2,0,W,Ben Davies,7.5,0.9,False,7.1,1.0,5.2,1.3,5.0,2.1,7.01
+2025-02-02,Brentford,Premier League,Matchweek 24,Brentford Community Stadium,Away,2,0,W,Archie Gray,7.6,1.0,False,7.1,1.0,5.2,1.3,5.0,2.1,7.01
+2025-02-02,Brentford,Premier League,Matchweek 24,Brentford Community Stadium,Away,2,0,W,Pape Matar Sarr,7.7,0.9,False,7.1,1.0,5.2,1.3,5.0,2.1,7.01
+2025-02-02,Brentford,Premier League,Matchweek 24,Brentford Community Stadium,Away,2,0,W,Djed Spence,9.2,0.8,True,7.1,1.0,5.2,1.3,5.0,2.1,7.01
+2025-01-30,se Elfsborg,Europa Lg,League phase,Tottenham Hotspur Stadium,Home,3,0,W,Radu Dragusin,5.6,1.5,False,7.7,1.0,4.2,1.7,7.1,1.4,7.33
+2025-01-30,se Elfsborg,Europa Lg,League phase,Tottenham Hotspur Stadium,Home,3,0,W,Richarlison,6.4,1.2,False,7.7,1.0,4.2,1.7,7.1,1.4,7.33
+2025-01-30,se Elfsborg,Europa Lg,League phase,Tottenham Hotspur Stadium,Home,3,0,W,Pape Matar Sarr,6.4,1.1,False,7.7,1.0,4.2,1.7,7.1,1.4,7.33
+2025-01-30,se Elfsborg,Europa Lg,League phase,Tottenham Hotspur Stadium,Home,3,0,W,Yves Bissouma,6.6,1.1,False,7.7,1.0,4.2,1.7,7.1,1.4,7.33
+2025-01-30,se Elfsborg,Europa Lg,League phase,Tottenham Hotspur Stadium,Home,3,0,W,Lucas Bergvall,6.6,1.4,False,7.7,1.0,4.2,1.7,7.1,1.4,7.33
+2025-01-30,se Elfsborg,Europa Lg,League phase,Tottenham Hotspur Stadium,Home,3,0,W,Rodrigo Bentancur,6.6,1.1,False,7.7,1.0,4.2,1.7,7.1,1.4,7.33
+2025-01-30,se Elfsborg,Europa Lg,League phase,Tottenham Hotspur Stadium,Home,3,0,W,Pedro Porro,6.9,1.2,False,7.7,1.0,4.2,1.7,7.1,1.4,7.33
+2025-01-30,se Elfsborg,Europa Lg,League phase,Tottenham Hotspur Stadium,Home,3,0,W,Brandon Austin,7.0,1.2,False,7.7,1.0,4.2,1.7,7.1,1.4,7.33
+2025-01-30,se Elfsborg,Europa Lg,League phase,Tottenham Hotspur Stadium,Home,3,0,W,Ben Davies,7.5,1.1,False,7.7,1.0,4.2,1.7,7.1,1.4,7.33
+2025-01-30,se Elfsborg,Europa Lg,League phase,Tottenham Hotspur Stadium,Home,3,0,W,Archie Gray,7.6,1.2,False,7.7,1.0,4.2,1.7,7.1,1.4,7.33
+2025-01-30,se Elfsborg,Europa Lg,League phase,Tottenham Hotspur Stadium,Home,3,0,W,Dejan Kulusevski,7.7,1.1,False,7.7,1.0,4.2,1.7,7.1,1.4,7.33
+2025-01-30,se Elfsborg,Europa Lg,League phase,Tottenham Hotspur Stadium,Home,3,0,W,Micky Van de Ven,7.8,1.3,False,7.7,1.0,4.2,1.7,7.1,1.4,7.33
+2025-01-30,se Elfsborg,Europa Lg,League phase,Tottenham Hotspur Stadium,Home,3,0,W,Mikey Moore,8.3,1.2,False,7.7,1.0,4.2,1.7,7.1,1.4,7.33
+2025-01-30,se Elfsborg,Europa Lg,League phase,Tottenham Hotspur Stadium,Home,3,0,W,Heung-Min Son,8.5,1.0,False,7.7,1.0,4.2,1.7,7.1,1.4,7.33
+2025-01-30,se Elfsborg,Europa Lg,League phase,Tottenham Hotspur Stadium,Home,3,0,W,Damola Ajayi,8.8,1.1,False,7.7,1.0,4.2,1.7,7.1,1.4,7.33
+2025-01-30,se Elfsborg,Europa Lg,League phase,Tottenham Hotspur Stadium,Home,3,0,W,Dane Scarlett,9.0,1.0,True,7.7,1.0,4.2,1.7,7.1,1.4,7.33
+2025-01-26,Leicester City,Premier League,Matchweek 23,Tottenham Hotspur Stadium,Home,1,2,L,Pape Matar Sarr,2.5,1.6,False,2.0,1.6,4.6,1.9,3.8,2.1,4.24
+2025-01-26,Leicester City,Premier League,Matchweek 23,Tottenham Hotspur Stadium,Home,1,2,L,Pedro Porro,2.5,2.0,False,2.0,1.6,4.6,1.9,3.8,2.1,4.24
+2025-01-26,Leicester City,Premier League,Matchweek 23,Tottenham Hotspur Stadium,Home,1,2,L,Dejan Kulusevski,3.8,1.9,False,2.0,1.6,4.6,1.9,3.8,2.1,4.24
+2025-01-26,Leicester City,Premier League,Matchweek 23,Tottenham Hotspur Stadium,Home,1,2,L,Ben Davies,3.8,1.7,False,2.0,1.6,4.6,1.9,3.8,2.1,4.24
+2025-01-26,Leicester City,Premier League,Matchweek 23,Tottenham Hotspur Stadium,Home,1,2,L,Rodrigo Bentancur,3.9,1.8,False,2.0,1.6,4.6,1.9,3.8,2.1,4.24
+2025-01-26,Leicester City,Premier League,Matchweek 23,Tottenham Hotspur Stadium,Home,1,2,L,Radu Dragusin,3.9,2.0,False,2.0,1.6,4.6,1.9,3.8,2.1,4.24
+2025-01-26,Leicester City,Premier League,Matchweek 23,Tottenham Hotspur Stadium,Home,1,2,L,Sergio Reguilon,4.0,1.8,False,2.0,1.6,4.6,1.9,3.8,2.1,4.24
+2025-01-26,Leicester City,Premier League,Matchweek 23,Tottenham Hotspur Stadium,Home,1,2,L,Will Lankshear,4.5,1.8,False,2.0,1.6,4.6,1.9,3.8,2.1,4.24
+2025-01-26,Leicester City,Premier League,Matchweek 23,Tottenham Hotspur Stadium,Home,1,2,L,Heung-Min Son,4.5,2.0,False,2.0,1.6,4.6,1.9,3.8,2.1,4.24
+2025-01-26,Leicester City,Premier League,Matchweek 23,Tottenham Hotspur Stadium,Home,1,2,L,Antonin Kinsey,4.6,1.7,False,2.0,1.6,4.6,1.9,3.8,2.1,4.24
+2025-01-26,Leicester City,Premier League,Matchweek 23,Tottenham Hotspur Stadium,Home,1,2,L,Mikey Moore,4.9,1.7,False,2.0,1.6,4.6,1.9,3.8,2.1,4.24
+2025-01-26,Leicester City,Premier League,Matchweek 23,Tottenham Hotspur Stadium,Home,1,2,L,Lucas Bergvall,4.9,1.7,False,2.0,1.6,4.6,1.9,3.8,2.1,4.24
+2025-01-26,Leicester City,Premier League,Matchweek 23,Tottenham Hotspur Stadium,Home,1,2,L,Archie Gray,5.2,1.9,False,2.0,1.6,4.6,1.9,3.8,2.1,4.24
+2025-01-26,Leicester City,Premier League,Matchweek 23,Tottenham Hotspur Stadium,Home,1,2,L,Richarlison,6.3,1.6,True,2.0,1.6,4.6,1.9,3.8,2.1,4.24
+2025-01-23,de Hoffenheim,Europa Lg,League phase,Tottenham Hotspur Stadium,Home,3,0,W,Will Lankshear,5.4,1.2,False,6.4,1.1,4.9,1.5,4.7,2.1,6.58
+2025-01-23,de Hoffenheim,Europa Lg,League phase,Tottenham Hotspur Stadium,Home,3,0,W,Richarlison,5.8,1.5,False,6.4,1.1,4.9,1.5,4.7,2.1,6.58
+2025-01-23,de Hoffenheim,Europa Lg,League phase,Tottenham Hotspur Stadium,Home,3,0,W,Callum Olusesi,5.8,1.2,False,6.4,1.1,4.9,1.5,4.7,2.1,6.58
+2025-01-23,de Hoffenheim,Europa Lg,League phase,Tottenham Hotspur Stadium,Home,3,0,W,Dejan Kulusevski,6.1,1.5,False,6.4,1.1,4.9,1.5,4.7,2.1,6.58
+2025-01-23,de Hoffenheim,Europa Lg,League phase,Tottenham Hotspur Stadium,Home,3,0,W,Radu Dragusin,6.2,1.3,False,6.4,1.1,4.9,1.5,4.7,2.1,6.58
+2025-01-23,de Hoffenheim,Europa Lg,League phase,Tottenham Hotspur Stadium,Home,3,0,W,Mikey Moore,6.4,1.1,False,6.4,1.1,4.9,1.5,4.7,2.1,6.58
+2025-01-23,de Hoffenheim,Europa Lg,League phase,Tottenham Hotspur Stadium,Home,3,0,W,Brandon Austin,6.4,1.4,False,6.4,1.1,4.9,1.5,4.7,2.1,6.58
+2025-01-23,de Hoffenheim,Europa Lg,League phase,Tottenham Hotspur Stadium,Home,3,0,W,Pedro Porro,6.5,1.3,False,6.4,1.1,4.9,1.5,4.7,2.1,6.58
+2025-01-23,de Hoffenheim,Europa Lg,League phase,Tottenham Hotspur Stadium,Home,3,0,W,Lucas Bergvall,6.8,1.1,False,6.4,1.1,4.9,1.5,4.7,2.1,6.58
+2025-01-23,de Hoffenheim,Europa Lg,League phase,Tottenham Hotspur Stadium,Home,3,0,W,Rodrigo Bentancur,7.0,1.2,False,6.4,1.1,4.9,1.5,4.7,2.1,6.58
+2025-01-23,de Hoffenheim,Europa Lg,League phase,Tottenham Hotspur Stadium,Home,3,0,W,Archie Gray,7.1,1.2,False,6.4,1.1,4.9,1.5,4.7,2.1,6.58
+2025-01-23,de Hoffenheim,Europa Lg,League phase,Tottenham Hotspur Stadium,Home,3,0,W,Ben Davies,7.3,1.3,False,6.4,1.1,4.9,1.5,4.7,2.1,6.58
+2025-01-23,de Hoffenheim,Europa Lg,League phase,Tottenham Hotspur Stadium,Home,3,0,W,James Maddison,7.4,1.2,False,6.4,1.1,4.9,1.5,4.7,2.1,6.58
+2025-01-23,de Hoffenheim,Europa Lg,League phase,Tottenham Hotspur Stadium,Home,3,0,W,Heung-Min Son,7.9,1.4,True,6.4,1.1,4.9,1.5,4.7,2.1,6.58
+2025-01-19,Everton,Premier League,Matchweek 22,Goodison Park,Away,2,3,L,Radu Dragusin,2.5,1.9,False,2.0,1.5,6.4,1.5,3.6,2.0,4.6
+2025-01-19,Everton,Premier League,Matchweek 22,Goodison Park,Away,2,3,L,Heung-Min Son,2.5,1.8,False,2.0,1.5,6.4,1.5,3.6,2.0,4.6
+2025-01-19,Everton,Premier League,Matchweek 22,Goodison Park,Away,2,3,L,Pape Matar Sarr,3.1,1.7,False,2.0,1.5,6.4,1.5,3.6,2.0,4.6
+2025-01-19,Everton,Premier League,Matchweek 22,Goodison Park,Away,2,3,L,James Maddison,3.4,1.9,False,2.0,1.5,6.4,1.5,3.6,2.0,4.6
+2025-01-19,Everton,Premier League,Matchweek 22,Goodison Park,Away,2,3,L,Archie Gray,3.6,1.6,False,2.0,1.5,6.4,1.5,3.6,2.0,4.6
+2025-01-19,Everton,Premier League,Matchweek 22,Goodison Park,Away,2,3,L,Pedro Porro,3.8,1.6,False,2.0,1.5,6.4,1.5,3.6,2.0,4.6
+2025-01-19,Everton,Premier League,Matchweek 22,Goodison Park,Away,2,3,L,Ben Davies,4.5,1.6,False,2.0,1.5,6.4,1.5,3.6,2.0,4.6
+2025-01-19,Everton,Premier League,Matchweek 22,Goodison Park,Away,2,3,L,Lucas Bergvall,5.2,1.6,False,2.0,1.5,6.4,1.5,3.6,2.0,4.6
+2025-01-19,Everton,Premier League,Matchweek 22,Goodison Park,Away,2,3,L,Antonin Kinsky,5.8,1.6,False,2.0,1.5,6.4,1.5,3.6,2.0,4.6
+2025-01-19,Everton,Premier League,Matchweek 22,Goodison Park,Away,2,3,L,Dejan Kulusevski,6.0,1.5,False,2.0,1.5,6.4,1.5,3.6,2.0,4.6
+2025-01-19,Everton,Premier League,Matchweek 22,Goodison Park,Away,2,3,L,Djed Spence,6.2,1.5,False,2.0,1.5,6.4,1.5,3.6,2.0,4.6
+2025-01-19,Everton,Premier League,Matchweek 22,Goodison Park,Away,2,3,L,Richarlison,6.3,1.5,False,2.0,1.5,6.4,1.5,3.6,2.0,4.6
+2025-01-19,Everton,Premier League,Matchweek 22,Goodison Park,Away,2,3,L,Mikey Moore,6.9,1.5,True,2.0,1.5,6.4,1.5,3.6,2.0,4.6
+2025-01-15,Arsenal,Premier League,Matchweek 21,Emirates Stadium,Away,1,2,L,Yves Bissouma,3.1,1.8,False,3.3,1.5,5.3,1.9,2.4,2.0,4.74
+2025-01-15,Arsenal,Premier League,Matchweek 21,Emirates Stadium,Away,1,2,L,Brennan Johnson,3.3,1.8,False,3.3,1.5,5.3,1.9,2.4,2.0,4.74
+2025-01-15,Arsenal,Premier League,Matchweek 21,Emirates Stadium,Away,1,2,L,Pape Matar Sarr,3.5,1.5,False,3.3,1.5,5.3,1.9,2.4,2.0,4.74
+2025-01-15,Arsenal,Premier League,Matchweek 21,Emirates Stadium,Away,1,2,L,Pedro Porro,3.6,1.8,False,3.3,1.5,5.3,1.9,2.4,2.0,4.74
+2025-01-15,Arsenal,Premier League,Matchweek 21,Emirates Stadium,Away,1,2,L,Dominic Solanke,4.3,1.8,False,3.3,1.5,5.3,1.9,2.4,2.0,4.74
+2025-01-15,Arsenal,Premier League,Matchweek 21,Emirates Stadium,Away,1,2,L,Radu Dragusin,4.3,2.0,False,3.3,1.5,5.3,1.9,2.4,2.0,4.74
+2025-01-15,Arsenal,Premier League,Matchweek 21,Emirates Stadium,Away,1,2,L,Dejan Kulusevski,4.4,1.7,False,3.3,1.5,5.3,1.9,2.4,2.0,4.74
+2025-01-15,Arsenal,Premier League,Matchweek 21,Emirates Stadium,Away,1,2,L,James Maddison,4.5,1.7,False,3.3,1.5,5.3,1.9,2.4,2.0,4.74
+2025-01-15,Arsenal,Premier League,Matchweek 21,Emirates Stadium,Away,1,2,L,Antonin Kinsky,5.0,1.6,False,3.3,1.5,5.3,1.9,2.4,2.0,4.74
+2025-01-15,Arsenal,Premier League,Matchweek 21,Emirates Stadium,Away,1,2,L,Heung-Min Son,5.2,1.7,False,3.3,1.5,5.3,1.9,2.4,2.0,4.74
+2025-01-15,Arsenal,Premier League,Matchweek 21,Emirates Stadium,Away,1,2,L,Richarlison,5.4,1.8,False,3.3,1.5,5.3,1.9,2.4,2.0,4.74
+2025-01-15,Arsenal,Premier League,Matchweek 21,Emirates Stadium,Away,1,2,L,Archie Gray,6.2,1.5,False,3.3,1.5,5.3,1.9,2.4,2.0,4.74
+2025-01-15,Arsenal,Premier League,Matchweek 21,Emirates Stadium,Away,1,2,L,Djed Spence,6.7,1.5,False,3.3,1.5,5.3,1.9,2.4,2.0,4.74
+2025-01-15,Arsenal,Premier League,Matchweek 21,Emirates Stadium,Away,1,2,L,Lucas Bergvall,6.9,1.6,True,3.3,1.5,5.3,1.9,2.4,2.0,4.74
+2025-01-12,Tamworth,FA Cup,Third round proper,The Lamb Ground,Away,3,0,W,Timo Werner,2.0,1.8,False,3.4,1.7,7.2,1.7,5.0,2.2,5.65
+2025-01-12,Tamworth,FA Cup,Third round proper,The Lamb Ground,Away,3,0,W,Brennan Johnson,3.2,1.8,False,3.4,1.7,7.2,1.7,5.0,2.2,5.65
+2025-01-12,Tamworth,FA Cup,Third round proper,The Lamb Ground,Away,3,0,W,Pedro Porro,3.3,1.9,False,3.4,1.7,7.2,1.7,5.0,2.2,5.65
+2025-01-12,Tamworth,FA Cup,Third round proper,The Lamb Ground,Away,3,0,W,Pape Matar Sarr,4.5,1.5,False,3.4,1.7,7.2,1.7,5.0,2.2,5.65
+2025-01-12,Tamworth,FA Cup,Third round proper,The Lamb Ground,Away,3,0,W,Radu Dragusin,4.8,1.6,False,3.4,1.7,7.2,1.7,5.0,2.2,5.65
+2025-01-12,Tamworth,FA Cup,Third round proper,The Lamb Ground,Away,3,0,W,Sergio Reguilon,5.4,1.4,False,3.4,1.7,7.2,1.7,5.0,2.2,5.65
+2025-01-12,Tamworth,FA Cup,Third round proper,The Lamb Ground,Away,3,0,W,Dominic Solanke,5.7,1.5,False,3.4,1.7,7.2,1.7,5.0,2.2,5.65
+2025-01-12,Tamworth,FA Cup,Third round proper,The Lamb Ground,Away,3,0,W,Mikey Moore,5.8,1.5,False,3.4,1.7,7.2,1.7,5.0,2.2,5.65
+2025-01-12,Tamworth,FA Cup,Third round proper,The Lamb Ground,Away,3,0,W,James Maddison,5.9,1.5,False,3.4,1.7,7.2,1.7,5.0,2.2,5.65
+2025-01-12,Tamworth,FA Cup,Third round proper,The Lamb Ground,Away,3,0,W,Archie Gray,6.3,1.4,False,3.4,1.7,7.2,1.7,5.0,2.2,5.65
+2025-01-12,Tamworth,FA Cup,Third round proper,The Lamb Ground,Away,3,0,W,Heung-Min Son,6.8,1.3,False,3.4,1.7,7.2,1.7,5.0,2.2,5.65
+2025-01-12,Tamworth,FA Cup,Third round proper,The Lamb Ground,Away,3,0,W,Lucas Bergvall,6.8,1.1,False,3.4,1.7,7.2,1.7,5.0,2.2,5.65
+2025-01-12,Tamworth,FA Cup,Third round proper,The Lamb Ground,Away,3,0,W,Yves Bissouma,7.3,1.4,False,3.4,1.7,7.2,1.7,5.0,2.2,5.65
+2025-01-12,Tamworth,FA Cup,Third round proper,The Lamb Ground,Away,3,0,W,Djed Spence,7.3,1.2,False,3.4,1.7,7.2,1.7,5.0,2.2,5.65
+2025-01-12,Tamworth,FA Cup,Third round proper,The Lamb Ground,Away,3,0,W,Dejan Kulusevski,7.6,1.1,False,3.4,1.7,7.2,1.7,5.0,2.2,5.65
+2025-01-12,Tamworth,FA Cup,Third round proper,The Lamb Ground,Away,3,0,W,Antonin Kinsky,7.7,1.0,True,3.4,1.7,7.2,1.7,5.0,2.2,5.65
+2025-01-08,Liverpool,EFL Cup,Semi-finals,Tottenham Hotspur Stadium,Home,1,0,W,Timo Werner,5.7,1.5,False,8.1,1.0,5.4,1.5,4.7,2.2,7.42
+2025-01-08,Liverpool,EFL Cup,Semi-finals,Tottenham Hotspur Stadium,Home,1,0,W,Heung-Min Son,5.7,1.4,False,8.1,1.0,5.4,1.5,4.7,2.2,7.42
+2025-01-08,Liverpool,EFL Cup,Semi-finals,Tottenham Hotspur Stadium,Home,1,0,W,Brennan Johnson,6.0,1.3,False,8.1,1.0,5.4,1.5,4.7,2.2,7.42
+2025-01-08,Liverpool,EFL Cup,Semi-finals,Tottenham Hotspur Stadium,Home,1,0,W,Dejan Kulusevski,6.1,1.4,False,8.1,1.0,5.4,1.5,4.7,2.2,7.42
+2025-01-08,Liverpool,EFL Cup,Semi-finals,Tottenham Hotspur Stadium,Home,1,0,W,Rodrigo Bentancur,6.9,2.0,False,8.1,1.0,5.4,1.5,4.7,2.2,7.42
+2025-01-08,Liverpool,EFL Cup,Semi-finals,Tottenham Hotspur Stadium,Home,1,0,W,Yves Bissouma,7.2,1.1,False,8.1,1.0,5.4,1.5,4.7,2.2,7.42
+2025-01-08,Liverpool,EFL Cup,Semi-finals,Tottenham Hotspur Stadium,Home,1,0,W,Pedro Porro,7.5,1.1,False,8.1,1.0,5.4,1.5,4.7,2.2,7.42
+2025-01-08,Liverpool,EFL Cup,Semi-finals,Tottenham Hotspur Stadium,Home,1,0,W,Radu Dragusin,7.9,1.0,False,8.1,1.0,5.4,1.5,4.7,2.2,7.42
+2025-01-08,Liverpool,EFL Cup,Semi-finals,Tottenham Hotspur Stadium,Home,1,0,W,Archie Gray,8.1,1.0,False,8.1,1.0,5.4,1.5,4.7,2.2,7.42
+2025-01-08,Liverpool,EFL Cup,Semi-finals,Tottenham Hotspur Stadium,Home,1,0,W,Dominic Solanke,8.2,1.0,False,8.1,1.0,5.4,1.5,4.7,2.2,7.42
+2025-01-08,Liverpool,EFL Cup,Semi-finals,Tottenham Hotspur Stadium,Home,1,0,W,Djed Spence,8.7,0.9,False,8.1,1.0,5.4,1.5,4.7,2.2,7.42
+2025-01-08,Liverpool,EFL Cup,Semi-finals,Tottenham Hotspur Stadium,Home,1,0,W,Lucas Bergvall,9.2,0.8,False,8.1,1.0,5.4,1.5,4.7,2.2,7.42
+2025-01-08,Liverpool,EFL Cup,Semi-finals,Tottenham Hotspur Stadium,Home,1,0,W,Antonin Kinsky,9.3,0.7,True,8.1,1.0,5.4,1.5,4.7,2.2,7.42
+2025-01-04,Newcastle Utd,Premier League,Matchweek 20,Tottenham Hotspur Stadium,Home,1,2,L,Timo Werner,4.2,1.7,False,5.9,1.5,5.3,1.6,1.3,1.6,6.03
+2025-01-04,Newcastle Utd,Premier League,Matchweek 20,Tottenham Hotspur Stadium,Home,1,2,L,Radu Dragusin,4.4,1.8,False,5.9,1.5,5.3,1.6,1.3,1.6,6.03
+2025-01-04,Newcastle Utd,Premier League,Matchweek 20,Tottenham Hotspur Stadium,Home,1,2,L,Brennan Johnson,4.4,1.8,False,5.9,1.5,5.3,1.6,1.3,1.6,6.03
+2025-01-04,Newcastle Utd,Premier League,Matchweek 20,Tottenham Hotspur Stadium,Home,1,2,L,Pape Matar Sarr,5.3,1.3,False,5.9,1.5,5.3,1.6,1.3,1.6,6.03
+2025-01-04,Newcastle Utd,Premier League,Matchweek 20,Tottenham Hotspur Stadium,Home,1,2,L,Dejan Kulusevski,5.7,1.8,False,5.9,1.5,5.3,1.6,1.3,1.6,6.03
+2025-01-04,Newcastle Utd,Premier League,Matchweek 20,Tottenham Hotspur Stadium,Home,1,2,L,Heung-Min Son,5.7,1.5,False,5.9,1.5,5.3,1.6,1.3,1.6,6.03
+2025-01-04,Newcastle Utd,Premier League,Matchweek 20,Tottenham Hotspur Stadium,Home,1,2,L,Archie Gray,5.9,1.5,False,5.9,1.5,5.3,1.6,1.3,1.6,6.03
+2025-01-04,Newcastle Utd,Premier League,Matchweek 20,Tottenham Hotspur Stadium,Home,1,2,L,James Maddison,6.0,1.4,False,5.9,1.5,5.3,1.6,1.3,1.6,6.03
+2025-01-04,Newcastle Utd,Premier League,Matchweek 20,Tottenham Hotspur Stadium,Home,1,2,L,Yves Bissouma,6.1,1.3,False,5.9,1.5,5.3,1.6,1.3,1.6,6.03
+2025-01-04,Newcastle Utd,Premier League,Matchweek 20,Tottenham Hotspur Stadium,Home,1,2,L,Sergio Reguilon,6.4,1.3,False,5.9,1.5,5.3,1.6,1.3,1.6,6.03
+2025-01-04,Newcastle Utd,Premier League,Matchweek 20,Tottenham Hotspur Stadium,Home,1,2,L,Djed Spence,6.8,1.3,False,5.9,1.5,5.3,1.6,1.3,1.6,6.03
+2025-01-04,Newcastle Utd,Premier League,Matchweek 20,Tottenham Hotspur Stadium,Home,1,2,L,Dominic Solanke,7.2,1.2,False,5.9,1.5,5.3,1.6,1.3,1.6,6.03
+2025-01-04,Newcastle Utd,Premier League,Matchweek 20,Tottenham Hotspur Stadium,Home,1,2,L,Lucas Bergvall,7.3,1.4,False,5.9,1.5,5.3,1.6,1.3,1.6,6.03
+2025-01-04,Newcastle Utd,Premier League,Matchweek 20,Tottenham Hotspur Stadium,Home,1,2,L,Brandon Austin,7.4,1.1,False,5.9,1.5,5.3,1.6,1.3,1.6,6.03
+2025-01-04,Newcastle Utd,Premier League,Matchweek 20,Tottenham Hotspur Stadium,Home,1,2,L,Pedro Porro,7.6,1.4,True,5.9,1.5,5.3,1.6,1.3,1.6,6.03
+2024-12-29,Wolves,Premier League,Matchweek 19,Tottenham Hotspur Stadium,Home,2,2,D,Heung-Min Son,3.2,1.8,False,4.0,1.7,5.6,1.4,5.2,1.9,5.01
+2024-12-29,Wolves,Premier League,Matchweek 19,Tottenham Hotspur Stadium,Home,2,2,D,Timo Werner,3.7,2.0,False,4.0,1.7,5.6,1.4,5.2,1.9,5.01
+2024-12-29,Wolves,Premier League,Matchweek 19,Tottenham Hotspur Stadium,Home,2,2,D,Yves Bissouma,4.2,1.5,False,4.0,1.7,5.6,1.4,5.2,1.9,5.01
+2024-12-29,Wolves,Premier League,Matchweek 19,Tottenham Hotspur Stadium,Home,2,2,D,James Maddison,4.3,1.6,False,4.0,1.7,5.6,1.4,5.2,1.9,5.01
+2024-12-29,Wolves,Premier League,Matchweek 19,Tottenham Hotspur Stadium,Home,2,2,D,Sergio Reguilon,4.5,1.6,False,4.0,1.7,5.6,1.4,5.2,1.9,5.01
+2024-12-29,Wolves,Premier League,Matchweek 19,Tottenham Hotspur Stadium,Home,2,2,D,Fraser Forster,4.7,1.7,False,4.0,1.7,5.6,1.4,5.2,1.9,5.01
+2024-12-29,Wolves,Premier League,Matchweek 19,Tottenham Hotspur Stadium,Home,2,2,D,Radu Dragusin,4.8,1.8,False,4.0,1.7,5.6,1.4,5.2,1.9,5.01
+2024-12-29,Wolves,Premier League,Matchweek 19,Tottenham Hotspur Stadium,Home,2,2,D,Pedro Porro,5.0,1.6,False,4.0,1.7,5.6,1.4,5.2,1.9,5.01
+2024-12-29,Wolves,Premier League,Matchweek 19,Tottenham Hotspur Stadium,Home,2,2,D,Destiny Udogie,5.0,1.4,False,4.0,1.7,5.6,1.4,5.2,1.9,5.01
+2024-12-29,Wolves,Premier League,Matchweek 19,Tottenham Hotspur Stadium,Home,2,2,D,Dominic Solanke,5.6,1.7,False,4.0,1.7,5.6,1.4,5.2,1.9,5.01
+2024-12-29,Wolves,Premier League,Matchweek 19,Tottenham Hotspur Stadium,Home,2,2,D,Rodrigo Bentancur,5.7,1.8,False,4.0,1.7,5.6,1.4,5.2,1.9,5.01
+2024-12-29,Wolves,Premier League,Matchweek 19,Tottenham Hotspur Stadium,Home,2,2,D,Archie Gray,5.7,1.6,False,4.0,1.7,5.6,1.4,5.2,1.9,5.01
+2024-12-29,Wolves,Premier League,Matchweek 19,Tottenham Hotspur Stadium,Home,2,2,D,Pape Matar Sarr,5.7,1.5,False,4.0,1.7,5.6,1.4,5.2,1.9,5.01
+2024-12-29,Wolves,Premier League,Matchweek 19,Tottenham Hotspur Stadium,Home,2,2,D,Brennan Johnson,6.3,1.4,False,4.0,1.7,5.6,1.4,5.2,1.9,5.01
+2024-12-29,Wolves,Premier League,Matchweek 19,Tottenham Hotspur Stadium,Home,2,2,D,Dejan Kulusevski,6.8,1.5,True,4.0,1.7,5.6,1.4,5.2,1.9,5.01
+2024-12-26,Nott'ham Forest,Premier League,Matchweek 18,City Ground,Away,0,1,L,Heung-Min Son,3.1,1.9,False,2.5,1.6,6.4,1.5,3.6,2.3,4.52
+2024-12-26,Nott'ham Forest,Premier League,Matchweek 18,City Ground,Away,0,1,L,Rodrigo Bentancur,3.8,1.7,False,2.5,1.6,6.4,1.5,3.6,2.3,4.52
+2024-12-26,Nott'ham Forest,Premier League,Matchweek 18,City Ground,Away,0,1,L,Brennan Johnson,3.9,2.2,False,2.5,1.6,6.4,1.5,3.6,2.3,4.52
+2024-12-26,Nott'ham Forest,Premier League,Matchweek 18,City Ground,Away,0,1,L,Pape Matar Sarr,4.1,1.7,False,2.5,1.6,6.4,1.5,3.6,2.3,4.52
+2024-12-26,Nott'ham Forest,Premier League,Matchweek 18,City Ground,Away,0,1,L,Destiny Udogie,4.4,1.7,False,2.5,1.6,6.4,1.5,3.6,2.3,4.52
+2024-12-26,Nott'ham Forest,Premier League,Matchweek 18,City Ground,Away,0,1,L,Yves Bissouma,4.5,1.6,False,2.5,1.6,6.4,1.5,3.6,2.3,4.52
+2024-12-26,Nott'ham Forest,Premier League,Matchweek 18,City Ground,Away,0,1,L,Pedro Porro,4.5,1.5,False,2.5,1.6,6.4,1.5,3.6,2.3,4.52
+2024-12-26,Nott'ham Forest,Premier League,Matchweek 18,City Ground,Away,0,1,L,Timo Werner,4.5,1.8,False,2.5,1.6,6.4,1.5,3.6,2.3,4.52
+2024-12-26,Nott'ham Forest,Premier League,Matchweek 18,City Ground,Away,0,1,L,Radu Dragusin,4.5,1.9,False,2.5,1.6,6.4,1.5,3.6,2.3,4.52
+2024-12-26,Nott'ham Forest,Premier League,Matchweek 18,City Ground,Away,0,1,L,Dejan Kulusevski,4.5,1.8,False,2.5,1.6,6.4,1.5,3.6,2.3,4.52
+2024-12-26,Nott'ham Forest,Premier League,Matchweek 18,City Ground,Away,0,1,L,Dominic Solanke,4.6,1.6,False,2.5,1.6,6.4,1.5,3.6,2.3,4.52
+2024-12-26,Nott'ham Forest,Premier League,Matchweek 18,City Ground,Away,0,1,L,James Maddison,4.6,1.7,False,2.5,1.6,6.4,1.5,3.6,2.3,4.52
+2024-12-26,Nott'ham Forest,Premier League,Matchweek 18,City Ground,Away,0,1,L,Djed Spence,5.0,1.9,False,2.5,1.6,6.4,1.5,3.6,2.3,4.52
+2024-12-26,Nott'ham Forest,Premier League,Matchweek 18,City Ground,Away,0,1,L,Fraser Forster,5.1,1.7,False,2.5,1.6,6.4,1.5,3.6,2.3,4.52
+2024-12-26,Nott'ham Forest,Premier League,Matchweek 18,City Ground,Away,0,1,L,Archie Gray,5.3,1.5,False,2.5,1.6,6.4,1.5,3.6,2.3,4.52
+2024-12-26,Nott'ham Forest,Premier League,Matchweek 18,City Ground,Away,0,1,L,Lucas Bergvall,5.9,1.7,True,2.5,1.6,6.4,1.5,3.6,2.3,4.52
+2024-12-22,Liverpool,Premier League,Matchweek 17,Tottenham Hotspur Stadium,Home,3,6,L,Yves Bissouma,3.2,1.9,False,3.6,1.5,8.6,1.0,3.7,2.1,4.93
+2024-12-22,Liverpool,Premier League,Matchweek 17,Tottenham Hotspur Stadium,Home,3,6,L,Pedro Porro,3.4,1.7,False,3.6,1.5,8.6,1.0,3.7,2.1,4.93
+2024-12-22,Liverpool,Premier League,Matchweek 17,Tottenham Hotspur Stadium,Home,3,6,L,Fraser Forster,3.5,1.8,False,3.6,1.5,8.6,1.0,3.7,2.1,4.93
+2024-12-22,Liverpool,Premier League,Matchweek 17,Tottenham Hotspur Stadium,Home,3,6,L,Radu Dragusin,3.6,1.8,False,3.6,1.5,8.6,1.0,3.7,2.1,4.93
+2024-12-22,Liverpool,Premier League,Matchweek 17,Tottenham Hotspur Stadium,Home,3,6,L,Heung-Min Son,4.1,1.8,False,3.6,1.5,8.6,1.0,3.7,2.1,4.93
+2024-12-22,Liverpool,Premier League,Matchweek 17,Tottenham Hotspur Stadium,Home,3,6,L,Pape Matar Sarr,4.4,1.5,False,3.6,1.5,8.6,1.0,3.7,2.1,4.93
+2024-12-22,Liverpool,Premier League,Matchweek 17,Tottenham Hotspur Stadium,Home,3,6,L,Timo Werner,4.9,1.5,False,3.6,1.5,8.6,1.0,3.7,2.1,4.93
+2024-12-22,Liverpool,Premier League,Matchweek 17,Tottenham Hotspur Stadium,Home,3,6,L,Brennan Johnson,4.9,1.6,False,3.6,1.5,8.6,1.0,3.7,2.1,4.93
+2024-12-22,Liverpool,Premier League,Matchweek 17,Tottenham Hotspur Stadium,Home,3,6,L,James Maddison,5.3,1.5,False,3.6,1.5,8.6,1.0,3.7,2.1,4.93
+2024-12-22,Liverpool,Premier League,Matchweek 17,Tottenham Hotspur Stadium,Home,3,6,L,Lucas Bergvall,5.5,1.5,False,3.6,1.5,8.6,1.0,3.7,2.1,4.93
+2024-12-22,Liverpool,Premier League,Matchweek 17,Tottenham Hotspur Stadium,Home,3,6,L,Archie Gray,5.7,1.8,False,3.6,1.5,8.6,1.0,3.7,2.1,4.93
+2024-12-22,Liverpool,Premier League,Matchweek 17,Tottenham Hotspur Stadium,Home,3,6,L,Djed Spence,6.6,1.5,False,3.6,1.5,8.6,1.0,3.7,2.1,4.93
+2024-12-22,Liverpool,Premier League,Matchweek 17,Tottenham Hotspur Stadium,Home,3,6,L,Dominic Solanke,6.7,1.3,False,3.6,1.5,8.6,1.0,3.7,2.1,4.93
+2024-12-22,Liverpool,Premier League,Matchweek 17,Tottenham Hotspur Stadium,Home,3,6,L,Dejan Kulusevski,7.2,1.5,True,3.6,1.5,8.6,1.0,3.7,2.1,4.93
+2024-12-19,Manchester Utd,EFL Cup,Quarter-finals,Tottenham Hotspur Stadium,Home,4,3,W,Fraser Forster,2.0,1.7,False,6.9,1.2,5.0,1.3,5.3,2.0,6.72
+2024-12-19,Manchester Utd,EFL Cup,Quarter-finals,Tottenham Hotspur Stadium,Home,4,3,W,Brennan Johnson,5.5,1.2,False,6.9,1.2,5.0,1.3,5.3,2.0,6.72
+2024-12-19,Manchester Utd,EFL Cup,Quarter-finals,Tottenham Hotspur Stadium,Home,4,3,W,Sergio Reguilon,5.8,1.7,False,6.9,1.2,5.0,1.3,5.3,2.0,6.72
+2024-12-19,Manchester Utd,EFL Cup,Quarter-finals,Tottenham Hotspur Stadium,Home,4,3,W,Pedro Porro,6.4,1.3,False,6.9,1.2,5.0,1.3,5.3,2.0,6.72
+2024-12-19,Manchester Utd,EFL Cup,Quarter-finals,Tottenham Hotspur Stadium,Home,4,3,W,James Maddison,6.5,1.1,False,6.9,1.2,5.0,1.3,5.3,2.0,6.72
+2024-12-19,Manchester Utd,EFL Cup,Quarter-finals,Tottenham Hotspur Stadium,Home,4,3,W,Yves Bissouma,6.6,1.9,False,6.9,1.2,5.0,1.3,5.3,2.0,6.72
+2024-12-19,Manchester Utd,EFL Cup,Quarter-finals,Tottenham Hotspur Stadium,Home,4,3,W,Lucas Bergvall,7.0,1.3,False,6.9,1.2,5.0,1.3,5.3,2.0,6.72
+2024-12-19,Manchester Utd,EFL Cup,Quarter-finals,Tottenham Hotspur Stadium,Home,4,3,W,Pape Matar Sarr,7.0,1.1,False,6.9,1.2,5.0,1.3,5.3,2.0,6.72
+2024-12-19,Manchester Utd,EFL Cup,Quarter-finals,Tottenham Hotspur Stadium,Home,4,3,W,Radu Dragusin,7.1,1.1,False,6.9,1.2,5.0,1.3,5.3,2.0,6.72
+2024-12-19,Manchester Utd,EFL Cup,Quarter-finals,Tottenham Hotspur Stadium,Home,4,3,W,Archie Gray,7.2,1.2,False,6.9,1.2,5.0,1.3,5.3,2.0,6.72
+2024-12-19,Manchester Utd,EFL Cup,Quarter-finals,Tottenham Hotspur Stadium,Home,4,3,W,Djed Spence,8.0,1.0,False,6.9,1.2,5.0,1.3,5.3,2.0,6.72
+2024-12-19,Manchester Utd,EFL Cup,Quarter-finals,Tottenham Hotspur Stadium,Home,4,3,W,Dejan Kulusevski,8.1,1.0,False,6.9,1.2,5.0,1.3,5.3,2.0,6.72
+2024-12-19,Manchester Utd,EFL Cup,Quarter-finals,Tottenham Hotspur Stadium,Home,4,3,W,Heung-Min Son,8.2,1.3,False,6.9,1.2,5.0,1.3,5.3,2.0,6.72
+2024-12-19,Manchester Utd,EFL Cup,Quarter-finals,Tottenham Hotspur Stadium,Home,4,3,W,Dominic Solanke,8.7,0.9,True,6.9,1.2,5.0,1.3,5.3,2.0,6.72
+2024-12-15,Southampton,Premier League,Matchweek 16,St Mary's Stadium,Away,5,0,W,Timo Werner,5.6,1.6,False,8.8,1.1,2.0,1.5,6.2,1.7,7.44
+2024-12-15,Southampton,Premier League,Matchweek 16,St Mary's Stadium,Away,5,0,W,Brennan Johnson,5.7,1.7,False,8.8,1.1,2.0,1.5,6.2,1.7,7.44
+2024-12-15,Southampton,Premier League,Matchweek 16,St Mary's Stadium,Away,5,0,W,Will Lankshear,6.1,1.4,False,8.8,1.1,2.0,1.5,6.2,1.7,7.44
+2024-12-15,Southampton,Premier League,Matchweek 16,St Mary's Stadium,Away,5,0,W,Alfie Dorrington,6.4,1.5,False,8.8,1.1,2.0,1.5,6.2,1.7,7.44
+2024-12-15,Southampton,Premier League,Matchweek 16,St Mary's Stadium,Away,5,0,W,Pedro Porro,6.7,1.6,False,8.8,1.1,2.0,1.5,6.2,1.7,7.44
+2024-12-15,Southampton,Premier League,Matchweek 16,St Mary's Stadium,Away,5,0,W,Dominic Solanke,7.0,1.4,False,8.8,1.1,2.0,1.5,6.2,1.7,7.44
+2024-12-15,Southampton,Premier League,Matchweek 16,St Mary's Stadium,Away,5,0,W,Destiny Udogie,7.1,1.3,False,8.8,1.1,2.0,1.5,6.2,1.7,7.44
+2024-12-15,Southampton,Premier League,Matchweek 16,St Mary's Stadium,Away,5,0,W,Lucas Bergvall,7.7,1.3,False,8.8,1.1,2.0,1.5,6.2,1.7,7.44
+2024-12-15,Southampton,Premier League,Matchweek 16,St Mary's Stadium,Away,5,0,W,Radu Dragusin,7.8,1.2,False,8.8,1.1,2.0,1.5,6.2,1.7,7.44
+2024-12-15,Southampton,Premier League,Matchweek 16,St Mary's Stadium,Away,5,0,W,Fraser Forster,7.9,1.3,False,8.8,1.1,2.0,1.5,6.2,1.7,7.44
+2024-12-15,Southampton,Premier League,Matchweek 16,St Mary's Stadium,Away,5,0,W,Dejan Kulusevski,8.1,1.2,False,8.8,1.1,2.0,1.5,6.2,1.7,7.44
+2024-12-15,Southampton,Premier League,Matchweek 16,St Mary's Stadium,Away,5,0,W,Archie Gray,8.2,1.3,False,8.8,1.1,2.0,1.5,6.2,1.7,7.44
+2024-12-15,Southampton,Premier League,Matchweek 16,St Mary's Stadium,Away,5,0,W,Pape Matar Sarr,8.5,1.2,False,8.8,1.1,2.0,1.5,6.2,1.7,7.44
+2024-12-15,Southampton,Premier League,Matchweek 16,St Mary's Stadium,Away,5,0,W,Djed Spence,8.6,1.1,False,8.8,1.1,2.0,1.5,6.2,1.7,7.44
+2024-12-15,Southampton,Premier League,Matchweek 16,St Mary's Stadium,Away,5,0,W,Heung-Min Son,8.6,1.3,False,8.8,1.1,2.0,1.5,6.2,1.7,7.44
+2024-12-15,Southampton,Premier League,Matchweek 16,St Mary's Stadium,Away,5,0,W,James Maddison,9.0,1.1,True,8.8,1.1,2.0,1.5,6.2,1.7,7.44
+2024-12-12,sct Rangers,Europa Lg,League phase,Ibrox Stadium,Away,1,1,D,Timo Werner,2.3,1.6,False,3.8,1.4,6.0,1.3,4.8,2.1,5.21
+2024-12-12,sct Rangers,Europa Lg,League phase,Ibrox Stadium,Away,1,1,D,Brennan Johnson,3.3,1.6,False,3.8,1.4,6.0,1.3,4.8,2.1,5.21
+2024-12-12,sct Rangers,Europa Lg,League phase,Ibrox Stadium,Away,1,1,D,Yves Bissouma,4.0,1.5,False,3.8,1.4,6.0,1.3,4.8,2.1,5.21
+2024-12-12,sct Rangers,Europa Lg,League phase,Ibrox Stadium,Away,1,1,D,Heung-Min Son,4.1,1.7,False,3.8,1.4,6.0,1.3,4.8,2.1,5.21
+2024-12-12,sct Rangers,Europa Lg,League phase,Ibrox Stadium,Away,1,1,D,Pedro Porro,4.3,1.7,False,3.8,1.4,6.0,1.3,4.8,2.1,5.21
+2024-12-12,sct Rangers,Europa Lg,League phase,Ibrox Stadium,Away,1,1,D,James Maddison,4.4,1.7,False,3.8,1.4,6.0,1.3,4.8,2.1,5.21
+2024-12-12,sct Rangers,Europa Lg,League phase,Ibrox Stadium,Away,1,1,D,Destiny Udogie,5.0,1.6,False,3.8,1.4,6.0,1.3,4.8,2.1,5.21
+2024-12-12,sct Rangers,Europa Lg,League phase,Ibrox Stadium,Away,1,1,D,Rodrigo Bentancur,5.1,1.5,False,3.8,1.4,6.0,1.3,4.8,2.1,5.21
+2024-12-12,sct Rangers,Europa Lg,League phase,Ibrox Stadium,Away,1,1,D,Pape Matar Sarr,5.3,1.5,False,3.8,1.4,6.0,1.3,4.8,2.1,5.21
+2024-12-12,sct Rangers,Europa Lg,League phase,Ibrox Stadium,Away,1,1,D,Radu Dragusin,6.0,1.7,False,3.8,1.4,6.0,1.3,4.8,2.1,5.21
+2024-12-12,sct Rangers,Europa Lg,League phase,Ibrox Stadium,Away,1,1,D,Dominic Solanke,6.1,1.4,False,3.8,1.4,6.0,1.3,4.8,2.1,5.21
+2024-12-12,sct Rangers,Europa Lg,League phase,Ibrox Stadium,Away,1,1,D,Archie Gray,6.1,1.4,False,3.8,1.4,6.0,1.3,4.8,2.1,5.21
+2024-12-12,sct Rangers,Europa Lg,League phase,Ibrox Stadium,Away,1,1,D,Lucas Bergvall,6.7,1.3,False,3.8,1.4,6.0,1.3,4.8,2.1,5.21
+2024-12-12,sct Rangers,Europa Lg,League phase,Ibrox Stadium,Away,1,1,D,Dejan Kulusevski,7.2,1.1,False,3.8,1.4,6.0,1.3,4.8,2.1,5.21
+2024-12-12,sct Rangers,Europa Lg,League phase,Ibrox Stadium,Away,1,1,D,Fraser Forster,8.2,0.9,True,3.8,1.4,6.0,1.3,4.8,2.1,5.21
+2024-12-08,Chelsea,Premier League,Matchweek 15,Tottenham Hotspur Stadium,Home,3,4,L,Yves Bissouma,2.1,1.6,False,3.6,1.8,6.2,1.9,2.1,2.0,4.96
+2024-12-08,Chelsea,Premier League,Matchweek 15,Tottenham Hotspur Stadium,Home,3,4,L,Pape Matar Sarr,3.0,1.8,False,3.6,1.8,6.2,1.9,2.1,2.0,4.96
+2024-12-08,Chelsea,Premier League,Matchweek 15,Tottenham Hotspur Stadium,Home,3,4,L,Timo Werner,4.6,2.0,False,3.6,1.8,6.2,1.9,2.1,2.0,4.96
+2024-12-08,Chelsea,Premier League,Matchweek 15,Tottenham Hotspur Stadium,Home,3,4,L,Brennan Johnson,4.6,1.9,False,3.6,1.8,6.2,1.9,2.1,2.0,4.96
+2024-12-08,Chelsea,Premier League,Matchweek 15,Tottenham Hotspur Stadium,Home,3,4,L,Destiny Udogie,4.7,2.0,False,3.6,1.8,6.2,1.9,2.1,2.0,4.96
+2024-12-08,Chelsea,Premier League,Matchweek 15,Tottenham Hotspur Stadium,Home,3,4,L,Heung-Min Son,4.8,2.1,False,3.6,1.8,6.2,1.9,2.1,2.0,4.96
+2024-12-08,Chelsea,Premier League,Matchweek 15,Tottenham Hotspur Stadium,Home,3,4,L,Archie Gray,5.1,1.7,False,3.6,1.8,6.2,1.9,2.1,2.0,4.96
+2024-12-08,Chelsea,Premier League,Matchweek 15,Tottenham Hotspur Stadium,Home,3,4,L,Cristian Romero,5.1,1.8,False,3.6,1.8,6.2,1.9,2.1,2.0,4.96
+2024-12-08,Chelsea,Premier League,Matchweek 15,Tottenham Hotspur Stadium,Home,3,4,L,Lucas Bergvall,5.2,1.7,False,3.6,1.8,6.2,1.9,2.1,2.0,4.96
+2024-12-08,Chelsea,Premier League,Matchweek 15,Tottenham Hotspur Stadium,Home,3,4,L,James Maddison,5.3,1.8,False,3.6,1.8,6.2,1.9,2.1,2.0,4.96
+2024-12-08,Chelsea,Premier League,Matchweek 15,Tottenham Hotspur Stadium,Home,3,4,L,Pedro Porro,5.4,1.8,False,3.6,1.8,6.2,1.9,2.1,2.0,4.96
+2024-12-08,Chelsea,Premier League,Matchweek 15,Tottenham Hotspur Stadium,Home,3,4,L,Dejan Kulusevski,5.4,1.8,False,3.6,1.8,6.2,1.9,2.1,2.0,4.96
+2024-12-08,Chelsea,Premier League,Matchweek 15,Tottenham Hotspur Stadium,Home,3,4,L,Radu Dragusin,5.5,1.9,False,3.6,1.8,6.2,1.9,2.1,2.0,4.96
+2024-12-08,Chelsea,Premier League,Matchweek 15,Tottenham Hotspur Stadium,Home,3,4,L,Dominic Solanke,5.8,1.8,False,3.6,1.8,6.2,1.9,2.1,2.0,4.96
+2024-12-08,Chelsea,Premier League,Matchweek 15,Tottenham Hotspur Stadium,Home,3,4,L,Micky Van de Ven,5.9,1.7,False,3.6,1.8,6.2,1.9,2.1,2.0,4.96
+2024-12-08,Chelsea,Premier League,Matchweek 15,Tottenham Hotspur Stadium,Home,3,4,L,Fraser Forster,6.9,1.6,True,3.6,1.8,6.2,1.9,2.1,2.0,4.96
+2024-12-05,Bournemouth,Premier League,Matchweek 14,Dean Court,Away,0,1,L,Brennan Johnson,2.2,1.6,False,1.7,1.4,6.9,1.4,5.0,2.1,4.14
+2024-12-05,Bournemouth,Premier League,Matchweek 14,Dean Court,Away,0,1,L,Dominic Solanke,3.3,1.8,False,1.7,1.4,6.9,1.4,5.0,2.1,4.14
+2024-12-05,Bournemouth,Premier League,Matchweek 14,Dean Court,Away,0,1,L,Dejan Kulusevski,3.6,1.8,False,1.7,1.4,6.9,1.4,5.0,2.1,4.14
+2024-12-05,Bournemouth,Premier League,Matchweek 14,Dean Court,Away,0,1,L,Timo Werner,3.6,1.7,False,1.7,1.4,6.9,1.4,5.0,2.1,4.14
+2024-12-05,Bournemouth,Premier League,Matchweek 14,Dean Court,Away,0,1,L,Destiny Udogie,3.7,1.9,False,1.7,1.4,6.9,1.4,5.0,2.1,4.14
+2024-12-05,Bournemouth,Premier League,Matchweek 14,Dean Court,Away,0,1,L,Pape Matar Sarr,3.7,1.6,False,1.7,1.4,6.9,1.4,5.0,2.1,4.14
+2024-12-05,Bournemouth,Premier League,Matchweek 14,Dean Court,Away,0,1,L,James Maddison,3.7,1.8,False,1.7,1.4,6.9,1.4,5.0,2.1,4.14
+2024-12-05,Bournemouth,Premier League,Matchweek 14,Dean Court,Away,0,1,L,Yves Bissouma,3.8,1.8,False,1.7,1.4,6.9,1.4,5.0,2.1,4.14
+2024-12-05,Bournemouth,Premier League,Matchweek 14,Dean Court,Away,0,1,L,Radu Dragusin,4.3,2.0,False,1.7,1.4,6.9,1.4,5.0,2.1,4.14
+2024-12-05,Bournemouth,Premier League,Matchweek 14,Dean Court,Away,0,1,L,Heung-Min Son,4.3,2.0,False,1.7,1.4,6.9,1.4,5.0,2.1,4.14
+2024-12-05,Bournemouth,Premier League,Matchweek 14,Dean Court,Away,0,1,L,Pedro Porro,4.3,1.9,False,1.7,1.4,6.9,1.4,5.0,2.1,4.14
+2024-12-05,Bournemouth,Premier League,Matchweek 14,Dean Court,Away,0,1,L,Lucas Bergvall,4.4,1.8,False,1.7,1.4,6.9,1.4,5.0,2.1,4.14
+2024-12-05,Bournemouth,Premier League,Matchweek 14,Dean Court,Away,0,1,L,Ben Davies,4.8,1.7,False,1.7,1.4,6.9,1.4,5.0,2.1,4.14
+2024-12-05,Bournemouth,Premier League,Matchweek 14,Dean Court,Away,0,1,L,Archie Gray,5.5,1.9,False,1.7,1.4,6.9,1.4,5.0,2.1,4.14
+2024-12-05,Bournemouth,Premier League,Matchweek 14,Dean Court,Away,0,1,L,Fraser Forster,6.9,1.6,True,1.7,1.4,6.9,1.4,5.0,2.1,4.14
+2024-12-01,Fulham,Premier League,Matchweek 13,Tottenham Hotspur Stadium,Home,1,1,D,Heung-Min Son,3.9,1.9,False,3.8,1.6,6.0,1.3,3.7,2.3,5.55
+2024-12-01,Fulham,Premier League,Matchweek 13,Tottenham Hotspur Stadium,Home,1,1,D,Pedro Porro,4.5,1.8,False,3.8,1.6,6.0,1.3,3.7,2.3,5.55
+2024-12-01,Fulham,Premier League,Matchweek 13,Tottenham Hotspur Stadium,Home,1,1,D,Archie Gray,4.9,1.4,False,3.8,1.6,6.0,1.3,3.7,2.3,5.55
+2024-12-01,Fulham,Premier League,Matchweek 13,Tottenham Hotspur Stadium,Home,1,1,D,Will Lankshear,4.9,1.5,False,3.8,1.6,6.0,1.3,3.7,2.3,5.55
+2024-12-01,Fulham,Premier League,Matchweek 13,Tottenham Hotspur Stadium,Home,1,1,D,Destiny Udogie,5.0,1.6,False,3.8,1.6,6.0,1.3,3.7,2.3,5.55
+2024-12-01,Fulham,Premier League,Matchweek 13,Tottenham Hotspur Stadium,Home,1,1,D,Lucas Bergvall,5.1,1.3,False,3.8,1.6,6.0,1.3,3.7,2.3,5.55
+2024-12-01,Fulham,Premier League,Matchweek 13,Tottenham Hotspur Stadium,Home,1,1,D,James Maddison,5.1,1.4,False,3.8,1.6,6.0,1.3,3.7,2.3,5.55
+2024-12-01,Fulham,Premier League,Matchweek 13,Tottenham Hotspur Stadium,Home,1,1,D,Yves Bissouma,5.2,1.5,False,3.8,1.6,6.0,1.3,3.7,2.3,5.55
+2024-12-01,Fulham,Premier League,Matchweek 13,Tottenham Hotspur Stadium,Home,1,1,D,Pape Matar Sarr,5.3,1.4,False,3.8,1.6,6.0,1.3,3.7,2.3,5.55
+2024-12-01,Fulham,Premier League,Matchweek 13,Tottenham Hotspur Stadium,Home,1,1,D,Brennan Johnson,5.7,1.8,False,3.8,1.6,6.0,1.3,3.7,2.3,5.55
+2024-12-01,Fulham,Premier League,Matchweek 13,Tottenham Hotspur Stadium,Home,1,1,D,Dejan Kulusevski,5.7,1.3,False,3.8,1.6,6.0,1.3,3.7,2.3,5.55
+2024-12-01,Fulham,Premier League,Matchweek 13,Tottenham Hotspur Stadium,Home,1,1,D,Timo Werner,6.2,1.5,False,3.8,1.6,6.0,1.3,3.7,2.3,5.55
+2024-12-01,Fulham,Premier League,Matchweek 13,Tottenham Hotspur Stadium,Home,1,1,D,Radu Dragusin,7.0,1.4,False,3.8,1.6,6.0,1.3,3.7,2.3,5.55
+2024-12-01,Fulham,Premier League,Matchweek 13,Tottenham Hotspur Stadium,Home,1,1,D,Ben Davies,7.2,1.4,False,3.8,1.6,6.0,1.3,3.7,2.3,5.55
+2024-12-01,Fulham,Premier League,Matchweek 13,Tottenham Hotspur Stadium,Home,1,1,D,Fraser Forster,7.6,1.3,True,3.8,1.6,6.0,1.3,3.7,2.3,5.55
+2024-11-28,it Roma,Europa Lg,League phase,Stadio Olimpico,Away,2,2,D,Lucas Bergvall,5.2,1.6,False,5.1,1.6,6.0,1.4,6.6,1.8,6.02
+2024-11-28,it Roma,Europa Lg,League phase,Stadio Olimpico,Away,2,2,D,Timo Werner,5.3,1.5,False,5.1,1.6,6.0,1.4,6.6,1.8,6.02
+2024-11-28,it Roma,Europa Lg,League phase,Stadio Olimpico,Away,2,2,D,James Maddison,5.3,1.5,False,5.1,1.6,6.0,1.4,6.6,1.8,6.02
+2024-11-28,it Roma,Europa Lg,League phase,Stadio Olimpico,Away,2,2,D,Dominic Solanke,5.4,1.8,False,5.1,1.6,6.0,1.4,6.6,1.8,6.02
+2024-11-28,it Roma,Europa Lg,League phase,Stadio Olimpico,Away,2,2,D,Pedro Porro,5.4,1.9,False,5.1,1.6,6.0,1.4,6.6,1.8,6.02
+2024-11-28,it Roma,Europa Lg,League phase,Stadio Olimpico,Away,2,2,D,Yves Bissouma,5.7,1.6,False,5.1,1.6,6.0,1.4,6.6,1.8,6.02
+2024-11-28,it Roma,Europa Lg,League phase,Stadio Olimpico,Away,2,2,D,Heung-Min Son,6.0,1.7,False,5.1,1.6,6.0,1.4,6.6,1.8,6.02
+2024-11-28,it Roma,Europa Lg,League phase,Stadio Olimpico,Away,2,2,D,Rodrigo Bentancur,6.1,1.5,False,5.1,1.6,6.0,1.4,6.6,1.8,6.02
+2024-11-28,it Roma,Europa Lg,League phase,Stadio Olimpico,Away,2,2,D,Radu Dragusin,6.3,1.5,False,5.1,1.6,6.0,1.4,6.6,1.8,6.02
+2024-11-28,it Roma,Europa Lg,League phase,Stadio Olimpico,Away,2,2,D,Brennan Johnson,6.4,1.8,False,5.1,1.6,6.0,1.4,6.6,1.8,6.02
+2024-11-28,it Roma,Europa Lg,League phase,Stadio Olimpico,Away,2,2,D,Archie Gray,6.5,1.3,False,5.1,1.6,6.0,1.4,6.6,1.8,6.02
+2024-11-28,it Roma,Europa Lg,League phase,Stadio Olimpico,Away,2,2,D,Pape Matar Sarr,6.5,1.2,False,5.1,1.6,6.0,1.4,6.6,1.8,6.02
+2024-11-28,it Roma,Europa Lg,League phase,Stadio Olimpico,Away,2,2,D,Ben Davies,6.6,1.4,False,5.1,1.6,6.0,1.4,6.6,1.8,6.02
+2024-11-28,it Roma,Europa Lg,League phase,Stadio Olimpico,Away,2,2,D,Dejan Kulusevski,6.6,1.9,False,5.1,1.6,6.0,1.4,6.6,1.8,6.02
+2024-11-28,it Roma,Europa Lg,League phase,Stadio Olimpico,Away,2,2,D,Fraser Forster,7.0,1.4,True,5.1,1.6,6.0,1.4,6.6,1.8,6.02
+2024-11-23,Manchester City,Premier League,Matchweek 12,City of Manchester Stadium,Away,4,0,W,Djed Spence,7.0,1.1,False,9.5,0.6,4.1,1.5,7.0,1.3,8.38
+2024-11-23,Manchester City,Premier League,Matchweek 12,City of Manchester Stadium,Away,4,0,W,Lucas Bergvall,7.0,1.1,False,9.5,0.6,4.1,1.5,7.0,1.3,8.38
+2024-11-23,Manchester City,Premier League,Matchweek 12,City of Manchester Stadium,Away,4,0,W,Destiny Udogie,7.9,1.0,False,9.5,0.6,4.1,1.5,7.0,1.3,8.38
+2024-11-23,Manchester City,Premier League,Matchweek 12,City of Manchester Stadium,Away,4,0,W,Yves Bissouma,7.9,1.0,False,9.5,0.6,4.1,1.5,7.0,1.3,8.38
+2024-11-23,Manchester City,Premier League,Matchweek 12,City of Manchester Stadium,Away,4,0,W,Brennan Johnson,8.1,1.0,False,9.5,0.6,4.1,1.5,7.0,1.3,8.38
+2024-11-23,Manchester City,Premier League,Matchweek 12,City of Manchester Stadium,Away,4,0,W,Dominic Solanke,8.2,1.0,False,9.5,0.6,4.1,1.5,7.0,1.3,8.38
+2024-11-23,Manchester City,Premier League,Matchweek 12,City of Manchester Stadium,Away,4,0,W,Timo Werner,8.2,1.0,False,9.5,0.6,4.1,1.5,7.0,1.3,8.38
+2024-11-23,Manchester City,Premier League,Matchweek 12,City of Manchester Stadium,Away,4,0,W,Heung-Min Son,8.3,0.9,False,9.5,0.6,4.1,1.5,7.0,1.3,8.38
+2024-11-23,Manchester City,Premier League,Matchweek 12,City of Manchester Stadium,Away,4,0,W,Pape Matar Sarr,8.3,1.0,False,9.5,0.6,4.1,1.5,7.0,1.3,8.38
+2024-11-23,Manchester City,Premier League,Matchweek 12,City of Manchester Stadium,Away,4,0,W,Radu Dragusin,8.5,1.0,False,9.5,0.6,4.1,1.5,7.0,1.3,8.38
+2024-11-23,Manchester City,Premier League,Matchweek 12,City of Manchester Stadium,Away,4,0,W,Ben Davies,8.6,0.9,False,9.5,0.6,4.1,1.5,7.0,1.3,8.38
+2024-11-23,Manchester City,Premier League,Matchweek 12,City of Manchester Stadium,Away,4,0,W,Pedro Porro,8.8,0.9,False,9.5,0.6,4.1,1.5,7.0,1.3,8.38
+2024-11-23,Manchester City,Premier League,Matchweek 12,City of Manchester Stadium,Away,4,0,W,Guglielmo Vicario,9.5,0.6,False,9.5,0.6,4.1,1.5,7.0,1.3,8.38
+2024-11-23,Manchester City,Premier League,Matchweek 12,City of Manchester Stadium,Away,4,0,W,James Maddison,9.7,0.5,True,9.5,0.6,4.1,1.5,7.0,1.3,8.38
+2024-11-23,Manchester City,Premier League,Matchweek 12,City of Manchester Stadium,Away,4,0,W,Dejan Kulusevski,9.7,0.6,False,9.5,0.6,4.1,1.5,7.0,1.3,8.38
+2024-11-10,Ipswich Town,Premier League,Matchweek 11,Tottenham Hotspur Stadium,Home,1,2,L,Radu Dragusin,2.3,2.1,False,1.9,1.7,5.9,1.9,3.0,2.3,4.04
+2024-11-10,Ipswich Town,Premier League,Matchweek 11,Tottenham Hotspur Stadium,Home,1,2,L,Cristian Romero,2.8,1.9,False,1.9,1.7,5.9,1.9,3.0,2.3,4.04
+2024-11-10,Ipswich Town,Premier League,Matchweek 11,Tottenham Hotspur Stadium,Home,1,2,L,Brennan Johnson,3.3,2.0,False,1.9,1.7,5.9,1.9,3.0,2.3,4.04
+2024-11-10,Ipswich Town,Premier League,Matchweek 11,Tottenham Hotspur Stadium,Home,1,2,L,Pedro Porro,3.4,2.1,False,1.9,1.7,5.9,1.9,3.0,2.3,4.04
+2024-11-10,Ipswich Town,Premier League,Matchweek 11,Tottenham Hotspur Stadium,Home,1,2,L,James Maddison,3.6,1.9,False,1.9,1.7,5.9,1.9,3.0,2.3,4.04
+2024-11-10,Ipswich Town,Premier League,Matchweek 11,Tottenham Hotspur Stadium,Home,1,2,L,Heung-Min Son,3.9,2.2,False,1.9,1.7,5.9,1.9,3.0,2.3,4.04
+2024-11-10,Ipswich Town,Premier League,Matchweek 11,Tottenham Hotspur Stadium,Home,1,2,L,Destiny Udogie,4.2,2.0,False,1.9,1.7,5.9,1.9,3.0,2.3,4.04
+2024-11-10,Ipswich Town,Premier League,Matchweek 11,Tottenham Hotspur Stadium,Home,1,2,L,Yves Bissouma,4.2,1.9,False,1.9,1.7,5.9,1.9,3.0,2.3,4.04
+2024-11-10,Ipswich Town,Premier League,Matchweek 11,Tottenham Hotspur Stadium,Home,1,2,L,Dejan Kulusevski,4.3,2.0,False,1.9,1.7,5.9,1.9,3.0,2.3,4.04
+2024-11-10,Ipswich Town,Premier League,Matchweek 11,Tottenham Hotspur Stadium,Home,1,2,L,Timo Werner,4.4,2.4,False,1.9,1.7,5.9,1.9,3.0,2.3,4.04
+2024-11-10,Ipswich Town,Premier League,Matchweek 11,Tottenham Hotspur Stadium,Home,1,2,L,Guglielmo Vicario,4.6,2.0,False,1.9,1.7,5.9,1.9,3.0,2.3,4.04
+2024-11-10,Ipswich Town,Premier League,Matchweek 11,Tottenham Hotspur Stadium,Home,1,2,L,Dominic Solanke,4.7,2.1,False,1.9,1.7,5.9,1.9,3.0,2.3,4.04
+2024-11-10,Ipswich Town,Premier League,Matchweek 11,Tottenham Hotspur Stadium,Home,1,2,L,Pape Matar Sarr,5.0,1.9,False,1.9,1.7,5.9,1.9,3.0,2.3,4.04
+2024-11-10,Ipswich Town,Premier League,Matchweek 11,Tottenham Hotspur Stadium,Home,1,2,L,Rodrigo Bentancur,5.8,2.0,True,1.9,1.7,5.9,1.9,3.0,2.3,4.04
+2024-11-07,tr Galatasaray,Europa Lg,League phase,Tottenham Hotspur Stadium,Home,3,2,W,Lucas Bergvall,2.7,1.6,False,4.1,1.5,6.4,1.4,2.8,2.0,5.41
+2024-11-07,tr Galatasaray,Europa Lg,League phase,Tottenham Hotspur Stadium,Home,3,2,W,Radu Dragusin,3.1,1.9,False,4.1,1.5,6.4,1.4,2.8,2.0,5.41
+2024-11-07,tr Galatasaray,Europa Lg,League phase,Tottenham Hotspur Stadium,Home,3,2,W,James Maddison,4.0,1.5,False,4.1,1.5,6.4,1.4,2.8,2.0,5.41
+2024-11-07,tr Galatasaray,Europa Lg,League phase,Tottenham Hotspur Stadium,Home,3,2,W,Will Lankshear,4.9,1.6,False,4.1,1.5,6.4,1.4,2.8,2.0,5.41
+2024-11-07,tr Galatasaray,Europa Lg,League phase,Tottenham Hotspur Stadium,Home,3,2,W,Ben Davies,4.9,1.4,False,4.1,1.5,6.4,1.4,2.8,2.0,5.41
+2024-11-07,tr Galatasaray,Europa Lg,League phase,Tottenham Hotspur Stadium,Home,3,2,W,Heung-Min Son,5.2,1.3,False,4.1,1.5,6.4,1.4,2.8,2.0,5.41
+2024-11-07,tr Galatasaray,Europa Lg,League phase,Tottenham Hotspur Stadium,Home,3,2,W,Fraser Forster,5.2,2.0,False,4.1,1.5,6.4,1.4,2.8,2.0,5.41
+2024-11-07,tr Galatasaray,Europa Lg,League phase,Tottenham Hotspur Stadium,Home,3,2,W,Pedro Porro,5.3,1.4,False,4.1,1.5,6.4,1.4,2.8,2.0,5.41
+2024-11-07,tr Galatasaray,Europa Lg,League phase,Tottenham Hotspur Stadium,Home,3,2,W,Brennan Johnson,5.6,1.4,False,4.1,1.5,6.4,1.4,2.8,2.0,5.41
+2024-11-07,tr Galatasaray,Europa Lg,League phase,Tottenham Hotspur Stadium,Home,3,2,W,Archie Gray,5.8,1.5,False,4.1,1.5,6.4,1.4,2.8,2.0,5.41
+2024-11-07,tr Galatasaray,Europa Lg,League phase,Tottenham Hotspur Stadium,Home,3,2,W,Pape Matar Sarr,6.3,1.3,False,4.1,1.5,6.4,1.4,2.8,2.0,5.41
+2024-11-07,tr Galatasaray,Europa Lg,League phase,Tottenham Hotspur Stadium,Home,3,2,W,Yves Bissouma,6.4,1.5,False,4.1,1.5,6.4,1.4,2.8,2.0,5.41
+2024-11-07,tr Galatasaray,Europa Lg,League phase,Tottenham Hotspur Stadium,Home,3,2,W,Dejan Kulusevski,6.6,1.3,False,4.1,1.5,6.4,1.4,2.8,2.0,5.41
+2024-11-07,tr Galatasaray,Europa Lg,League phase,Tottenham Hotspur Stadium,Home,3,2,W,Rodrigo Bentancur,7.5,1.4,False,4.1,1.5,6.4,1.4,2.8,2.0,5.41
+2024-11-07,tr Galatasaray,Europa Lg,League phase,Tottenham Hotspur Stadium,Home,3,2,W,Dominic Solanke,7.6,1.0,True,4.1,1.5,6.4,1.4,2.8,2.0,5.41
+2024-11-03,Aston Villa,Premier League,Matchweek 10,Tottenham Hotspur Stadium,Home,4,1,W,Guglielmo Vicario,6.6,1.2,False,8.2,0.8,5.0,1.3,5.2,1.9,7.56
+2024-11-03,Aston Villa,Premier League,Matchweek 10,Tottenham Hotspur Stadium,Home,4,1,W,Cristian Romero,6.7,1.0,False,8.2,0.8,5.0,1.3,5.2,1.9,7.56
+2024-11-03,Aston Villa,Premier League,Matchweek 10,Tottenham Hotspur Stadium,Home,4,1,W,Archie Gray,6.7,0.9,False,8.2,0.8,5.0,1.3,5.2,1.9,7.56
+2024-11-03,Aston Villa,Premier League,Matchweek 10,Tottenham Hotspur Stadium,Home,4,1,W,Pedro Porro,6.9,0.9,False,8.2,0.8,5.0,1.3,5.2,1.9,7.56
+2024-11-03,Aston Villa,Premier League,Matchweek 10,Tottenham Hotspur Stadium,Home,4,1,W,Destiny Udogie,7.0,0.9,False,8.2,0.8,5.0,1.3,5.2,1.9,7.56
+2024-11-03,Aston Villa,Premier League,Matchweek 10,Tottenham Hotspur Stadium,Home,4,1,W,Richarlison,7.2,1.1,False,8.2,0.8,5.0,1.3,5.2,1.9,7.56
+2024-11-03,Aston Villa,Premier League,Matchweek 10,Tottenham Hotspur Stadium,Home,4,1,W,Yves Bissouma,7.4,0.9,False,8.2,0.8,5.0,1.3,5.2,1.9,7.56
+2024-11-03,Aston Villa,Premier League,Matchweek 10,Tottenham Hotspur Stadium,Home,4,1,W,Rodrigo Bentancur,7.4,1.0,False,8.2,0.8,5.0,1.3,5.2,1.9,7.56
+2024-11-03,Aston Villa,Premier League,Matchweek 10,Tottenham Hotspur Stadium,Home,4,1,W,Heung-Min Son,7.6,0.9,False,8.2,0.8,5.0,1.3,5.2,1.9,7.56
+2024-11-03,Aston Villa,Premier League,Matchweek 10,Tottenham Hotspur Stadium,Home,4,1,W,Ben Davies,7.8,1.0,False,8.2,0.8,5.0,1.3,5.2,1.9,7.56
+2024-11-03,Aston Villa,Premier League,Matchweek 10,Tottenham Hotspur Stadium,Home,4,1,W,Brennan Johnson,7.8,1.0,False,8.2,0.8,5.0,1.3,5.2,1.9,7.56
+2024-11-03,Aston Villa,Premier League,Matchweek 10,Tottenham Hotspur Stadium,Home,4,1,W,Radu Dragusin,7.9,0.8,False,8.2,0.8,5.0,1.3,5.2,1.9,7.56
+2024-11-03,Aston Villa,Premier League,Matchweek 10,Tottenham Hotspur Stadium,Home,4,1,W,James Maddison,8.0,0.9,False,8.2,0.8,5.0,1.3,5.2,1.9,7.56
+2024-11-03,Aston Villa,Premier League,Matchweek 10,Tottenham Hotspur Stadium,Home,4,1,W,Dejan Kulusevski,8.1,1.0,False,8.2,0.8,5.0,1.3,5.2,1.9,7.56
+2024-11-03,Aston Villa,Premier League,Matchweek 10,Tottenham Hotspur Stadium,Home,4,1,W,Pape Matar Sarr,8.7,0.9,False,8.2,0.8,5.0,1.3,5.2,1.9,7.56
+2024-11-03,Aston Villa,Premier League,Matchweek 10,Tottenham Hotspur Stadium,Home,4,1,W,Dominic Solanke,9.2,0.8,True,8.2,0.8,5.0,1.3,5.2,1.9,7.56
+2024-10-30,Manchester City,EFL Cup,Fourth round,Tottenham Hotspur Stadium,Home,2,1,W,Mikey Moore,5.7,1.2,False,7.6,0.9,6.0,1.3,4.7,2.1,7.02
+2024-10-30,Manchester City,EFL Cup,Fourth round,Tottenham Hotspur Stadium,Home,2,1,W,Brennan Johnson,6.2,1.2,False,7.6,0.9,6.0,1.3,4.7,2.1,7.02
+2024-10-30,Manchester City,EFL Cup,Fourth round,Tottenham Hotspur Stadium,Home,2,1,W,Richarlison,6.3,1.5,False,7.6,0.9,6.0,1.3,4.7,2.1,7.02
+2024-10-30,Manchester City,EFL Cup,Fourth round,Tottenham Hotspur Stadium,Home,2,1,W,Micky Van de Ven,6.3,1.4,False,7.6,0.9,6.0,1.3,4.7,2.1,7.02
+2024-10-30,Manchester City,EFL Cup,Fourth round,Tottenham Hotspur Stadium,Home,2,1,W,Archie Gray,6.4,1.4,False,7.6,0.9,6.0,1.3,4.7,2.1,7.02
+2024-10-30,Manchester City,EFL Cup,Fourth round,Tottenham Hotspur Stadium,Home,2,1,W,Guglielmo Vicario,6.6,1.3,False,7.6,0.9,6.0,1.3,4.7,2.1,7.02
+2024-10-30,Manchester City,EFL Cup,Fourth round,Tottenham Hotspur Stadium,Home,2,1,W,Destiny Udogie,6.7,1.3,False,7.6,0.9,6.0,1.3,4.7,2.1,7.02
+2024-10-30,Manchester City,EFL Cup,Fourth round,Tottenham Hotspur Stadium,Home,2,1,W,Cristian Romero,6.9,1.1,False,7.6,0.9,6.0,1.3,4.7,2.1,7.02
+2024-10-30,Manchester City,EFL Cup,Fourth round,Tottenham Hotspur Stadium,Home,2,1,W,Ben Davies,7.0,1.1,False,7.6,0.9,6.0,1.3,4.7,2.1,7.02
+2024-10-30,Manchester City,EFL Cup,Fourth round,Tottenham Hotspur Stadium,Home,2,1,W,Dominic Solanke,7.1,1.4,False,7.6,0.9,6.0,1.3,4.7,2.1,7.02
+2024-10-30,Manchester City,EFL Cup,Fourth round,Tottenham Hotspur Stadium,Home,2,1,W,Rodrigo Bentancur,7.5,1.1,False,7.6,0.9,6.0,1.3,4.7,2.1,7.02
+2024-10-30,Manchester City,EFL Cup,Fourth round,Tottenham Hotspur Stadium,Home,2,1,W,Yves Bissouma,7.6,1.1,False,7.6,0.9,6.0,1.3,4.7,2.1,7.02
+2024-10-30,Manchester City,EFL Cup,Fourth round,Tottenham Hotspur Stadium,Home,2,1,W,Timo Werner,7.6,1.2,False,7.6,0.9,6.0,1.3,4.7,2.1,7.02
+2024-10-30,Manchester City,EFL Cup,Fourth round,Tottenham Hotspur Stadium,Home,2,1,W,Radu Dragusin,7.8,1.0,False,7.6,0.9,6.0,1.3,4.7,2.1,7.02
+2024-10-30,Manchester City,EFL Cup,Fourth round,Tottenham Hotspur Stadium,Home,2,1,W,Pape Matar Sarr,8.0,0.9,False,7.6,0.9,6.0,1.3,4.7,2.1,7.02
+2024-10-30,Manchester City,EFL Cup,Fourth round,Tottenham Hotspur Stadium,Home,2,1,W,Dejan Kulusevski,8.6,1.0,True,7.6,0.9,6.0,1.3,4.7,2.1,7.02
+2024-10-27,Crystal Palace,Premier League,Matchweek 9,Selhurst Park,Away,0,1,L,Micky Van de Ven,3.3,1.6,False,1.8,1.4,6.5,1.5,3.5,2.2,4.17
+2024-10-27,Crystal Palace,Premier League,Matchweek 9,Selhurst Park,Away,0,1,L,Cristian Romero,3.4,1.8,False,1.8,1.4,6.5,1.5,3.5,2.2,4.17
+2024-10-27,Crystal Palace,Premier League,Matchweek 9,Selhurst Park,Away,0,1,L,Richarlison,3.4,1.8,False,1.8,1.4,6.5,1.5,3.5,2.2,4.17
+2024-10-27,Crystal Palace,Premier League,Matchweek 9,Selhurst Park,Away,0,1,L,Dejan Kulusevski,3.6,1.6,False,1.8,1.4,6.5,1.5,3.5,2.2,4.17
+2024-10-27,Crystal Palace,Premier League,Matchweek 9,Selhurst Park,Away,0,1,L,Pedro Porro,3.7,1.8,False,1.8,1.4,6.5,1.5,3.5,2.2,4.17
+2024-10-27,Crystal Palace,Premier League,Matchweek 9,Selhurst Park,Away,0,1,L,Brennan Johnson,3.7,1.8,False,1.8,1.4,6.5,1.5,3.5,2.2,4.17
+2024-10-27,Crystal Palace,Premier League,Matchweek 9,Selhurst Park,Away,0,1,L,Mikey Moore,3.9,1.7,False,1.8,1.4,6.5,1.5,3.5,2.2,4.17
+2024-10-27,Crystal Palace,Premier League,Matchweek 9,Selhurst Park,Away,0,1,L,James Maddison,4.1,1.8,False,1.8,1.4,6.5,1.5,3.5,2.2,4.17
+2024-10-27,Crystal Palace,Premier League,Matchweek 9,Selhurst Park,Away,0,1,L,Yves Bissouma,4.3,1.7,False,1.8,1.4,6.5,1.5,3.5,2.2,4.17
+2024-10-27,Crystal Palace,Premier League,Matchweek 9,Selhurst Park,Away,0,1,L,Rodrigo Bentancur,4.3,1.7,False,1.8,1.4,6.5,1.5,3.5,2.2,4.17
+2024-10-27,Crystal Palace,Premier League,Matchweek 9,Selhurst Park,Away,0,1,L,Destiny Udogie,4.6,1.8,False,1.8,1.4,6.5,1.5,3.5,2.2,4.17
+2024-10-27,Crystal Palace,Premier League,Matchweek 9,Selhurst Park,Away,0,1,L,Dominic Solanke,4.8,2.1,False,1.8,1.4,6.5,1.5,3.5,2.2,4.17
+2024-10-27,Crystal Palace,Premier League,Matchweek 9,Selhurst Park,Away,0,1,L,Timo Werner,4.8,2.1,False,1.8,1.4,6.5,1.5,3.5,2.2,4.17
+2024-10-27,Crystal Palace,Premier League,Matchweek 9,Selhurst Park,Away,0,1,L,Pape Matar Sarr,4.9,1.7,False,1.8,1.4,6.5,1.5,3.5,2.2,4.17
+2024-10-27,Crystal Palace,Premier League,Matchweek 9,Selhurst Park,Away,0,1,L,Guglielmo Vicario,5.8,1.9,True,1.8,1.4,6.5,1.5,3.5,2.2,4.17
+2024-10-24,nl AZ Alkmaar,Europa Lg,League phase,AFAS Stadion,Away,1,0,W,Timo Werner,4.6,1.7,False,6.8,0.9,4.8,1.3,6.1,1.8,6.83
+2024-10-24,nl AZ Alkmaar,Europa Lg,League phase,AFAS Stadion,Away,1,0,W,Ben Davies,6.4,1.0,False,6.8,0.9,4.8,1.3,6.1,1.8,6.83
+2024-10-24,nl AZ Alkmaar,Europa Lg,League phase,AFAS Stadion,Away,1,0,W,Radu Dragusin,6.4,1.2,False,6.8,0.9,4.8,1.3,6.1,1.8,6.83
+2024-10-24,nl AZ Alkmaar,Europa Lg,League phase,AFAS Stadion,Away,1,0,W,Brennan Johnson,6.4,1.2,False,6.8,0.9,4.8,1.3,6.1,1.8,6.83
+2024-10-24,nl AZ Alkmaar,Europa Lg,League phase,AFAS Stadion,Away,1,0,W,Archie Gray,6.6,1.0,False,6.8,0.9,4.8,1.3,6.1,1.8,6.83
+2024-10-24,nl AZ Alkmaar,Europa Lg,League phase,AFAS Stadion,Away,1,0,W,Wilson Odobert,6.6,1.0,False,6.8,0.9,4.8,1.3,6.1,1.8,6.83
+2024-10-24,nl AZ Alkmaar,Europa Lg,League phase,AFAS Stadion,Away,1,0,W,Dominic Solanke,6.7,0.9,False,6.8,0.9,4.8,1.3,6.1,1.8,6.83
+2024-10-24,nl AZ Alkmaar,Europa Lg,League phase,AFAS Stadion,Away,1,0,W,Richarlison,6.8,1.7,False,6.8,0.9,4.8,1.3,6.1,1.8,6.83
+2024-10-24,nl AZ Alkmaar,Europa Lg,League phase,AFAS Stadion,Away,1,0,W,Pape Matar Sarr,6.9,0.9,False,6.8,0.9,4.8,1.3,6.1,1.8,6.83
+2024-10-24,nl AZ Alkmaar,Europa Lg,League phase,AFAS Stadion,Away,1,0,W,Destiny Udogie,7.0,1.0,False,6.8,0.9,4.8,1.3,6.1,1.8,6.83
+2024-10-24,nl AZ Alkmaar,Europa Lg,League phase,AFAS Stadion,Away,1,0,W,Lucas Bergvall,7.0,1.1,False,6.8,0.9,4.8,1.3,6.1,1.8,6.83
+2024-10-24,nl AZ Alkmaar,Europa Lg,League phase,AFAS Stadion,Away,1,0,W,Dejan Kulusevski,7.0,0.9,False,6.8,0.9,4.8,1.3,6.1,1.8,6.83
+2024-10-24,nl AZ Alkmaar,Europa Lg,League phase,AFAS Stadion,Away,1,0,W,Rodrigo Bentancur,7.1,1.1,False,6.8,0.9,4.8,1.3,6.1,1.8,6.83
+2024-10-24,nl AZ Alkmaar,Europa Lg,League phase,AFAS Stadion,Away,1,0,W,James Maddison,7.6,0.9,False,6.8,0.9,4.8,1.3,6.1,1.8,6.83
+2024-10-24,nl AZ Alkmaar,Europa Lg,League phase,AFAS Stadion,Away,1,0,W,Fraser Forster,7.9,1.0,False,6.8,0.9,4.8,1.3,6.1,1.8,6.83
+2024-10-24,nl AZ Alkmaar,Europa Lg,League phase,AFAS Stadion,Away,1,0,W,Mikey Moore,8.3,0.9,True,6.8,0.9,4.8,1.3,6.1,1.8,6.83
+2024-10-19,West Ham,Premier League,Matchweek 8,Tottenham Hotspur Stadium,Home,4,1,W,Timo Werner,4.7,1.7,False,8.2,0.7,3.9,1.4,6.3,1.8,7.21
+2024-10-19,West Ham,Premier League,Matchweek 8,Tottenham Hotspur Stadium,Home,4,1,W,Bentancur,6.0,1.0,False,8.2,0.7,3.9,1.4,6.3,1.8,7.21
+2024-10-19,West Ham,Premier League,Matchweek 8,Tottenham Hotspur Stadium,Home,4,1,W,Richarlison,6.2,1.1,False,8.2,0.7,3.9,1.4,6.3,1.8,7.21
+2024-10-19,West Ham,Premier League,Matchweek 8,Tottenham Hotspur Stadium,Home,4,1,W,Archie Gray,6.6,1.0,False,8.2,0.7,3.9,1.4,6.3,1.8,7.21
+2024-10-19,West Ham,Premier League,Matchweek 8,Tottenham Hotspur Stadium,Home,4,1,W,Brennan Johnson,6.8,1.0,False,8.2,0.7,3.9,1.4,6.3,1.8,7.21
+2024-10-19,West Ham,Premier League,Matchweek 8,Tottenham Hotspur Stadium,Home,4,1,W,Destiny Udogie,7.0,1.1,False,8.2,0.7,3.9,1.4,6.3,1.8,7.21
+2024-10-19,West Ham,Premier League,Matchweek 8,Tottenham Hotspur Stadium,Home,4,1,W,James Maddison,7.1,1.1,False,8.2,0.7,3.9,1.4,6.3,1.8,7.21
+2024-10-19,West Ham,Premier League,Matchweek 8,Tottenham Hotspur Stadium,Home,4,1,W,Cristian Romero,7.2,0.9,False,8.2,0.7,3.9,1.4,6.3,1.8,7.21
+2024-10-19,West Ham,Premier League,Matchweek 8,Tottenham Hotspur Stadium,Home,4,1,W,Pedro Porro,7.2,1.0,False,8.2,0.7,3.9,1.4,6.3,1.8,7.21
+2024-10-19,West Ham,Premier League,Matchweek 8,Tottenham Hotspur Stadium,Home,4,1,W,Micky Van de Ven,7.4,0.9,False,8.2,0.7,3.9,1.4,6.3,1.8,7.21
+2024-10-19,West Ham,Premier League,Matchweek 8,Tottenham Hotspur Stadium,Home,4,1,W,Guglielmo Vicario,7.5,0.9,False,8.2,0.7,3.9,1.4,6.3,1.8,7.21
+2024-10-19,West Ham,Premier League,Matchweek 8,Tottenham Hotspur Stadium,Home,4,1,W,Dominic Solanke,7.8,1.0,False,8.2,0.7,3.9,1.4,6.3,1.8,7.21
+2024-10-19,West Ham,Premier League,Matchweek 8,Tottenham Hotspur Stadium,Home,4,1,W,Yves Bissouma,7.9,0.8,False,8.2,0.7,3.9,1.4,6.3,1.8,7.21
+2024-10-19,West Ham,Premier League,Matchweek 8,Tottenham Hotspur Stadium,Home,4,1,W,Pape Matar Sarr,8.0,0.9,False,8.2,0.7,3.9,1.4,6.3,1.8,7.21
+2024-10-19,West Ham,Premier League,Matchweek 8,Tottenham Hotspur Stadium,Home,4,1,W,Heung-Min Son,8.6,0.9,False,8.2,0.7,3.9,1.4,6.3,1.8,7.21
+2024-10-19,West Ham,Premier League,Matchweek 8,Tottenham Hotspur Stadium,Home,4,1,W,Dejan Kulusevski,9.4,0.7,True,8.2,0.7,3.9,1.4,6.3,1.8,7.21
+2024-10-06,Brighton,Premier League,Matchweek 7,Falmer Stadium,Away,2,3,L,Destiny Udogie,2.7,2.0,False,3.6,2.0,6.4,1.5,5.2,1.9,4.89
+2024-10-06,Brighton,Premier League,Matchweek 7,Falmer Stadium,Away,2,3,L,Christian Romero,3.3,2.1,False,3.6,2.0,6.4,1.5,5.2,1.9,4.89
+2024-10-06,Brighton,Premier League,Matchweek 7,Falmer Stadium,Away,2,3,L,Micky Van de Ven,4.1,1.9,False,3.6,2.0,6.4,1.5,5.2,1.9,4.89
+2024-10-06,Brighton,Premier League,Matchweek 7,Falmer Stadium,Away,2,3,L,Timo Werner,4.1,2.2,False,3.6,2.0,6.4,1.5,5.2,1.9,4.89
+2024-10-06,Brighton,Premier League,Matchweek 7,Falmer Stadium,Away,2,3,L,Pedro Porro,4.5,1.8,False,3.6,2.0,6.4,1.5,5.2,1.9,4.89
+2024-10-06,Brighton,Premier League,Matchweek 7,Falmer Stadium,Away,2,3,L,Rodrigo Bentancur,4.6,1.7,False,3.6,2.0,6.4,1.5,5.2,1.9,4.89
+2024-10-06,Brighton,Premier League,Matchweek 7,Falmer Stadium,Away,2,3,L,Yves Bissouma,4.9,1.5,False,3.6,2.0,6.4,1.5,5.2,1.9,4.89
+2024-10-06,Brighton,Premier League,Matchweek 7,Falmer Stadium,Away,2,3,L,Pape Matar Sarr,5.0,1.5,False,3.6,2.0,6.4,1.5,5.2,1.9,4.89
+2024-10-06,Brighton,Premier League,Matchweek 7,Falmer Stadium,Away,2,3,L,Mikey Moore,5.2,1.6,False,3.6,2.0,6.4,1.5,5.2,1.9,4.89
+2024-10-06,Brighton,Premier League,Matchweek 7,Falmer Stadium,Away,2,3,L,Guglielmo Vicario,5.8,1.6,False,3.6,2.0,6.4,1.5,5.2,1.9,4.89
+2024-10-06,Brighton,Premier League,Matchweek 7,Falmer Stadium,Away,2,3,L,Dejan Kulusevski,5.8,1.6,False,3.6,2.0,6.4,1.5,5.2,1.9,4.89
+2024-10-06,Brighton,Premier League,Matchweek 7,Falmer Stadium,Away,2,3,L,Dominic Solanke,5.8,1.6,False,3.6,2.0,6.4,1.5,5.2,1.9,4.89
+2024-10-06,Brighton,Premier League,Matchweek 7,Falmer Stadium,Away,2,3,L,James Maddison,6.0,1.6,False,3.6,2.0,6.4,1.5,5.2,1.9,4.89
+2024-10-06,Brighton,Premier League,Matchweek 7,Falmer Stadium,Away,2,3,L,Brennan Johnson,6.6,1.6,True,3.6,2.0,6.4,1.5,5.2,1.9,4.89
+2024-10-03,hu Ferencváros,Europa Lg,League phase,Tottenham Hotspur Stadium,Home,2,1,W,Timo Werner,4.8,1.4,False,6.7,0.8,5.5,1.1,5.2,2.0,7.01
+2024-10-03,hu Ferencváros,Europa Lg,League phase,Tottenham Hotspur Stadium,Home,2,1,W,Lucas Bergvall,5.7,1.3,False,6.7,0.8,5.5,1.1,5.2,2.0,7.01
+2024-10-03,hu Ferencváros,Europa Lg,League phase,Tottenham Hotspur Stadium,Home,2,1,W,Ben Davies,6.3,1.0,False,6.7,0.8,5.5,1.1,5.2,2.0,7.01
+2024-10-03,hu Ferencváros,Europa Lg,League phase,Tottenham Hotspur Stadium,Home,2,1,W,Will Lankshear,6.5,1.0,False,6.7,0.8,5.5,1.1,5.2,2.0,7.01
+2024-10-03,hu Ferencváros,Europa Lg,League phase,Tottenham Hotspur Stadium,Home,2,1,W,Dominic Solanke,6.5,1.0,False,6.7,0.8,5.5,1.1,5.2,2.0,7.01
+2024-10-03,hu Ferencváros,Europa Lg,League phase,Tottenham Hotspur Stadium,Home,2,1,W,James Maddison,6.6,1.2,False,6.7,0.8,5.5,1.1,5.2,2.0,7.01
+2024-10-03,hu Ferencváros,Europa Lg,League phase,Tottenham Hotspur Stadium,Home,2,1,W,Dejan Kulusevski,6.9,1.0,False,6.7,0.8,5.5,1.1,5.2,2.0,7.01
+2024-10-03,hu Ferencváros,Europa Lg,League phase,Tottenham Hotspur Stadium,Home,2,1,W,Christian Romero,7.1,1.0,False,6.7,0.8,5.5,1.1,5.2,2.0,7.01
+2024-10-03,hu Ferencváros,Europa Lg,League phase,Tottenham Hotspur Stadium,Home,2,1,W,Archie Gray,7.3,1.1,False,6.7,0.8,5.5,1.1,5.2,2.0,7.01
+2024-10-03,hu Ferencváros,Europa Lg,League phase,Tottenham Hotspur Stadium,Home,2,1,W,Guglielmo Vicario,7.7,1.0,False,6.7,0.8,5.5,1.1,5.2,2.0,7.01
+2024-10-03,hu Ferencváros,Europa Lg,League phase,Tottenham Hotspur Stadium,Home,2,1,W,Yves Bissouma,7.7,1.1,False,6.7,0.8,5.5,1.1,5.2,2.0,7.01
+2024-10-03,hu Ferencváros,Europa Lg,League phase,Tottenham Hotspur Stadium,Home,2,1,W,Pape Matar Sarr,7.8,0.9,False,6.7,0.8,5.5,1.1,5.2,2.0,7.01
+2024-10-03,hu Ferencváros,Europa Lg,League phase,Tottenham Hotspur Stadium,Home,2,1,W,Pedro Porro,7.9,1.0,False,6.7,0.8,5.5,1.1,5.2,2.0,7.01
+2024-10-03,hu Ferencváros,Europa Lg,League phase,Tottenham Hotspur Stadium,Home,2,1,W,Mikey Moore,7.9,1.0,False,6.7,0.8,5.5,1.1,5.2,2.0,7.01
+2024-10-03,hu Ferencváros,Europa Lg,League phase,Tottenham Hotspur Stadium,Home,2,1,W,Brennan Johnson,8.4,0.9,True,6.7,0.8,5.5,1.1,5.2,2.0,7.01
+2024-09-29,Manchester Utd,Premier League,Matchweek 6,Old Trafford,Away,3,0,W,Timo Werner,5.3,1.7,False,8.9,0.8,2.7,1.3,6.1,1.8,7.77
+2024-09-29,Manchester Utd,Premier League,Matchweek 6,Old Trafford,Away,3,0,W,Lucas Bergvall,6.6,1.2,False,8.9,0.8,2.7,1.3,6.1,1.8,7.77
+2024-09-29,Manchester Utd,Premier League,Matchweek 6,Old Trafford,Away,3,0,W,Radu Dragusin,6.7,1.0,False,8.9,0.8,2.7,1.3,6.1,1.8,7.77
+2024-09-29,Manchester Utd,Premier League,Matchweek 6,Old Trafford,Away,3,0,W,Mikey Moore,7.0,1.0,False,8.9,0.8,2.7,1.3,6.1,1.8,7.77
+2024-09-29,Manchester Utd,Premier League,Matchweek 6,Old Trafford,Away,3,0,W,Pape Matar Sarr,7.3,0.9,False,8.9,0.8,2.7,1.3,6.1,1.8,7.77
+2024-09-29,Manchester Utd,Premier League,Matchweek 6,Old Trafford,Away,3,0,W,Djed Spence,7.4,0.9,False,8.9,0.8,2.7,1.3,6.1,1.8,7.77
+2024-09-29,Manchester Utd,Premier League,Matchweek 6,Old Trafford,Away,3,0,W,Destiny Udogie,7.6,0.9,False,8.9,0.8,2.7,1.3,6.1,1.8,7.77
+2024-09-29,Manchester Utd,Premier League,Matchweek 6,Old Trafford,Away,3,0,W,Pedro Porro,7.9,0.9,False,8.9,0.8,2.7,1.3,6.1,1.8,7.77
+2024-09-29,Manchester Utd,Premier League,Matchweek 6,Old Trafford,Away,3,0,W,Rodrigo Bentancur,8.0,1.0,False,8.9,0.8,2.7,1.3,6.1,1.8,7.77
+2024-09-29,Manchester Utd,Premier League,Matchweek 6,Old Trafford,Away,3,0,W,Guglielmo Vicario,8.1,1.0,False,8.9,0.8,2.7,1.3,6.1,1.8,7.77
+2024-09-29,Manchester Utd,Premier League,Matchweek 6,Old Trafford,Away,3,0,W,Christian Romero,8.1,0.8,False,8.9,0.8,2.7,1.3,6.1,1.8,7.77
+2024-09-29,Manchester Utd,Premier League,Matchweek 6,Old Trafford,Away,3,0,W,Dominic Solanke,8.1,0.8,False,8.9,0.8,2.7,1.3,6.1,1.8,7.77
+2024-09-29,Manchester Utd,Premier League,Matchweek 6,Old Trafford,Away,3,0,W,James Maddison,8.2,0.8,False,8.9,0.8,2.7,1.3,6.1,1.8,7.77
+2024-09-29,Manchester Utd,Premier League,Matchweek 6,Old Trafford,Away,3,0,W,Brennan Johnson,9.0,0.8,False,8.9,0.8,2.7,1.3,6.1,1.8,7.77
+2024-09-29,Manchester Utd,Premier League,Matchweek 6,Old Trafford,Away,3,0,W,Micky Van de Ven,9.5,0.7,True,8.9,0.8,2.7,1.3,6.1,1.8,7.77
+2024-09-29,Manchester Utd,Premier League,Matchweek 6,Old Trafford,Away,3,0,W,Dejan Kulusevski,9.5,0.7,False,8.9,0.8,2.7,1.3,6.1,1.8,7.77
+2024-09-26,az Qarabağ,Europa Lg,League phase,Tottenham Hotspur Stadium,Home,3,0,W,Radu Dragusin,1.1,1.2,False,7.6,1.1,3.8,1.8,4.4,2.2,6.75
+2024-09-26,az Qarabağ,Europa Lg,League phase,Tottenham Hotspur Stadium,Home,3,0,W,Timo Werner,5.2,1.4,False,7.6,1.1,3.8,1.8,4.4,2.2,6.75
+2024-09-26,az Qarabağ,Europa Lg,League phase,Tottenham Hotspur Stadium,Home,3,0,W,Rodrigo Bentancur,6.1,1.0,False,7.6,1.1,3.8,1.8,4.4,2.2,6.75
+2024-09-26,az Qarabağ,Europa Lg,League phase,Tottenham Hotspur Stadium,Home,3,0,W,Mikey Moore,6.1,1.2,False,7.6,1.1,3.8,1.8,4.4,2.2,6.75
+2024-09-26,az Qarabağ,Europa Lg,League phase,Tottenham Hotspur Stadium,Home,3,0,W,Lucas Bergvall,6.2,1.6,False,7.6,1.1,3.8,1.8,4.4,2.2,6.75
+2024-09-26,az Qarabağ,Europa Lg,League phase,Tottenham Hotspur Stadium,Home,3,0,W,Ben Davies,6.6,1.3,False,7.6,1.1,3.8,1.8,4.4,2.2,6.75
+2024-09-26,az Qarabağ,Europa Lg,League phase,Tottenham Hotspur Stadium,Home,3,0,W,Heung-Min Son,6.7,1.2,False,7.6,1.1,3.8,1.8,4.4,2.2,6.75
+2024-09-26,az Qarabağ,Europa Lg,League phase,Tottenham Hotspur Stadium,Home,3,0,W,Yves Bissouma,6.9,1.3,False,7.6,1.1,3.8,1.8,4.4,2.2,6.75
+2024-09-26,az Qarabağ,Europa Lg,League phase,Tottenham Hotspur Stadium,Home,3,0,W,Pape Matar Sarr,7.4,1.0,False,7.6,1.1,3.8,1.8,4.4,2.2,6.75
+2024-09-26,az Qarabağ,Europa Lg,League phase,Tottenham Hotspur Stadium,Home,3,0,W,Dejan Kulusevski,7.4,1.1,False,7.6,1.1,3.8,1.8,4.4,2.2,6.75
+2024-09-26,az Qarabağ,Europa Lg,League phase,Tottenham Hotspur Stadium,Home,3,0,W,Archie Gray,7.5,1.2,False,7.6,1.1,3.8,1.8,4.4,2.2,6.75
+2024-09-26,az Qarabağ,Europa Lg,League phase,Tottenham Hotspur Stadium,Home,3,0,W,Destiny Udogie,7.5,1.0,False,7.6,1.1,3.8,1.8,4.4,2.2,6.75
+2024-09-26,az Qarabağ,Europa Lg,League phase,Tottenham Hotspur Stadium,Home,3,0,W,Brennan Johnson,7.8,1.0,False,7.6,1.1,3.8,1.8,4.4,2.2,6.75
+2024-09-26,az Qarabağ,Europa Lg,League phase,Tottenham Hotspur Stadium,Home,3,0,W,Micky Van de Ven,7.9,1.1,False,7.6,1.1,3.8,1.8,4.4,2.2,6.75
+2024-09-26,az Qarabağ,Europa Lg,League phase,Tottenham Hotspur Stadium,Home,3,0,W,Dominic Solanke,8.5,0.9,False,7.6,1.1,3.8,1.8,4.4,2.2,6.75
+2024-09-26,az Qarabağ,Europa Lg,League phase,Tottenham Hotspur Stadium,Home,3,0,W,Guglielmo Vicario,9.1,0.9,True,7.6,1.1,3.8,1.8,4.4,2.2,6.75
+2024-09-21,Brentford,Premier League,Matchweek 5,Tottenham Hotspur Stadium,Home,3,1,W,Guglielmo Vicario,5.5,1.4,False,7.9,0.8,5.3,1.2,5.1,2.1,6.92
+2024-09-21,Brentford,Premier League,Matchweek 5,Tottenham Hotspur Stadium,Home,3,1,W,Mikey Moore,5.9,1.1,False,7.9,0.8,5.3,1.2,5.1,2.1,6.92
+2024-09-21,Brentford,Premier League,Matchweek 5,Tottenham Hotspur Stadium,Home,3,1,W,Lucas Bergvall,5.9,0.9,False,7.9,0.8,5.3,1.2,5.1,2.1,6.92
+2024-09-21,Brentford,Premier League,Matchweek 5,Tottenham Hotspur Stadium,Home,3,1,W,Archie Gray,6.0,0.9,False,7.9,0.8,5.3,1.2,5.1,2.1,6.92
+2024-09-21,Brentford,Premier League,Matchweek 5,Tottenham Hotspur Stadium,Home,3,1,W,Pape Matar Sarr,6.1,1.0,False,7.9,0.8,5.3,1.2,5.1,2.1,6.92
+2024-09-21,Brentford,Premier League,Matchweek 5,Tottenham Hotspur Stadium,Home,3,1,W,Pedro Porro,6.4,1.1,False,7.9,0.8,5.3,1.2,5.1,2.1,6.92
+2024-09-21,Brentford,Premier League,Matchweek 5,Tottenham Hotspur Stadium,Home,3,1,W,Yves Bissouma,6.7,1.1,False,7.9,0.8,5.3,1.2,5.1,2.1,6.92
+2024-09-21,Brentford,Premier League,Matchweek 5,Tottenham Hotspur Stadium,Home,3,1,W,Christian Romero,6.7,1.3,False,7.9,0.8,5.3,1.2,5.1,2.1,6.92
+2024-09-21,Brentford,Premier League,Matchweek 5,Tottenham Hotspur Stadium,Home,3,1,W,Destiny Udogie,7.1,1.2,False,7.9,0.8,5.3,1.2,5.1,2.1,6.92
+2024-09-21,Brentford,Premier League,Matchweek 5,Tottenham Hotspur Stadium,Home,3,1,W,Dominic Solanke,7.4,1.0,False,7.9,0.8,5.3,1.2,5.1,2.1,6.92
+2024-09-21,Brentford,Premier League,Matchweek 5,Tottenham Hotspur Stadium,Home,3,1,W,Micky Van de Ven,7.4,1.2,False,7.9,0.8,5.3,1.2,5.1,2.1,6.92
+2024-09-21,Brentford,Premier League,Matchweek 5,Tottenham Hotspur Stadium,Home,3,1,W,Heung-Min Son,7.6,1.4,False,7.9,0.8,5.3,1.2,5.1,2.1,6.92
+2024-09-21,Brentford,Premier League,Matchweek 5,Tottenham Hotspur Stadium,Home,3,1,W,Rodrigo Bentancur,7.7,1.2,False,7.9,0.8,5.3,1.2,5.1,2.1,6.92
+2024-09-21,Brentford,Premier League,Matchweek 5,Tottenham Hotspur Stadium,Home,3,1,W,Dejan Kulusevski,7.7,1.1,False,7.9,0.8,5.3,1.2,5.1,2.1,6.92
+2024-09-21,Brentford,Premier League,Matchweek 5,Tottenham Hotspur Stadium,Home,3,1,W,Brennan Johnson,7.8,1.3,False,7.9,0.8,5.3,1.2,5.1,2.1,6.92
+2024-09-21,Brentford,Premier League,Matchweek 5,Tottenham Hotspur Stadium,Home,3,1,W,James Maddison,8.9,1.1,True,7.9,0.8,5.3,1.2,5.1,2.1,6.92
+2024-09-18,Coventry City,EFL Cup,Third round,Tottenham Hotspur Stadium,Home,2,1,W,Timo Werner,2.5,1.8,False,3.0,1.6,6.7,1.2,6.1,1.6,5.28
+2024-09-18,Coventry City,EFL Cup,Third round,Tottenham Hotspur Stadium,Home,2,1,W,Fraser Forster,3.5,1.9,False,3.0,1.6,6.7,1.2,6.1,1.6,5.28
+2024-09-18,Coventry City,EFL Cup,Third round,Tottenham Hotspur Stadium,Home,2,1,W,Pape Matar Sarr,4.0,1.5,False,3.0,1.6,6.7,1.2,6.1,1.6,5.28
+2024-09-18,Coventry City,EFL Cup,Third round,Tottenham Hotspur Stadium,Home,2,1,W,Dominic Solanke,4.4,1.5,False,3.0,1.6,6.7,1.2,6.1,1.6,5.28
+2024-09-18,Coventry City,EFL Cup,Third round,Tottenham Hotspur Stadium,Home,2,1,W,Wilson Odobert,4.6,1.5,False,3.0,1.6,6.7,1.2,6.1,1.6,5.28
+2024-09-18,Coventry City,EFL Cup,Third round,Tottenham Hotspur Stadium,Home,2,1,W,Rodrigo Bentancur,4.7,1.6,False,3.0,1.6,6.7,1.2,6.1,1.6,5.28
+2024-09-18,Coventry City,EFL Cup,Third round,Tottenham Hotspur Stadium,Home,2,1,W,Destiny Udogie,5.0,1.4,False,3.0,1.6,6.7,1.2,6.1,1.6,5.28
+2024-09-18,Coventry City,EFL Cup,Third round,Tottenham Hotspur Stadium,Home,2,1,W,Heung-Min Son,5.1,1.5,False,3.0,1.6,6.7,1.2,6.1,1.6,5.28
+2024-09-18,Coventry City,EFL Cup,Third round,Tottenham Hotspur Stadium,Home,2,1,W,Archie Gray,5.2,1.3,False,3.0,1.6,6.7,1.2,6.1,1.6,5.28
+2024-09-18,Coventry City,EFL Cup,Third round,Tottenham Hotspur Stadium,Home,2,1,W,Radu Dragusin,5.4,1.4,False,3.0,1.6,6.7,1.2,6.1,1.6,5.28
+2024-09-18,Coventry City,EFL Cup,Third round,Tottenham Hotspur Stadium,Home,2,1,W,Lucas Bergvall,5.6,1.4,False,3.0,1.6,6.7,1.2,6.1,1.6,5.28
+2024-09-18,Coventry City,EFL Cup,Third round,Tottenham Hotspur Stadium,Home,2,1,W,Ben Davies,6.0,1.7,False,3.0,1.6,6.7,1.2,6.1,1.6,5.28
+2024-09-18,Coventry City,EFL Cup,Third round,Tottenham Hotspur Stadium,Home,2,1,W,James Maddison,6.0,1.5,False,3.0,1.6,6.7,1.2,6.1,1.6,5.28
+2024-09-18,Coventry City,EFL Cup,Third round,Tottenham Hotspur Stadium,Home,2,1,W,Brennan Johnson,6.8,1.6,False,3.0,1.6,6.7,1.2,6.1,1.6,5.28
+2024-09-18,Coventry City,EFL Cup,Third round,Tottenham Hotspur Stadium,Home,2,1,W,Djed Spence,7.5,1.2,False,3.0,1.6,6.7,1.2,6.1,1.6,5.28
+2024-09-18,Coventry City,EFL Cup,Third round,Tottenham Hotspur Stadium,Home,2,1,W,Dejan Kulusevski,8.2,1.3,True,3.0,1.6,6.7,1.2,6.1,1.6,5.28
+2024-09-15,Arsenal,Premier League,Matchweek 4,Tottenham Hotspur Stadium,Home,0,1,L,Brennan Johnson,3.3,1.8,False,3.4,1.8,5.4,1.8,3.6,2.4,4.75
+2024-09-15,Arsenal,Premier League,Matchweek 4,Tottenham Hotspur Stadium,Home,0,1,L,Timo Werner,3.6,1.8,False,3.4,1.8,5.4,1.8,3.6,2.4,4.75
+2024-09-15,Arsenal,Premier League,Matchweek 4,Tottenham Hotspur Stadium,Home,0,1,L,Heung-Min Son,4.1,1.7,False,3.4,1.8,5.4,1.8,3.6,2.4,4.75
+2024-09-15,Arsenal,Premier League,Matchweek 4,Tottenham Hotspur Stadium,Home,0,1,L,Dominic Solanke,4.4,1.8,False,3.4,1.8,5.4,1.8,3.6,2.4,4.75
+2024-09-15,Arsenal,Premier League,Matchweek 4,Tottenham Hotspur Stadium,Home,0,1,L,Christian Romero,4.5,1.8,False,3.4,1.8,5.4,1.8,3.6,2.4,4.75
+2024-09-15,Arsenal,Premier League,Matchweek 4,Tottenham Hotspur Stadium,Home,0,1,L,Pape Matar Sarr,4.5,1.6,False,3.4,1.8,5.4,1.8,3.6,2.4,4.75
+2024-09-15,Arsenal,Premier League,Matchweek 4,Tottenham Hotspur Stadium,Home,0,1,L,James Maddison,4.6,1.6,False,3.4,1.8,5.4,1.8,3.6,2.4,4.75
+2024-09-15,Arsenal,Premier League,Matchweek 4,Tottenham Hotspur Stadium,Home,0,1,L,Rodrigo Bentancur,4.8,1.5,False,3.4,1.8,5.4,1.8,3.6,2.4,4.75
+2024-09-15,Arsenal,Premier League,Matchweek 4,Tottenham Hotspur Stadium,Home,0,1,L,Guglielmo Vicario,4.9,1.9,False,3.4,1.8,5.4,1.8,3.6,2.4,4.75
+2024-09-15,Arsenal,Premier League,Matchweek 4,Tottenham Hotspur Stadium,Home,0,1,L,Destiny Udogie,5.0,1.6,False,3.4,1.8,5.4,1.8,3.6,2.4,4.75
+2024-09-15,Arsenal,Premier League,Matchweek 4,Tottenham Hotspur Stadium,Home,0,1,L,Wilson Odobert,5.1,1.6,False,3.4,1.8,5.4,1.8,3.6,2.4,4.75
+2024-09-15,Arsenal,Premier League,Matchweek 4,Tottenham Hotspur Stadium,Home,0,1,L,Pedro Porro,5.4,1.5,False,3.4,1.8,5.4,1.8,3.6,2.4,4.75
+2024-09-15,Arsenal,Premier League,Matchweek 4,Tottenham Hotspur Stadium,Home,0,1,L,Dejan Kulusevski,5.7,1.6,False,3.4,1.8,5.4,1.8,3.6,2.4,4.75
+2024-09-15,Arsenal,Premier League,Matchweek 4,Tottenham Hotspur Stadium,Home,0,1,L,Micky Van de Ven,6.6,1.6,True,3.4,1.8,5.4,1.8,3.6,2.4,4.75
+2024-09-01,Newcastle Utd,Premier League,Matchweek 3,St James' Park,Away,1,2,L,Rodrigo Bentancur,4.2,1.5,False,5.5,1.7,5.4,1.6,6.5,1.7,5.51
+2024-09-01,Newcastle Utd,Premier League,Matchweek 3,St James' Park,Away,1,2,L,Timo Werner,4.5,1.7,False,5.5,1.7,5.4,1.6,6.5,1.7,5.51
+2024-09-01,Newcastle Utd,Premier League,Matchweek 3,St James' Park,Away,1,2,L,Destiny Udogie,5.0,1.5,False,5.5,1.7,5.4,1.6,6.5,1.7,5.51
+2024-09-01,Newcastle Utd,Premier League,Matchweek 3,St James' Park,Away,1,2,L,Heung-Min Son,5.0,1.6,False,5.5,1.7,5.4,1.6,6.5,1.7,5.51
+2024-09-01,Newcastle Utd,Premier League,Matchweek 3,St James' Park,Away,1,2,L,Lucas Bergvall,5.1,1.3,False,5.5,1.7,5.4,1.6,6.5,1.7,5.51
+2024-09-01,Newcastle Utd,Premier League,Matchweek 3,St James' Park,Away,1,2,L,Pape Matar Sarr,5.2,1.5,False,5.5,1.7,5.4,1.6,6.5,1.7,5.51
+2024-09-01,Newcastle Utd,Premier League,Matchweek 3,St James' Park,Away,1,2,L,Wilson Odobert,5.2,1.7,False,5.5,1.7,5.4,1.6,6.5,1.7,5.51
+2024-09-01,Newcastle Utd,Premier League,Matchweek 3,St James' Park,Away,1,2,L,Christian Romero,5.4,2.0,False,5.5,1.7,5.4,1.6,6.5,1.7,5.51
+2024-09-01,Newcastle Utd,Premier League,Matchweek 3,St James' Park,Away,1,2,L,James Maddison,5.4,1.7,False,5.5,1.7,5.4,1.6,6.5,1.7,5.51
+2024-09-01,Newcastle Utd,Premier League,Matchweek 3,St James' Park,Away,1,2,L,Dejan Kulusevski,5.6,1.8,False,5.5,1.7,5.4,1.6,6.5,1.7,5.51
+2024-09-01,Newcastle Utd,Premier League,Matchweek 3,St James' Park,Away,1,2,L,Pedro Porro,5.9,1.5,False,5.5,1.7,5.4,1.6,6.5,1.7,5.51
+2024-09-01,Newcastle Utd,Premier League,Matchweek 3,St James' Park,Away,1,2,L,Yves Bissouma,6.0,1.4,False,5.5,1.7,5.4,1.6,6.5,1.7,5.51
+2024-09-01,Newcastle Utd,Premier League,Matchweek 3,St James' Park,Away,1,2,L,Guglielmo Vicario,6.2,1.4,False,5.5,1.7,5.4,1.6,6.5,1.7,5.51
+2024-09-01,Newcastle Utd,Premier League,Matchweek 3,St James' Park,Away,1,2,L,Radu Dragusin,7.0,1.5,True,5.5,1.7,5.4,1.6,6.5,1.7,5.51
+2024-09-01,Newcastle Utd,Premier League,Matchweek 3,St James' Park,Away,1,2,L,Brennan Johnson,7.0,1.6,False,5.5,1.7,5.4,1.6,6.5,1.7,5.51
+2024-08-24,Everton,Premier League,Matchweek 2,Tottenham Hotspur Stadium,Home,4,0,W,Brennan Johnson,5.4,1.5,False,8.5,0.9,3.1,1.3,7.1,1.4,7.39
+2024-08-24,Everton,Premier League,Matchweek 2,Tottenham Hotspur Stadium,Home,4,0,W,Pape Matar Sarr,6.2,1.0,False,8.5,0.9,3.1,1.3,7.1,1.4,7.39
+2024-08-24,Everton,Premier League,Matchweek 2,Tottenham Hotspur Stadium,Home,4,0,W,Richarlison,6.3,1.1,False,8.5,0.9,3.1,1.3,7.1,1.4,7.39
+2024-08-24,Everton,Premier League,Matchweek 2,Tottenham Hotspur Stadium,Home,4,0,W,Archie Gray,6.4,0.9,False,8.5,0.9,3.1,1.3,7.1,1.4,7.39
+2024-08-24,Everton,Premier League,Matchweek 2,Tottenham Hotspur Stadium,Home,4,0,W,Lucas Bergvall,6.4,0.9,False,8.5,0.9,3.1,1.3,7.1,1.4,7.39
+2024-08-24,Everton,Premier League,Matchweek 2,Tottenham Hotspur Stadium,Home,4,0,W,Djed Spence,6.5,1.0,False,8.5,0.9,3.1,1.3,7.1,1.4,7.39
+2024-08-24,Everton,Premier League,Matchweek 2,Tottenham Hotspur Stadium,Home,4,0,W,Destiny Udogie,7.3,0.8,False,8.5,0.9,3.1,1.3,7.1,1.4,7.39
+2024-08-24,Everton,Premier League,Matchweek 2,Tottenham Hotspur Stadium,Home,4,0,W,Wilson Odobert,7.5,1.0,False,8.5,0.9,3.1,1.3,7.1,1.4,7.39
+2024-08-24,Everton,Premier League,Matchweek 2,Tottenham Hotspur Stadium,Home,4,0,W,Guglielmo Vicario,7.6,1.0,False,8.5,0.9,3.1,1.3,7.1,1.4,7.39
+2024-08-24,Everton,Premier League,Matchweek 2,Tottenham Hotspur Stadium,Home,4,0,W,Pedro Porro,7.6,0.9,False,8.5,0.9,3.1,1.3,7.1,1.4,7.39
+2024-08-24,Everton,Premier League,Matchweek 2,Tottenham Hotspur Stadium,Home,4,0,W,James Maddison,7.7,1.0,False,8.5,0.9,3.1,1.3,7.1,1.4,7.39
+2024-08-24,Everton,Premier League,Matchweek 2,Tottenham Hotspur Stadium,Home,4,0,W,Dejan Kulusevski,8.3,1.0,False,8.5,0.9,3.1,1.3,7.1,1.4,7.39
+2024-08-24,Everton,Premier League,Matchweek 2,Tottenham Hotspur Stadium,Home,4,0,W,Yves Bissouma,8.5,0.9,False,8.5,0.9,3.1,1.3,7.1,1.4,7.39
+2024-08-24,Everton,Premier League,Matchweek 2,Tottenham Hotspur Stadium,Home,4,0,W,Christian Romero,8.7,0.9,False,8.5,0.9,3.1,1.3,7.1,1.4,7.39
+2024-08-24,Everton,Premier League,Matchweek 2,Tottenham Hotspur Stadium,Home,4,0,W,Heung-Min Son,8.8,0.9,False,8.5,0.9,3.1,1.3,7.1,1.4,7.39
+2024-08-24,Everton,Premier League,Matchweek 2,Tottenham Hotspur Stadium,Home,4,0,W,Micky Van de Ven,9.0,0.8,True,8.5,0.9,3.1,1.3,7.1,1.4,7.39
+2024-08-19,Leicester City,Premier League,Matchweek 1,King Power Stadium,Away,1,1,D,Brennan Johnson,3.8,1.9,False,4.9,1.7,4.8,1.6,6.4,1.9,5.59
+2024-08-19,Leicester City,Premier League,Matchweek 1,King Power Stadium,Away,1,1,D,Richarlison,4.2,1.7,False,4.9,1.7,4.8,1.6,6.4,1.9,5.59
+2024-08-19,Leicester City,Premier League,Matchweek 1,King Power Stadium,Away,1,1,D,Timo Werner,4.6,1.9,False,4.9,1.7,4.8,1.6,6.4,1.9,5.59
+2024-08-19,Leicester City,Premier League,Matchweek 1,King Power Stadium,Away,1,1,D,Heung-Min Son,4.8,1.6,False,4.9,1.7,4.8,1.6,6.4,1.9,5.59
+2024-08-19,Leicester City,Premier League,Matchweek 1,King Power Stadium,Away,1,1,D,Pape Matar Sarr,5.2,1.5,False,4.9,1.7,4.8,1.6,6.4,1.9,5.59
+2024-08-19,Leicester City,Premier League,Matchweek 1,King Power Stadium,Away,1,1,D,Dominic Solanke,5.2,1.7,False,4.9,1.7,4.8,1.6,6.4,1.9,5.59
+2024-08-19,Leicester City,Premier League,Matchweek 1,King Power Stadium,Away,1,1,D,Died Spence,5.2,1.2,False,4.9,1.7,4.8,1.6,6.4,1.9,5.59
+2024-08-19,Leicester City,Premier League,Matchweek 1,King Power Stadium,Away,1,1,D,Christian Romero,5.4,1.7,False,4.9,1.7,4.8,1.6,6.4,1.9,5.59
+2024-08-19,Leicester City,Premier League,Matchweek 1,King Power Stadium,Away,1,1,D,Destiny Udogie,5.5,1.5,False,4.9,1.7,4.8,1.6,6.4,1.9,5.59
+2024-08-19,Leicester City,Premier League,Matchweek 1,King Power Stadium,Away,1,1,D,Rodrigo Bentancur,5.5,1.4,False,4.9,1.7,4.8,1.6,6.4,1.9,5.59
+2024-08-19,Leicester City,Premier League,Matchweek 1,King Power Stadium,Away,1,1,D,Archie Gray,5.7,1.3,False,4.9,1.7,4.8,1.6,6.4,1.9,5.59
+2024-08-19,Leicester City,Premier League,Matchweek 1,King Power Stadium,Away,1,1,D,Dejan Kulusevski,6.1,1.5,False,4.9,1.7,4.8,1.6,6.4,1.9,5.59
+2024-08-19,Leicester City,Premier League,Matchweek 1,King Power Stadium,Away,1,1,D,Lucas Bergvall,6.2,1.6,False,4.9,1.7,4.8,1.6,6.4,1.9,5.59
+2024-08-19,Leicester City,Premier League,Matchweek 1,King Power Stadium,Away,1,1,D,Micky Van de Ven,6.7,1.3,False,4.9,1.7,4.8,1.6,6.4,1.9,5.59
+2024-08-19,Leicester City,Premier League,Matchweek 1,King Power Stadium,Away,1,1,D,James Maddison,6.7,1.6,False,4.9,1.7,4.8,1.6,6.4,1.9,5.59
+2024-08-19,Leicester City,Premier League,Matchweek 1,King Power Stadium,Away,1,1,D,Guglielmo Vicario,6.9,1.4,False,4.9,1.7,4.8,1.6,6.4,1.9,5.59
+2024-08-19,Leicester City,Premier League,Matchweek 1,King Power Stadium,Away,1,1,D,Pedro Porro,7.3,1.3,True,4.9,1.7,4.8,1.6,6.4,1.9,5.59
